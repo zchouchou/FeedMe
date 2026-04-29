@@ -1,0 +1,139 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4a8b6dfdae79921e8a0a90071a9e7944fe9f7fb16dff15c5d28e2e8c6902d19a/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .claude directory.<br><br>Language: Shell<br>Stars: 38383<br>Forks: 3016",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .claude directory.\nLanguage: Shell\nStars: 38383\nForks: 3016",
+      "creator": "mattpocock",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "abhigyanpatwari/GitNexus",
+      "link": "https://github.com/abhigyanpatwari/GitNexus",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c42040bff4c8c8afcbbcd87d534a555a1760dd5da38b148322a76f338990dfaf/abhigyanpatwari/GitNexus\" referrerpolicy=\"no-referrer\"><br>GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration<br><br>Language: TypeScript<br>Stars: 32733<br>Forks: 3713",
+      "contentSnippet": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration\nLanguage: TypeScript\nStars: 32733\nForks: 3713",
+      "creator": "abhigyanpatwari",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ComposioHQ/awesome-codex-skills",
+      "link": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ea85b3d974574f5a2b65d37cbaecb7b50384754f56bc856994ac7d247672fa31/ComposioHQ/awesome-codex-skills\" referrerpolicy=\"no-referrer\"><br>A curated list of practical Codex skills for automating workflows across the Codex CLI and API.<br><br>Language: Python<br>Stars: 4141<br>Forks: 264",
+      "contentSnippet": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.\nLanguage: Python\nStars: 4141\nForks: 264",
+      "creator": "ComposioHQ",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "microsoft/VibeVoice",
+      "link": "https://github.com/microsoft/VibeVoice",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1b8accd45a00f0f6877a7f00731b3547d6a89120afc1035c73d74e846ed52a3e/microsoft/VibeVoice\" referrerpolicy=\"no-referrer\"><br>Open-Source Frontier Voice AI<br><br>Language: Python<br>Stars: 44981<br>Forks: 4993",
+      "contentSnippet": "Open-Source Frontier Voice AI\nLanguage: Python\nStars: 44981\nForks: 4993",
+      "creator": "microsoft",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "davila7/claude-code-templates",
+      "link": "https://github.com/davila7/claude-code-templates",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/68c71f18b76a7f7ab72270c6a95c2b6ec8278dce28ea328c3dae8402637c2671/davila7/claude-code-templates\" referrerpolicy=\"no-referrer\"><br>CLI tool for configuring and monitoring Claude Code<br><br>Language: Python<br>Stars: 26211<br>Forks: 2617",
+      "contentSnippet": "CLI tool for configuring and monitoring Claude Code\nLanguage: Python\nStars: 26211\nForks: 2617",
+      "creator": "davila7",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "HunxByts/GhostTrack",
+      "link": "https://github.com/HunxByts/GhostTrack",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0a2ba68060e52104d8f10f4cb5ff4478b4d0fed11dd52075ce13f6aa0d74a54a/HunxByts/GhostTrack\" referrerpolicy=\"no-referrer\"><br>Useful tool to track location or mobile number<br><br>Language: Python<br>Stars: 10752<br>Forks: 1505",
+      "contentSnippet": "Useful tool to track location or mobile number\nLanguage: Python\nStars: 10752\nForks: 1505",
+      "creator": "HunxByts",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "fspecii/ace-step-ui",
+      "link": "https://github.com/fspecii/ace-step-ui",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1f1ac9364f0b160eee7dddf75af573bed4cec620346805e74d15cff4e406e4af/fspecii/ace-step-ui\" referrerpolicy=\"no-referrer\"><br>🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!<br><br>Language: JavaScript<br>Stars: 1795<br>Forks: 268",
+      "contentSnippet": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!\nLanguage: JavaScript\nStars: 1795\nForks: 268",
+      "creator": "fspecii",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "public-apis/public-apis",
+      "link": "https://github.com/public-apis/public-apis",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/54346799/e5ee272c-dfe1-40e5-b66b-b0a36e815254\" referrerpolicy=\"no-referrer\"><br>A collective list of free APIs<br><br>Language: Python<br>Stars: 428334<br>Forks: 46765",
+      "contentSnippet": "A collective list of free APIs\nLanguage: Python\nStars: 428334\nForks: 46765",
+      "creator": "public-apis",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "CJackHwang/ds2api",
+      "link": "https://github.com/CJackHwang/ds2api",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1b8accd45a00f0f6877a7f00731b3547d6a89120afc1035c73d74e846ed52a3e/CJackHwang/ds2api\" referrerpolicy=\"no-referrer\"><br>Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.<br><br>Language: Go<br>Stars: 2412<br>Forks: 658",
+      "contentSnippet": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.\nLanguage: Go\nStars: 2412\nForks: 658",
+      "creator": "CJackHwang",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Alishahryar1/free-claude-code",
+      "link": "https://github.com/Alishahryar1/free-claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/05adc6db3560bf414bf608a605ac2137f2e9b159d8b55681ad0624f41b815486/Alishahryar1/free-claude-code\" referrerpolicy=\"no-referrer\"><br>Use claude-code for free in the terminal, VSCode extension or via discord like openclaw<br><br>Language: Python<br>Stars: 17655<br>Forks: 2475",
+      "contentSnippet": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw\nLanguage: Python\nStars: 17655\nForks: 2475",
+      "creator": "Alishahryar1",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "donnemartin/system-design-primer",
+      "link": "https://github.com/donnemartin/system-design-primer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5ed026da9661d190b1465296965801f775e12d4f459fecaf901ccdb86eb260c8/donnemartin/system-design-primer\" referrerpolicy=\"no-referrer\"><br>Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.<br><br>Language: Python<br>Stars: 345929<br>Forks: 55836",
+      "contentSnippet": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.\nLanguage: Python\nStars: 345929\nForks: 55836",
+      "creator": "donnemartin",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "EbookFoundation/free-programming-books",
+      "link": "https://github.com/EbookFoundation/free-programming-books",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/488ca98b75aa1c124c6748251b2600f421bc2f3a0918e5801b819d6731f34c14/EbookFoundation/free-programming-books\" referrerpolicy=\"no-referrer\"><br>:books: Freely available programming books<br><br>Language: Python<br>Stars: 386709<br>Forks: 66163",
+      "contentSnippet": ":books: Freely available programming books\nLanguage: Python\nStars: 386709\nForks: 66163",
+      "creator": "EbookFoundation",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "iamgio/quarkdown",
+      "link": "https://github.com/iamgio/quarkdown",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/750550657/b0af8d7d-81a5-4a0c-8c5e-eaaebdefce60\" referrerpolicy=\"no-referrer\"><br>🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.<br><br>Language: Kotlin<br>Stars: 12155<br>Forks: 323",
+      "contentSnippet": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.\nLanguage: Kotlin\nStars: 12155\nForks: 323",
+      "creator": "iamgio",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-04-29T03:33:37.122Z"
+}

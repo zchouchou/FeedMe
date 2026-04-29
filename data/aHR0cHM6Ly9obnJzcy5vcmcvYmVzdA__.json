@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Before GitHub",
+      "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "pubDate": "Tue, 28 Apr 2026 21:17:40 +0000",
+      "isoDate": "2026-04-28T21:17:40.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/4/28/before-github/\">https://lucumr.pocoo.org/2026/4/28/before-github/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47940921\">https://news.ycombinator.com/item?id=47940921</a></p>\n<p>Points: 292</p>\n<p># Comments: 87</p>\n",
+      "contentSnippet": "Article URL: https://lucumr.pocoo.org/2026/4/28/before-github/\nComments URL: https://news.ycombinator.com/item?id=47940921\nPoints: 292\n# Comments: 87",
+      "creator": "mlex",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Ghostty is leaving GitHub",
+      "link": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "pubDate": "Tue, 28 Apr 2026 19:44:52 +0000",
+      "isoDate": "2026-04-28T19:44:52.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mitchellh.com/writing/ghostty-leaving-github\">https://mitchellh.com/writing/ghostty-leaving-github</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47939579\">https://news.ycombinator.com/item?id=47939579</a></p>\n<p>Points: 1860</p>\n<p># Comments: 578</p>\n",
+      "contentSnippet": "Article URL: https://mitchellh.com/writing/ghostty-leaving-github\nComments URL: https://news.ycombinator.com/item?id=47939579\nPoints: 1860\n# Comments: 578",
+      "creator": "WadeGrimridge",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Claude.ai unavailable and elevated errors on the API",
+      "link": "https://status.claude.com/incidents/9l93x2ht4s5w",
+      "pubDate": "Tue, 28 Apr 2026 18:01:21 +0000",
+      "isoDate": "2026-04-28T18:01:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://status.claude.com/incidents/9l93x2ht4s5w\">https://status.claude.com/incidents/9l93x2ht4s5w</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47938097\">https://news.ycombinator.com/item?id=47938097</a></p>\n<p>Points: 274</p>\n<p># Comments: 234</p>\n",
+      "contentSnippet": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w\nComments URL: https://news.ycombinator.com/item?id=47938097\nPoints: 274\n# Comments: 234",
+      "creator": "shorsher",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+      "link": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+      "pubDate": "Tue, 28 Apr 2026 16:15:43 +0000",
+      "isoDate": "2026-04-28T16:15:43.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854\">https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936479\">https://news.ycombinator.com/item?id=47936479</a></p>\n<p>Points: 264</p>\n<p># Comments: 63</p>\n",
+      "contentSnippet": "Article URL: https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854\nComments URL: https://news.ycombinator.com/item?id=47936479\nPoints: 264\n# Comments: 63",
+      "creator": "bo0tzz",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+      "pubDate": "Tue, 28 Apr 2026 15:49:22 +0000",
+      "isoDate": "2026-04-28T15:49:22.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal\">https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936156\">https://news.ycombinator.com/item?id=47936156</a></p>\n<p>Points: 276</p>\n<p># Comments: 258</p>\n",
+      "contentSnippet": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal\nComments URL: https://news.ycombinator.com/item?id=47936156\nPoints: 276\n# Comments: 258",
+      "creator": "granzymes",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Your phone is about to stop being yours",
+      "link": "https://keepandroidopen.org/en/",
+      "pubDate": "Tue, 28 Apr 2026 15:21:00 +0000",
+      "isoDate": "2026-04-28T15:21:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://keepandroidopen.org/en/\">https://keepandroidopen.org/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47935853\">https://news.ycombinator.com/item?id=47935853</a></p>\n<p>Points: 1050</p>\n<p># Comments: 499</p>\n",
+      "contentSnippet": "Article URL: https://keepandroidopen.org/en/\nComments URL: https://news.ycombinator.com/item?id=47935853\nPoints: 1050\n# Comments: 499",
+      "creator": "doener",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership",
+      "link": "https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/",
+      "pubDate": "Tue, 28 Apr 2026 13:26:26 +0000",
+      "isoDate": "2026-04-28T13:26:26.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/\">https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47934269\">https://news.ycombinator.com/item?id=47934269</a></p>\n<p>Points: 279</p>\n<p># Comments: 104</p>\n",
+      "contentSnippet": "Article URL: https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/\nComments URL: https://news.ycombinator.com/item?id=47934269\nPoints: 279\n# Comments: 104",
+      "creator": "BoggleOhYeah",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "UAE Leaves OPEC",
+      "link": "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/",
+      "pubDate": "Tue, 28 Apr 2026 13:13:54 +0000",
+      "isoDate": "2026-04-28T13:13:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/\">https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47934120\">https://news.ycombinator.com/item?id=47934120</a></p>\n<p>Points: 314</p>\n<p># Comments: 2</p>\n",
+      "contentSnippet": "Article URL: https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/\nComments URL: https://news.ycombinator.com/item?id=47934120\nPoints: 314\n# Comments: 2",
+      "creator": "TechTechTech",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "UAE to leave OPEC",
+      "link": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
+      "pubDate": "Tue, 28 Apr 2026 13:02:01 +0000",
+      "isoDate": "2026-04-28T13:02:01.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/d956y\" rel=\"nofollow\">https://archive.ph/d956y</a><p><a href=\"https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/\" rel=\"nofollow\">https://www.reuters.com/markets/commodities/uae-says-it-quit...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47933983\">https://news.ycombinator.com/item?id=47933983</a></p>\n<p>Points: 357</p>\n<p># Comments: 491</p>\n",
+      "contentSnippet": "https://archive.ph/d956y\nhttps://www.reuters.com/markets/commodities/uae-says-it-quit...\nComments URL: https://news.ycombinator.com/item?id=47933983\nPoints: 357\n# Comments: 491",
+      "creator": "bazzmt",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "VibeVoice: Open-source frontier voice AI",
+      "link": "https://github.com/microsoft/VibeVoice",
+      "pubDate": "Tue, 28 Apr 2026 11:56:04 +0000",
+      "isoDate": "2026-04-28T11:56:04.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/microsoft/VibeVoice\">https://github.com/microsoft/VibeVoice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47933236\">https://news.ycombinator.com/item?id=47933236</a></p>\n<p>Points: 332</p>\n<p># Comments: 168</p>\n",
+      "contentSnippet": "Article URL: https://github.com/microsoft/VibeVoice\nComments URL: https://news.ycombinator.com/item?id=47933236\nPoints: 332\n# Comments: 168",
+      "creator": "tosh",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "link": "https://github.com/localsend/localsend",
+      "pubDate": "Tue, 28 Apr 2026 11:54:20 +0000",
+      "isoDate": "2026-04-28T11:54:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/localsend/localsend\">https://github.com/localsend/localsend</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47933208\">https://news.ycombinator.com/item?id=47933208</a></p>\n<p>Points: 753</p>\n<p># Comments: 235</p>\n",
+      "contentSnippet": "Article URL: https://github.com/localsend/localsend\nComments URL: https://news.ycombinator.com/item?id=47933208\nPoints: 753\n# Comments: 235",
+      "creator": "bilsbie",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Period tracking app, Flo, found to be selling user data to Meta",
+      "link": "https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been",
+      "pubDate": "Tue, 28 Apr 2026 11:31:40 +0000",
+      "isoDate": "2026-04-28T11:31:40.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been\">https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47932990\">https://news.ycombinator.com/item?id=47932990</a></p>\n<p>Points: 335</p>\n<p># Comments: 219</p>\n",
+      "contentSnippet": "Article URL: https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been\nComments URL: https://news.ycombinator.com/item?id=47932990\nPoints: 335\n# Comments: 219",
+      "creator": "campuscodi",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Who owns the code Claude Code wrote?",
+      "link": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+      "pubDate": "Tue, 28 Apr 2026 11:24:52 +0000",
+      "isoDate": "2026-04-28T11:24:52.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://legallayer.substack.com/p/who-owns-the-claude-code-wrote\">https://legallayer.substack.com/p/who-owns-the-claude-code-wrote</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47932937\">https://news.ycombinator.com/item?id=47932937</a></p>\n<p>Points: 279</p>\n<p># Comments: 307</p>\n",
+      "contentSnippet": "Article URL: https://legallayer.substack.com/p/who-owns-the-claude-code-wrote\nComments URL: https://news.ycombinator.com/item?id=47932937\nPoints: 279\n# Comments: 307",
+      "creator": "senaevren",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "An update on GitHub availability",
+      "link": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+      "pubDate": "Tue, 28 Apr 2026 10:05:03 +0000",
+      "isoDate": "2026-04-28T10:05:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.blog/news-insights/company-news/an-update-on-github-availability/\">https://github.blog/news-insights/company-news/an-update-on-github-availability/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47932422\">https://news.ycombinator.com/item?id=47932422</a></p>\n<p>Points: 326</p>\n<p># Comments: 214</p>\n",
+      "contentSnippet": "Article URL: https://github.blog/news-insights/company-news/an-update-on-github-availability/\nComments URL: https://news.ycombinator.com/item?id=47932422\nPoints: 326\n# Comments: 214",
+      "creator": "salkahfi",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "GTFOBins",
+      "link": "https://gtfobins.org/",
+      "pubDate": "Tue, 28 Apr 2026 06:27:39 +0000",
+      "isoDate": "2026-04-28T06:27:39.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://gtfobins.org/\">https://gtfobins.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47931035\">https://news.ycombinator.com/item?id=47931035</a></p>\n<p>Points: 341</p>\n<p># Comments: 87</p>\n",
+      "contentSnippet": "Article URL: https://gtfobins.org/\nComments URL: https://news.ycombinator.com/item?id=47931035\nPoints: 341\n# Comments: 87",
+      "creator": "StefanBatory",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "To my students",
+      "link": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+      "pubDate": "Mon, 27 Apr 2026 23:57:39 +0000",
+      "isoDate": "2026-04-27T23:57:39.000Z",
+      "content": "\n<p>Article URL: <a href=\"http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml\">http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47928828\">https://news.ycombinator.com/item?id=47928828</a></p>\n<p>Points: 324</p>\n<p># Comments: 196</p>\n",
+      "contentSnippet": "Article URL: http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml\nComments URL: https://news.ycombinator.com/item?id=47928828\nPoints: 324\n# Comments: 196",
+      "creator": "marvinborner",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "link": "https://talkie-lm.com/introducing-talkie",
+      "pubDate": "Mon, 27 Apr 2026 21:55:48 +0000",
+      "isoDate": "2026-04-27T21:55:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://talkie-lm.com/introducing-talkie\">https://talkie-lm.com/introducing-talkie</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47927903\">https://news.ycombinator.com/item?id=47927903</a></p>\n<p>Points: 649</p>\n<p># Comments: 262</p>\n",
+      "contentSnippet": "Article URL: https://talkie-lm.com/introducing-talkie\nComments URL: https://news.ycombinator.com/item?id=47927903\nPoints: 649\n# Comments: 262",
+      "creator": "jekude",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Is my blue your blue? (2024)",
+      "link": "https://ismy.blue/",
+      "pubDate": "Mon, 27 Apr 2026 20:24:33 +0000",
+      "isoDate": "2026-04-27T20:24:33.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ismy.blue/\">https://ismy.blue/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47926861\">https://news.ycombinator.com/item?id=47926861</a></p>\n<p>Points: 673</p>\n<p># Comments: 459</p>\n",
+      "contentSnippet": "Article URL: https://ismy.blue/\nComments URL: https://news.ycombinator.com/item?id=47926861\nPoints: 673\n# Comments: 459",
+      "creator": "theogravity",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Super ZSNES – GPU Powered SNES Emulator",
+      "link": "https://zsnes.com/",
+      "pubDate": "Mon, 27 Apr 2026 17:50:10 +0000",
+      "isoDate": "2026-04-27T17:50:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://zsnes.com/\">https://zsnes.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47924877\">https://news.ycombinator.com/item?id=47924877</a></p>\n<p>Points: 332</p>\n<p># Comments: 107</p>\n",
+      "contentSnippet": "Article URL: https://zsnes.com/\nComments URL: https://news.ycombinator.com/item?id=47924877\nPoints: 332\n# Comments: 107",
+      "creator": "haunter",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "GitHub is having issues now",
+      "link": "https://www.githubstatus.com",
+      "pubDate": "Mon, 27 Apr 2026 17:42:19 +0000",
+      "isoDate": "2026-04-27T17:42:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.githubstatus.com\">https://www.githubstatus.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47924775\">https://news.ycombinator.com/item?id=47924775</a></p>\n<p>Points: 324</p>\n<p># Comments: 121</p>\n",
+      "contentSnippet": "Article URL: https://www.githubstatus.com\nComments URL: https://news.ycombinator.com/item?id=47924775\nPoints: 324\n# Comments: 121",
+      "creator": "SenHeng",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "pubDate": "Mon, 27 Apr 2026 16:03:08 +0000",
+      "isoDate": "2026-04-27T16:03:08.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\">https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47923357\">https://news.ycombinator.com/item?id=47923357</a></p>\n<p>Points: 748</p>\n<p># Comments: 549</p>\n",
+      "contentSnippet": "Article URL: https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\nComments URL: https://news.ycombinator.com/item?id=47923357\nPoints: 748\n# Comments: 549",
+      "creator": "frizlab",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Dutch central bank ditches AWS and chooses Lidl for European Cloud",
+      "link": "https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/",
+      "pubDate": "Mon, 27 Apr 2026 15:12:41 +0000",
+      "isoDate": "2026-04-27T15:12:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/\">https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47922712\">https://news.ycombinator.com/item?id=47922712</a></p>\n<p>Points: 353</p>\n<p># Comments: 147</p>\n",
+      "contentSnippet": "Article URL: https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/\nComments URL: https://news.ycombinator.com/item?id=47922712\nPoints: 353\n# Comments: 147",
+      "creator": "benterix",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "“Why not just use Lean?”",
+      "link": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
+      "pubDate": "Mon, 27 Apr 2026 14:24:53 +0000",
+      "isoDate": "2026-04-27T14:24:53.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html\">https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47922079\">https://news.ycombinator.com/item?id=47922079</a></p>\n<p>Points: 298</p>\n<p># Comments: 204</p>\n",
+      "contentSnippet": "Article URL: https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html\nComments URL: https://news.ycombinator.com/item?id=47922079\nPoints: 298\n# Comments: 204",
+      "creator": "ibobev",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "pubDate": "Mon, 27 Apr 2026 13:22:42 +0000",
+      "isoDate": "2026-04-27T13:22:42.000Z",
+      "content": "\n<p>Gift Article: <a href=\"https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NzI5NjE3MiwiZXhwIjoxNzc3OTAwOTcyLCJhcnRpY2xlSWQiOiJURTVMT0lLSzNOWUkwMCIsImJjb25uZWN0SWQiOiJDN0U3REM1Q0MxRTQ0NzM0QkY2MzYxQjY5QzgxN0UzMyJ9.mkOwEicK1kMLb-h6ZjkN4u-DsF55439rrFad0m1lqZM\" rel=\"nofollow\">https://www.bloomberg.com/news/articles/2026-04-27/microsoft...</a><p><a href=\"https://openai.com/index/next-phase-of-microsoft-partnership/\" rel=\"nofollow\">https://openai.com/index/next-phase-of-microsoft-partnership...</a><p><a href=\"https://x.com/ajassy/status/2048806022253609115\" rel=\"nofollow\">https://x.com/ajassy/status/2048806022253609115</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47921248\">https://news.ycombinator.com/item?id=47921248</a></p>\n<p>Points: 966</p>\n<p># Comments: 834</p>\n",
+      "contentSnippet": "Gift Article: https://www.bloomberg.com/news/articles/2026-04-27/microsoft...\nhttps://openai.com/index/next-phase-of-microsoft-partnership...\nhttps://x.com/ajassy/status/2048806022253609115\nComments URL: https://news.ycombinator.com/item?id=47921248\nPoints: 966\n# Comments: 834",
+      "creator": "helsinkiandrew",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+      "link": "https://github.com/dirac-run/dirac",
+      "pubDate": "Mon, 27 Apr 2026 12:35:55 +0000",
+      "isoDate": "2026-04-27T12:35:55.000Z",
+      "content": "\n<p>Scored 65.2% vs google's official 47.8%, and the existing top closed source model Junie CLI's 64.3%.<p>Since there are a lot of reports of deliberate cheating on TerminalBench 2.0 lately (<a href=\"https://debugml.github.io/cheating-agents/\" rel=\"nofollow\">https://debugml.github.io/cheating-agents/</a>), I would like to also clarify a few things<p>1. Absolutely no {agents/skills}.md files were inserted at any point. No cheating mechanisms whatsoever<p>2. The cli agent was run in leaderboard compliant way (no modification of resources or timeouts)<p>3. The full terminal bench run was done using the fully open source version of the agent, no difference between what is on github and what was run.<p>I was originally going to wait for it to land on the leaderboard, but it has been 8 days and the maintainers do not respond unfortunately (there is a large backlog of the pull requests on their HF) so I decided to post anyways.<p>HF PR: <a href=\"https://huggingface.co/datasets/harborframework/terminal-bench-2-leaderboard/discussions/145\" rel=\"nofollow\">https://huggingface.co/datasets/harborframework/terminal-ben...</a><p>It is astounding how much the harness matters, based on this and other experiments I have done.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47920787\">https://news.ycombinator.com/item?id=47920787</a></p>\n<p>Points: 367</p>\n<p># Comments: 141</p>\n",
+      "contentSnippet": "Scored 65.2% vs google's official 47.8%, and the existing top closed source model Junie CLI's 64.3%.\nSince there are a lot of reports of deliberate cheating on TerminalBench 2.0 lately (https://debugml.github.io/cheating-agents/), I would like to also clarify a few things\n1. Absolutely no {agents/skills}.md files were inserted at any point. No cheating mechanisms whatsoever\n2. The cli agent was run in leaderboard compliant way (no modification of resources or timeouts)\n3. The full terminal bench run was done using the fully open source version of the agent, no difference between what is on github and what was run.\nI was originally going to wait for it to land on the leaderboard, but it has been 8 days and the maintainers do not respond unfortunately (there is a large backlog of the pull requests on their HF) so I decided to post anyways.\nHF PR: https://huggingface.co/datasets/harborframework/terminal-ben...\nIt is astounding how much the harness matters, based on this and other experiments I have done.\nComments URL: https://news.ycombinator.com/item?id=47920787\nPoints: 367\n# Comments: 141",
+      "creator": "GodelNumbering",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "China blocks Meta's acquisition of AI startup Manus",
+      "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+      "pubDate": "Mon, 27 Apr 2026 11:43:59 +0000",
+      "isoDate": "2026-04-27T11:43:59.000Z",
+      "content": "\n<p><a href=\"https://www.reuters.com/world/asia-pacific/china-blocks-foreign-acquisition-ai-startup-manus-2026-04-27/\" rel=\"nofollow\">https://www.reuters.com/world/asia-pacific/china-blocks-fore...</a><p><a href=\"https://www.bbc.com/news/articles/cj0v0gr2yz7o\" rel=\"nofollow\">https://www.bbc.com/news/articles/cj0v0gr2yz7o</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47920315\">https://news.ycombinator.com/item?id=47920315</a></p>\n<p>Points: 392</p>\n<p># Comments: 320</p>\n",
+      "contentSnippet": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...\nhttps://www.bbc.com/news/articles/cj0v0gr2yz7o\nComments URL: https://news.ycombinator.com/item?id=47920315\nPoints: 392\n# Comments: 320",
+      "creator": "yakkomajuri",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Men who stare at walls",
+      "link": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+      "pubDate": "Mon, 27 Apr 2026 11:08:26 +0000",
+      "isoDate": "2026-04-27T11:08:26.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.alexselimov.com/posts/men_who_stare_at_walls/\">https://www.alexselimov.com/posts/men_who_stare_at_walls/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47920074\">https://news.ycombinator.com/item?id=47920074</a></p>\n<p>Points: 691</p>\n<p># Comments: 325</p>\n",
+      "contentSnippet": "Article URL: https://www.alexselimov.com/posts/men_who_stare_at_walls/\nComments URL: https://news.ycombinator.com/item?id=47920074\nPoints: 691\n# Comments: 325",
+      "creator": "aselimov3",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Pgbackrest is no longer being maintained",
+      "link": "https://github.com/pgbackrest/pgbackrest",
+      "pubDate": "Mon, 27 Apr 2026 10:56:34 +0000",
+      "isoDate": "2026-04-27T10:56:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/pgbackrest/pgbackrest\">https://github.com/pgbackrest/pgbackrest</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47919997\">https://news.ycombinator.com/item?id=47919997</a></p>\n<p>Points: 445</p>\n<p># Comments: 227</p>\n",
+      "contentSnippet": "Article URL: https://github.com/pgbackrest/pgbackrest\nComments URL: https://news.ycombinator.com/item?id=47919997\nPoints: 445\n# Comments: 227",
+      "creator": "c0l0",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "link": "https://app.oravys.com/blog/mercor-breach-2026",
+      "pubDate": "Mon, 27 Apr 2026 09:57:10 +0000",
+      "isoDate": "2026-04-27T09:57:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://app.oravys.com/blog/mercor-breach-2026\">https://app.oravys.com/blog/mercor-breach-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47919630\">https://news.ycombinator.com/item?id=47919630</a></p>\n<p>Points: 585</p>\n<p># Comments: 222</p>\n",
+      "contentSnippet": "Article URL: https://app.oravys.com/blog/mercor-breach-2026\nComments URL: https://news.ycombinator.com/item?id=47919630\nPoints: 585\n# Comments: 222",
+      "creator": "Oravys",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Quarkdown – Markdown with Superpowers",
+      "link": "https://quarkdown.com/",
+      "pubDate": "Mon, 27 Apr 2026 08:54:57 +0000",
+      "isoDate": "2026-04-27T08:54:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://quarkdown.com/\">https://quarkdown.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47919240\">https://news.ycombinator.com/item?id=47919240</a></p>\n<p>Points: 344</p>\n<p># Comments: 136</p>\n",
+      "contentSnippet": "Article URL: https://quarkdown.com/\nComments URL: https://news.ycombinator.com/item?id=47919240\nPoints: 344\n# Comments: 136",
+      "creator": "amai",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-04-29T03:32:38.734Z"
+}

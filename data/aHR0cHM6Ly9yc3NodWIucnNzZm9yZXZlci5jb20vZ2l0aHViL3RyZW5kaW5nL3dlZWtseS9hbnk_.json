@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "Alishahryar1/free-claude-code",
+      "link": "https://github.com/Alishahryar1/free-claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/05adc6db3560bf414bf608a605ac2137f2e9b159d8b55681ad0624f41b815486/Alishahryar1/free-claude-code\" referrerpolicy=\"no-referrer\"><br>Use claude-code for free in the terminal, VSCode extension or via discord like openclaw<br><br>Language: Python<br>Stars: 17655<br>Forks: 2475",
+      "contentSnippet": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw\nLanguage: Python\nStars: 17655\nForks: 2475",
+      "creator": "Alishahryar1",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/617f39d018a43cb3e46e86a947ff7eb63582ed3f6ba3bcd860c0a40c39492b92/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .claude directory.<br><br>Language: Shell<br>Stars: 38384<br>Forks: 3016",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .claude directory.\nLanguage: Shell\nStars: 38384\nForks: 3016",
+      "creator": "mattpocock",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Z4nzu/hackingtool",
+      "link": "https://github.com/Z4nzu/hackingtool",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/254832799/05316380-baf8-11ea-95d8-813b0e4100a3\" referrerpolicy=\"no-referrer\"><br>ALL IN ONE Hacking Tool For Hackers<br><br>Language: Python<br>Stars: 68080<br>Forks: 7632",
+      "contentSnippet": "ALL IN ONE Hacking Tool For Hackers\nLanguage: Python\nStars: 68080\nForks: 7632",
+      "creator": "Z4nzu",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "forrestchang/andrej-karpathy-skills",
+      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/163a83a6fd3aea4e80b2b8a6c0e1cb8c896b84ebd05ec22479ef3ad1292fa544/forrestchang/andrej-karpathy-skills\" referrerpolicy=\"no-referrer\"><br>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.<br><br>Language: Unknown<br>Stars: 97231<br>Forks: 9447",
+      "contentSnippet": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.\nLanguage: Unknown\nStars: 97231\nForks: 9447",
+      "creator": "forrestchang",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "zilliztech/claude-context",
+      "link": "https://github.com/zilliztech/claude-context",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8e025d460cf0a2c7572aa7ed74ebf9e6699f1b94dea2d0f2b6c78356a087d1f5/zilliztech/claude-context\" referrerpolicy=\"no-referrer\"><br>Code search MCP for Claude Code. Make entire codebase the context for any coding agent.<br><br>Language: TypeScript<br>Stars: 10132<br>Forks: 754",
+      "contentSnippet": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.\nLanguage: TypeScript\nStars: 10132\nForks: 754",
+      "creator": "zilliztech",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Fincept-Corporation/FinceptTerminal",
+      "link": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/10f6f3c95288babe0d2fbe576107c2e50bbb7a4280853a703c98b9e9a90d32af/Fincept-Corporation/FinceptTerminal\" referrerpolicy=\"no-referrer\"><br>FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.<br><br>Language: Python<br>Stars: 17290<br>Forks: 2348",
+      "contentSnippet": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.\nLanguage: Python\nStars: 17290\nForks: 2348",
+      "creator": "Fincept-Corporation",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "AIDC-AI/Pixelle-Video",
+      "link": "https://github.com/AIDC-AI/Pixelle-Video",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/61b45df33f54f0673388e7512303aece17bee4a2d38409f5d2b5f28fd97a9606/AIDC-AI/Pixelle-Video\" referrerpolicy=\"no-referrer\"><br>🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine<br><br>Language: Python<br>Stars: 7406<br>Forks: 1199",
+      "contentSnippet": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine\nLanguage: Python\nStars: 7406\nForks: 1199",
+      "creator": "AIDC-AI",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Anil-matcha/Open-Generative-AI",
+      "link": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7699c45201fc6ad294c3d8d9b22086e2fd4774d769a7e80c3ab34fddfeb3ff23/Anil-matcha/Open-Generative-AI\" referrerpolicy=\"no-referrer\"><br>Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.<br><br>Language: JavaScript<br>Stars: 9812<br>Forks: 1734",
+      "contentSnippet": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.\nLanguage: JavaScript\nStars: 9812\nForks: 1734",
+      "creator": "Anil-matcha",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "lsdefine/GenericAgent",
+      "link": "https://github.com/lsdefine/GenericAgent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/25f0859df01b79e4fcb33751afb4b1fad6b2c38ad81d65d311cd36b48808705a/lsdefine/GenericAgent\" referrerpolicy=\"no-referrer\"><br>Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption<br><br>Language: Python<br>Stars: 8044<br>Forks: 922",
+      "contentSnippet": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption\nLanguage: Python\nStars: 8044\nForks: 922",
+      "creator": "lsdefine",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "HKUDS/RAG-Anything",
+      "link": "https://github.com/HKUDS/RAG-Anything",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/346b10d6da6c0ac766a6d77f7caa5f9c48bc24703114ae8d060404d75c868c9b/HKUDS/RAG-Anything\" referrerpolicy=\"no-referrer\"><br>\"RAG-Anything: All-in-One RAG Framework\"<br><br>Language: Python<br>Stars: 19288<br>Forks: 2191",
+      "contentSnippet": "\"RAG-Anything: All-in-One RAG Framework\"\nLanguage: Python\nStars: 19288\nForks: 2191",
+      "creator": "HKUDS",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Tracer-Cloud/opensre",
+      "link": "https://github.com/Tracer-Cloud/opensre",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1133141258/df87c4d3-4ff2-4530-9fa3-48f708e92c43\" referrerpolicy=\"no-referrer\"><br>Build your own AI SRE agents. The open source toolkit for the AI era ✨ <br><br>Language: Python<br>Stars: 3833<br>Forks: 429",
+      "contentSnippet": "Build your own AI SRE agents. The open source toolkit for the AI era ✨ \nLanguage: Python\nStars: 3833\nForks: 429",
+      "creator": "Tracer-Cloud",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "CJackHwang/ds2api",
+      "link": "https://github.com/CJackHwang/ds2api",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1b8accd45a00f0f6877a7f00731b3547d6a89120afc1035c73d74e846ed52a3e/CJackHwang/ds2api\" referrerpolicy=\"no-referrer\"><br>Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.<br><br>Language: Go<br>Stars: 2412<br>Forks: 658",
+      "contentSnippet": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.\nLanguage: Go\nStars: 2412\nForks: 658",
+      "creator": "CJackHwang",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "GyulyVGC/sniffnet",
+      "link": "https://github.com/GyulyVGC/sniffnet",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/519895363/53b57d97-a36d-4095-8ac7-700361dbd6fb\" referrerpolicy=\"no-referrer\"><br>Comfortably monitor your Internet traffic 🕵️‍♂️<br><br>Language: Rust<br>Stars: 36762<br>Forks: 1450",
+      "contentSnippet": "Comfortably monitor your Internet traffic 🕵️‍♂️\nLanguage: Rust\nStars: 36762\nForks: 1450",
+      "creator": "GyulyVGC",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9f596fe8dfd438340c2e5ed313f1768cbcde9b330e61609b304ad2dc0002a0cd/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: Shell<br>Stars: 25445<br>Forks: 3150",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: Shell\nStars: 25445\nForks: 3150",
+      "creator": "addyosmani",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-04-29T03:33:59.170Z"
+}
