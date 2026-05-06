@@ -1,0 +1,159 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "Hmbown/DeepSeek-TUI",
+      "link": "https://github.com/Hmbown/DeepSeek-TUI",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/dbb60aaf208eab59f95d566b56c57f4023db38fa07588fa55e4b4c1849d4c9fb/Hmbown/DeepSeek-TUI\" referrerpolicy=\"no-referrer\"><br>Coding agent for DeepSeek models that runs in your terminal<br><br>Language: Rust<br>Stars: 8666<br>Forks: 664",
+      "contentSnippet": "Coding agent for DeepSeek models that runs in your terminal\nLanguage: Rust\nStars: 8666\nForks: 664",
+      "creator": "Hmbown",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ruvnet/ruflo",
+      "link": "https://github.com/ruvnet/ruflo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db\" referrerpolicy=\"no-referrer\"><br>🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration<br><br>Language: TypeScript<br>Stars: 43945<br>Forks: 4885",
+      "contentSnippet": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration\nLanguage: TypeScript\nStars: 43945\nForks: 4885",
+      "creator": "ruvnet",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "virattt/dexter",
+      "link": "https://github.com/virattt/dexter",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/787c757911ecb954439b7e7e74ba55a50cdf05af89bf33eadc54e728d8404ee8/virattt/dexter\" referrerpolicy=\"no-referrer\"><br>An autonomous agent for deep financial research<br><br>Language: TypeScript<br>Stars: 23895<br>Forks: 2910",
+      "contentSnippet": "An autonomous agent for deep financial research\nLanguage: TypeScript\nStars: 23895\nForks: 2910",
+      "creator": "virattt",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "docusealco/docuseal",
+      "link": "https://github.com/docusealco/docuseal",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/661850205/377ad724-388b-487b-a27a-a3c5373b4d65\" referrerpolicy=\"no-referrer\"><br>Open source DocuSign alternative. Create, fill, and sign digital documents ✍️<br><br>Language: Ruby<br>Stars: 14109<br>Forks: 1273",
+      "contentSnippet": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️\nLanguage: Ruby\nStars: 14109\nForks: 1273",
+      "creator": "docusealco",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "bwya77/vscode-dark-islands",
+      "link": "https://github.com/bwya77/vscode-dark-islands",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e69797f2dc014f85a8d552c716e31025437c7854a35579a6b2d21517a4f7e9f6/bwya77/vscode-dark-islands\" referrerpolicy=\"no-referrer\"><br>VSCode theme based off the easemate IDE and Jetbrains islands theme<br><br>Language: PowerShell<br>Stars: 7923<br>Forks: 240",
+      "contentSnippet": "VSCode theme based off the easemate IDE and Jetbrains islands theme\nLanguage: PowerShell\nStars: 7923\nForks: 240",
+      "creator": "bwya77",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "link": "https://github.com/mksglu/context-mode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e2233ab574271409dbfe0f0ea91f075361e5cdcf1d2f7b888bf8c2ba24a52bc5/mksglu/context-mode\" referrerpolicy=\"no-referrer\"><br>Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms<br><br>Language: TypeScript<br>Stars: 13168<br>Forks: 901",
+      "contentSnippet": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms\nLanguage: TypeScript\nStars: 13168\nForks: 901",
+      "creator": "mksglu",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "cocoindex-io/cocoindex",
+      "link": "https://github.com/cocoindex-io/cocoindex",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/33a6e05da09d85590f3aebbb46e9a23f095c2b9617483a2b100e2075ca552745/cocoindex-io/cocoindex\" referrerpolicy=\"no-referrer\"><br>Incremental engine for long horizon agents 🌟 Star if you like it!<br><br>Language: Python<br>Stars: 8451<br>Forks: 620",
+      "contentSnippet": "Incremental engine for long horizon agents 🌟 Star if you like it!\nLanguage: Python\nStars: 8451\nForks: 620",
+      "creator": "cocoindex-io",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "msitarzewski/agency-agents",
+      "link": "https://github.com/msitarzewski/agency-agents",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/de74f884522e6bb6366189b2b76294464c2185d826ccaeb82c29f82dd8d85fce/msitarzewski/agency-agents\" referrerpolicy=\"no-referrer\"><br>A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.<br><br>Language: Shell<br>Stars: 93786<br>Forks: 15434",
+      "contentSnippet": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\nLanguage: Shell\nStars: 93786\nForks: 15434",
+      "creator": "msitarzewski",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "jwasham/coding-interview-university",
+      "link": "https://github.com/jwasham/coding-interview-university",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/60493101/4ed59900-87ab-11ea-9e39-99741f040a83\" referrerpolicy=\"no-referrer\"><br>A complete computer science study plan to become a software engineer.<br><br>Language: Unknown<br>Stars: 345909<br>Forks: 82744",
+      "contentSnippet": "A complete computer science study plan to become a software engineer.\nLanguage: Unknown\nStars: 345909\nForks: 82744",
+      "creator": "jwasham",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Arindam200/awesome-ai-apps",
+      "link": "https://github.com/Arindam200/awesome-ai-apps",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/933701586/6f7ea6f6-8604-4320-8271-0732a272536f\" referrerpolicy=\"no-referrer\"><br>A collection of projects showcasing RAG, agents, workflows, and other AI use cases<br><br>Language: Python<br>Stars: 11455<br>Forks: 1481",
+      "contentSnippet": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases\nLanguage: Python\nStars: 11455\nForks: 1481",
+      "creator": "Arindam200",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "AIDC-AI/Pixelle-Video",
+      "link": "https://github.com/AIDC-AI/Pixelle-Video",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4ba1296bf6be12e1c6fa3467b1327db7a2e9876ddec715bc222d68cb54d61c2f/AIDC-AI/Pixelle-Video\" referrerpolicy=\"no-referrer\"><br>🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine<br><br>Language: Python<br>Stars: 11977<br>Forks: 1836",
+      "contentSnippet": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine\nLanguage: Python\nStars: 11977\nForks: 1836",
+      "creator": "AIDC-AI",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "LearningCircuit/local-deep-research",
+      "link": "https://github.com/LearningCircuit/local-deep-research",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2e11056d514a5b3f23535af2a32bc7d35646e5c29884665c3ff185a13511fe26/LearningCircuit/local-deep-research\" referrerpolicy=\"no-referrer\"><br> ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.<br><br>Language: Python<br>Stars: 5231<br>Forks: 484",
+      "contentSnippet": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.\nLanguage: Python\nStars: 5231\nForks: 484",
+      "creator": "LearningCircuit",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "browserbase/skills",
+      "link": "https://github.com/browserbase/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/dbb60aaf208eab59f95d566b56c57f4023db38fa07588fa55e4b4c1849d4c9fb/browserbase/skills\" referrerpolicy=\"no-referrer\"><br>Claude Agent SDK with a web browsing tool<br><br>Language: JavaScript<br>Stars: 2433<br>Forks: 153",
+      "contentSnippet": "Claude Agent SDK with a web browsing tool\nLanguage: JavaScript\nStars: 2433\nForks: 153",
+      "creator": "browserbase",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "forrestchang/andrej-karpathy-skills",
+      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/59b0748be70057294cdf7eabd938b9d9eb46cca607d6b2d5bc2cdf710475ac71/forrestchang/andrej-karpathy-skills\" referrerpolicy=\"no-referrer\"><br>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.<br><br>Language: Unknown<br>Stars: 114409<br>Forks: 11441",
+      "contentSnippet": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.\nLanguage: Unknown\nStars: 114409\nForks: 11441",
+      "creator": "forrestchang",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "PriorLabs/TabPFN",
+      "link": "https://github.com/PriorLabs/TabPFN",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5dd558b2598b88d55b12cf645259d3f7cc3221c5dbbee9636c0631e46a5c97e3/PriorLabs/TabPFN\" referrerpolicy=\"no-referrer\"><br>⚡ TabPFN: Foundation Model for Tabular Data ⚡<br><br>Language: Python<br>Stars: 6395<br>Forks: 641",
+      "contentSnippet": "⚡ TabPFN: Foundation Model for Tabular Data ⚡\nLanguage: Python\nStars: 6395\nForks: 641",
+      "creator": "PriorLabs",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-05-06T03:39:55.326Z"
+}

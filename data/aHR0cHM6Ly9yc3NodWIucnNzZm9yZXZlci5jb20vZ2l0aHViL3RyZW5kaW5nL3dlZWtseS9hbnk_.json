@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "warpdotdev/warp",
+      "link": "https://github.com/warpdotdev/warp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/384219990/b575e759-fc36-4fd6-b41f-ece62db004fe\" referrerpolicy=\"no-referrer\"><br>Warp is an agentic development environment, born out of the terminal.<br><br>Language: Rust<br>Stars: 55126<br>Forks: 3984",
+      "contentSnippet": "Warp is an agentic development environment, born out of the terminal.\nLanguage: Rust\nStars: 55126\nForks: 3984",
+      "creator": "warpdotdev",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/03fb4f699a973b3b88b6b1b4e1293733dff125c747a00fa1b9d51e57ac3379d2/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .claude directory.<br><br>Language: Shell<br>Stars: 61297<br>Forks: 5278",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .claude directory.\nLanguage: Shell\nStars: 61297\nForks: 5278",
+      "creator": "mattpocock",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "TauricResearch/TradingAgents",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1\" referrerpolicy=\"no-referrer\"><br>TradingAgents: Multi-Agents LLM Financial Trading Framework<br><br>Language: Python<br>Stars: 69518<br>Forks: 13405",
+      "contentSnippet": "TradingAgents: Multi-Agents LLM Financial Trading Framework\nLanguage: Python\nStars: 69518\nForks: 13405",
+      "creator": "TauricResearch",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "soxoj/maigret",
+      "link": "https://github.com/soxoj/maigret",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/275386910/d6d7e536-6597-40dc-a204-391431ce57db\" referrerpolicy=\"no-referrer\"><br>🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites<br><br>Language: Python<br>Stars: 25601<br>Forks: 1766",
+      "contentSnippet": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites\nLanguage: Python\nStars: 25601\nForks: 1766",
+      "creator": "soxoj",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ruvnet/ruflo",
+      "link": "https://github.com/ruvnet/ruflo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db\" referrerpolicy=\"no-referrer\"><br>🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration<br><br>Language: TypeScript<br>Stars: 43945<br>Forks: 4885",
+      "contentSnippet": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration\nLanguage: TypeScript\nStars: 43945\nForks: 4885",
+      "creator": "ruvnet",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "HunxByts/GhostTrack",
+      "link": "https://github.com/HunxByts/GhostTrack",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/eaef7bee063ef062c92e209ac8b1295a2e92683108d7dcf396f19993c99b5d85/HunxByts/GhostTrack\" referrerpolicy=\"no-referrer\"><br>Useful tool to track location or mobile number<br><br>Language: Python<br>Stars: 12709<br>Forks: 1694",
+      "contentSnippet": "Useful tool to track location or mobile number\nLanguage: Python\nStars: 12709\nForks: 1694",
+      "creator": "HunxByts",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ComposioHQ/awesome-codex-skills",
+      "link": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5accae389f572969bbdac6e29a8dd3243af4c2370e72bba15ffbb6030e0f644a/ComposioHQ/awesome-codex-skills\" referrerpolicy=\"no-referrer\"><br>A curated list of practical Codex skills for automating workflows across the Codex CLI and API.<br><br>Language: Python<br>Stars: 6915<br>Forks: 453",
+      "contentSnippet": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.\nLanguage: Python\nStars: 6915\nForks: 453",
+      "creator": "ComposioHQ",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "AIDC-AI/Pixelle-Video",
+      "link": "https://github.com/AIDC-AI/Pixelle-Video",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4ba1296bf6be12e1c6fa3467b1327db7a2e9876ddec715bc222d68cb54d61c2f/AIDC-AI/Pixelle-Video\" referrerpolicy=\"no-referrer\"><br>🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine<br><br>Language: Python<br>Stars: 11977<br>Forks: 1836",
+      "contentSnippet": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine\nLanguage: Python\nStars: 11977\nForks: 1836",
+      "creator": "AIDC-AI",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Alishahryar1/free-claude-code",
+      "link": "https://github.com/Alishahryar1/free-claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/37c34ac9dc2b45cd316bd63cabd333e202e2e07d835aa198821d84c2130d8764/Alishahryar1/free-claude-code\" referrerpolicy=\"no-referrer\"><br>Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)<br><br>Language: Python<br>Stars: 21674<br>Forks: 3136",
+      "contentSnippet": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)\nLanguage: Python\nStars: 21674\nForks: 3136",
+      "creator": "Alishahryar1",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "iamgio/quarkdown",
+      "link": "https://github.com/iamgio/quarkdown",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/750550657/a2ab3d4f-3acb-4934-87df-90a9596cbfe5\" referrerpolicy=\"no-referrer\"><br>🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.<br><br>Language: Kotlin<br>Stars: 13723<br>Forks: 380",
+      "contentSnippet": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.\nLanguage: Kotlin\nStars: 13723\nForks: 380",
+      "creator": "iamgio",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "virattt/dexter",
+      "link": "https://github.com/virattt/dexter",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/787c757911ecb954439b7e7e74ba55a50cdf05af89bf33eadc54e728d8404ee8/virattt/dexter\" referrerpolicy=\"no-referrer\"><br>An autonomous agent for deep financial research<br><br>Language: TypeScript<br>Stars: 23895<br>Forks: 2910",
+      "contentSnippet": "An autonomous agent for deep financial research\nLanguage: TypeScript\nStars: 23895\nForks: 2910",
+      "creator": "virattt",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "zed-industries/zed",
+      "link": "https://github.com/zed-industries/zed",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0d23cdd2d73f83da4b2360e377e372f581accd73a798ad8995a92d5c60fbd3a8/zed-industries/zed\" referrerpolicy=\"no-referrer\"><br>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.<br><br>Language: Rust<br>Stars: 81843<br>Forks: 8275",
+      "contentSnippet": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.\nLanguage: Rust\nStars: 81843\nForks: 8275",
+      "creator": "zed-industries",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "CJackHwang/ds2api",
+      "link": "https://github.com/CJackHwang/ds2api",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7321be4fd32c0b0c43bc632e8657c6ee9209f49f5e3596ad0262aea87c024792/CJackHwang/ds2api\" referrerpolicy=\"no-referrer\"><br>DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.<br><br>Language: Go<br>Stars: 3573<br>Forks: 983",
+      "contentSnippet": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.\nLanguage: Go\nStars: 3573\nForks: 983",
+      "creator": "CJackHwang",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "lukilabs/craft-agents-oss",
+      "link": "https://github.com/lukilabs/craft-agents-oss",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7c0ceb816b1dabbf2309af738c60b2dd124d9c124e92a479178854d258f901f0/lukilabs/craft-agents-oss\" referrerpolicy=\"no-referrer\"><br><br><br>Language: TypeScript<br>Stars: 5789<br>Forks: 772",
+      "contentSnippet": "Language: TypeScript\nStars: 5789\nForks: 772",
+      "creator": "lukilabs",
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-05-06T03:40:28.765Z"
+}

@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": ".de TLD offline due to DNSSEC?",
+      "link": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+      "pubDate": "Tue, 05 May 2026 20:16:35 +0000",
+      "isoDate": "2026-05-05T20:16:35.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://dnssec-analyzer.verisignlabs.com/nic.de\">https://dnssec-analyzer.verisignlabs.com/nic.de</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48027897\">https://news.ycombinator.com/item?id=48027897</a></p>\n<p>Points: 553</p>\n<p># Comments: 266</p>\n",
+      "contentSnippet": "Article URL: https://dnssec-analyzer.verisignlabs.com/nic.de\nComments URL: https://news.ycombinator.com/item?id=48027897\nPoints: 553\n# Comments: 266",
+      "creator": "warpspin",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
+      "pubDate": "Tue, 05 May 2026 17:28:18 +0000",
+      "isoDate": "2026-05-05T17:28:18.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298\">https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48025687\">https://news.ycombinator.com/item?id=48025687</a></p>\n<p>Points: 307</p>\n<p># Comments: 179</p>\n",
+      "contentSnippet": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298\nComments URL: https://news.ycombinator.com/item?id=48025687\nPoints: 307\n# Comments: 179",
+      "creator": "SeenNotHeard",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Computer Use is 45x more expensive than structured APIs",
+      "link": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+      "pubDate": "Tue, 05 May 2026 16:34:48 +0000",
+      "isoDate": "2026-05-05T16:34:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/\">https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48024859\">https://news.ycombinator.com/item?id=48024859</a></p>\n<p>Points: 335</p>\n<p># Comments: 193</p>\n",
+      "contentSnippet": "Article URL: https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/\nComments URL: https://news.ycombinator.com/item?id=48024859\nPoints: 335\n# Comments: 193",
+      "creator": "palashawas",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+      "pubDate": "Tue, 05 May 2026 16:14:17 +0000",
+      "isoDate": "2026-05-05T16:14:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/\">https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48024540\">https://news.ycombinator.com/item?id=48024540</a></p>\n<p>Points: 469</p>\n<p># Comments: 208</p>\n",
+      "contentSnippet": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/\nComments URL: https://news.ycombinator.com/item?id=48024540\nPoints: 469\n# Comments: 208",
+      "creator": "amrrs",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Three Inverse Laws of AI",
+      "link": "https://susam.net/inverse-laws-of-robotics.html",
+      "pubDate": "Tue, 05 May 2026 15:27:18 +0000",
+      "isoDate": "2026-05-05T15:27:18.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://susam.net/inverse-laws-of-robotics.html\">https://susam.net/inverse-laws-of-robotics.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48023861\">https://news.ycombinator.com/item?id=48023861</a></p>\n<p>Points: 377</p>\n<p># Comments: 254</p>\n",
+      "contentSnippet": "Article URL: https://susam.net/inverse-laws-of-robotics.html\nComments URL: https://news.ycombinator.com/item?id=48023861\nPoints: 377\n# Comments: 254",
+      "creator": "blenderob",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The fun has been optimized out of the Internet",
+      "link": "https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/",
+      "pubDate": "Tue, 05 May 2026 14:29:24 +0000",
+      "isoDate": "2026-05-05T14:29:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/\">https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48022992\">https://news.ycombinator.com/item?id=48022992</a></p>\n<p>Points: 300</p>\n<p># Comments: 265</p>\n",
+      "contentSnippet": "Article URL: https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/\nComments URL: https://news.ycombinator.com/item?id=48022992\nPoints: 300\n# Comments: 265",
+      "creator": "jprs",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "AI didn't delete your database, you did",
+      "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+      "pubDate": "Tue, 05 May 2026 14:07:50 +0000",
+      "isoDate": "2026-05-05T14:07:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://idiallo.com/blog/ai-didnt-delete-your-database-you-did\">https://idiallo.com/blog/ai-didnt-delete-your-database-you-did</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48022742\">https://news.ycombinator.com/item?id=48022742</a></p>\n<p>Points: 496</p>\n<p># Comments: 272</p>\n",
+      "contentSnippet": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did\nComments URL: https://news.ycombinator.com/item?id=48022742\nPoints: 496\n# Comments: 272",
+      "creator": "Brajeshwar",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
+      "link": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
+      "pubDate": "Tue, 05 May 2026 12:28:28 +0000",
+      "isoDate": "2026-05-05T12:28:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/\">https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48021561\">https://news.ycombinator.com/item?id=48021561</a></p>\n<p>Points: 386</p>\n<p># Comments: 292</p>\n",
+      "contentSnippet": "Article URL: https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/\nComments URL: https://news.ycombinator.com/item?id=48021561\nPoints: 386\n# Comments: 292",
+      "creator": "alentodorov",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "When everyone has AI and the company still learns nothing",
+      "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+      "pubDate": "Tue, 05 May 2026 09:30:22 +0000",
+      "isoDate": "2026-05-05T09:30:22.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/\">https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48020063\">https://news.ycombinator.com/item?id=48020063</a></p>\n<p>Points: 323</p>\n<p># Comments: 222</p>\n",
+      "contentSnippet": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/\nComments URL: https://news.ycombinator.com/item?id=48020063\nPoints: 323\n# Comments: 222",
+      "creator": "youngbrioche",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "pubDate": "Tue, 05 May 2026 07:34:55 +0000",
+      "isoDate": "2026-05-05T07:34:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/\">https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48019219\">https://news.ycombinator.com/item?id=48019219</a></p>\n<p>Points: 1278</p>\n<p># Comments: 866</p>\n",
+      "contentSnippet": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/\nComments URL: https://news.ycombinator.com/item?id=48019219\nPoints: 1278\n# Comments: 866",
+      "creator": "john-doe",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Async Rust never left the MVP state",
+      "link": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+      "pubDate": "Tue, 05 May 2026 07:26:03 +0000",
+      "isoDate": "2026-05-05T07:26:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state\">https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48019163\">https://news.ycombinator.com/item?id=48019163</a></p>\n<p>Points: 427</p>\n<p># Comments: 230</p>\n",
+      "contentSnippet": "Article URL: https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state\nComments URL: https://news.ycombinator.com/item?id=48019163\nPoints: 427\n# Comments: 230",
+      "creator": "pjmlp",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
+      "link": "https://walzr.com/empty-screenings",
+      "pubDate": "Tue, 05 May 2026 04:33:22 +0000",
+      "isoDate": "2026-05-05T04:33:22.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://walzr.com/empty-screenings\">https://walzr.com/empty-screenings</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48018066\">https://news.ycombinator.com/item?id=48018066</a></p>\n<p>Points: 315</p>\n<p># Comments: 260</p>\n",
+      "contentSnippet": "Article URL: https://walzr.com/empty-screenings\nComments URL: https://news.ycombinator.com/item?id=48018066\nPoints: 315\n# Comments: 260",
+      "creator": "MrBuddyCasino",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Train Your Own LLM from Scratch",
+      "link": "https://github.com/angelos-p/llm-from-scratch",
+      "pubDate": "Tue, 05 May 2026 04:09:17 +0000",
+      "isoDate": "2026-05-05T04:09:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/angelos-p/llm-from-scratch\">https://github.com/angelos-p/llm-from-scratch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48017948\">https://news.ycombinator.com/item?id=48017948</a></p>\n<p>Points: 427</p>\n<p># Comments: 49</p>\n",
+      "contentSnippet": "Article URL: https://github.com/angelos-p/llm-from-scratch\nComments URL: https://news.ycombinator.com/item?id=48017948\nPoints: 427\n# Comments: 49",
+      "creator": "kristianpaul",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Zig → Rust porting guide",
+      "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "pubDate": "Tue, 05 May 2026 01:08:17 +0000",
+      "isoDate": "2026-05-05T01:08:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5\">https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48016880\">https://news.ycombinator.com/item?id=48016880</a></p>\n<p>Points: 700</p>\n<p># Comments: 518</p>\n",
+      "contentSnippet": "Article URL: https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5\nComments URL: https://news.ycombinator.com/item?id=48016880\nPoints: 700\n# Comments: 518",
+      "creator": "SergeAx",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Y Combinator's Stake in OpenAI (0.6%?)",
+      "link": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+      "pubDate": "Tue, 05 May 2026 00:09:01 +0000",
+      "isoDate": "2026-05-05T00:09:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://daringfireball.net/2026/05/y_combinators_stake_in_openai\">https://daringfireball.net/2026/05/y_combinators_stake_in_openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48016534\">https://news.ycombinator.com/item?id=48016534</a></p>\n<p>Points: 373</p>\n<p># Comments: 67</p>\n",
+      "contentSnippet": "Article URL: https://daringfireball.net/2026/05/y_combinators_stake_in_openai\nComments URL: https://news.ycombinator.com/item?id=48016534\nPoints: 373\n# Comments: 67",
+      "creator": "gyomu",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Agent Skills",
+      "link": "https://addyosmani.com/blog/agent-skills/",
+      "pubDate": "Mon, 04 May 2026 21:40:42 +0000",
+      "isoDate": "2026-05-04T21:40:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://addyosmani.com/blog/agent-skills/\">https://addyosmani.com/blog/agent-skills/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48015397\">https://news.ycombinator.com/item?id=48015397</a></p>\n<p>Points: 368</p>\n<p># Comments: 192</p>\n",
+      "contentSnippet": "Article URL: https://addyosmani.com/blog/agent-skills/\nComments URL: https://news.ycombinator.com/item?id=48015397\nPoints: 368\n# Comments: 192",
+      "creator": "BOOSTERHIDROGEN",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "pubDate": "Mon, 04 May 2026 19:42:47 +0000",
+      "isoDate": "2026-05-04T19:42:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://openai.com/index/delivering-low-latency-voice-ai-at-scale/\">https://openai.com/index/delivering-low-latency-voice-ai-at-scale/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48013919\">https://news.ycombinator.com/item?id=48013919</a></p>\n<p>Points: 495</p>\n<p># Comments: 143</p>\n",
+      "contentSnippet": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/\nComments URL: https://news.ycombinator.com/item?id=48013919\nPoints: 495\n# Comments: 143",
+      "creator": "Sean-Der",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "link": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+      "pubDate": "Mon, 04 May 2026 18:22:42 +0000",
+      "isoDate": "2026-05-04T18:22:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730\">https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48012735\">https://news.ycombinator.com/item?id=48012735</a></p>\n<p>Points: 611</p>\n<p># Comments: 216</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730\nComments URL: https://news.ycombinator.com/item?id=48012735\nPoints: 611\n# Comments: 216",
+      "creator": "cft",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Days without GitHub incidents",
+      "link": "https://www.dayswithoutgithubincident.com/",
+      "pubDate": "Mon, 04 May 2026 17:36:32 +0000",
+      "isoDate": "2026-05-04T17:36:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.dayswithoutgithubincident.com/\">https://www.dayswithoutgithubincident.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48012022\">https://news.ycombinator.com/item?id=48012022</a></p>\n<p>Points: 382</p>\n<p># Comments: 162</p>\n",
+      "contentSnippet": "Article URL: https://www.dayswithoutgithubincident.com/\nComments URL: https://news.ycombinator.com/item?id=48012022\nPoints: 382\n# Comments: 162",
+      "creator": "goalieca",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+      "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+      "pubDate": "Mon, 04 May 2026 17:16:36 +0000",
+      "isoDate": "2026-05-04T17:16:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/\">https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48011689\">https://news.ycombinator.com/item?id=48011689</a></p>\n<p>Points: 507</p>\n<p># Comments: 165</p>\n",
+      "contentSnippet": "Article URL: https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/\nComments URL: https://news.ycombinator.com/item?id=48011689\nPoints: 507\n# Comments: 165",
+      "creator": "ZeidJ",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Stop big tech from making users behave in ways they don't want to",
+      "link": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
+      "pubDate": "Mon, 04 May 2026 17:10:57 +0000",
+      "isoDate": "2026-05-04T17:10:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to\">https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48011603\">https://news.ycombinator.com/item?id=48011603</a></p>\n<p>Points: 303</p>\n<p># Comments: 178</p>\n",
+      "contentSnippet": "Article URL: https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to\nComments URL: https://news.ycombinator.com/item?id=48011603\nPoints: 303\n# Comments: 178",
+      "creator": "andsoitis",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "I am worried about Bun",
+      "link": "https://wwj.dev/posts/i-am-worried-about-bun/",
+      "pubDate": "Mon, 04 May 2026 16:45:00 +0000",
+      "isoDate": "2026-05-04T16:45:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://wwj.dev/posts/i-am-worried-about-bun/\">https://wwj.dev/posts/i-am-worried-about-bun/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48011184\">https://news.ycombinator.com/item?id=48011184</a></p>\n<p>Points: 511</p>\n<p># Comments: 341</p>\n",
+      "contentSnippet": "Article URL: https://wwj.dev/posts/i-am-worried-about-bun/\nComments URL: https://news.ycombinator.com/item?id=48011184\nPoints: 511\n# Comments: 341",
+      "creator": "remote-dev",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Incident with Issues and Webhooks – Resolved",
+      "link": "https://www.githubstatus.com/incidents/72q3n8yxthcy",
+      "pubDate": "Mon, 04 May 2026 15:53:21 +0000",
+      "isoDate": "2026-05-04T15:53:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.githubstatus.com/incidents/72q3n8yxthcy\">https://www.githubstatus.com/incidents/72q3n8yxthcy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48010301\">https://news.ycombinator.com/item?id=48010301</a></p>\n<p>Points: 425</p>\n<p># Comments: 262</p>\n",
+      "contentSnippet": "Article URL: https://www.githubstatus.com/incidents/72q3n8yxthcy\nComments URL: https://news.ycombinator.com/item?id=48010301\nPoints: 425\n# Comments: 262",
+      "creator": "gen220",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "link": "https://www.nber.org/papers/w35117",
+      "pubDate": "Mon, 04 May 2026 15:32:46 +0000",
+      "isoDate": "2026-05-04T15:32:46.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.nber.org/papers/w35117\">https://www.nber.org/papers/w35117</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48009983\">https://news.ycombinator.com/item?id=48009983</a></p>\n<p>Points: 337</p>\n<p># Comments: 365</p>\n",
+      "contentSnippet": "Article URL: https://www.nber.org/papers/w35117\nComments URL: https://news.ycombinator.com/item?id=48009983\nPoints: 337\n# Comments: 365",
+      "creator": "littlexsparkee",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+      "link": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
+      "pubDate": "Mon, 04 May 2026 15:10:41 +0000",
+      "isoDate": "2026-05-04T15:10:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/\">https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48009697\">https://news.ycombinator.com/item?id=48009697</a></p>\n<p>Points: 569</p>\n<p># Comments: 525</p>\n",
+      "contentSnippet": "Article URL: https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/\nComments URL: https://news.ycombinator.com/item?id=48009697\nPoints: 569\n# Comments: 525",
+      "creator": "rdeboo",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Redis array: short story of a long development process",
+      "link": "https://antirez.com/news/164",
+      "pubDate": "Mon, 04 May 2026 14:23:07 +0000",
+      "isoDate": "2026-05-04T14:23:07.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://antirez.com/news/164\">https://antirez.com/news/164</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48009172\">https://news.ycombinator.com/item?id=48009172</a></p>\n<p>Points: 315</p>\n<p># Comments: 108</p>\n",
+      "contentSnippet": "Article URL: https://antirez.com/news/164\nComments URL: https://news.ycombinator.com/item?id=48009172\nPoints: 315\n# Comments: 108",
+      "creator": "antirez",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How Monero’s proof of work works",
+      "link": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
+      "pubDate": "Mon, 04 May 2026 14:10:50 +0000",
+      "isoDate": "2026-05-04T14:10:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works\">https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48009020\">https://news.ycombinator.com/item?id=48009020</a></p>\n<p>Points: 307</p>\n<p># Comments: 219</p>\n",
+      "contentSnippet": "Article URL: https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works\nComments URL: https://news.ycombinator.com/item?id=48009020\nPoints: 307\n# Comments: 219",
+      "creator": "alcazar",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Talking to strangers at the gym",
+      "link": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "pubDate": "Mon, 04 May 2026 11:41:02 +0000",
+      "isoDate": "2026-05-04T11:41:02.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://thienantran.com/talking-to-35-strangers-at-the-gym/\">https://thienantran.com/talking-to-35-strangers-at-the-gym/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48007438\">https://news.ycombinator.com/item?id=48007438</a></p>\n<p>Points: 1474</p>\n<p># Comments: 730</p>\n",
+      "contentSnippet": "Article URL: https://thienantran.com/talking-to-35-strangers-at-the-gym/\nComments URL: https://news.ycombinator.com/item?id=48007438\nPoints: 1474\n# Comments: 730",
+      "creator": "thitran",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Trademark violation: Fake Notepad++ for Mac",
+      "link": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
+      "pubDate": "Mon, 04 May 2026 09:40:06 +0000",
+      "isoDate": "2026-05-04T09:40:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://notepad-plus-plus.org/news/npp-trademark-infringement/\">https://notepad-plus-plus.org/news/npp-trademark-infringement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48006445\">https://news.ycombinator.com/item?id=48006445</a></p>\n<p>Points: 629</p>\n<p># Comments: 299</p>\n",
+      "contentSnippet": "Article URL: https://notepad-plus-plus.org/news/npp-trademark-infringement/\nComments URL: https://news.ycombinator.com/item?id=48006445\nPoints: 629\n# Comments: 299",
+      "creator": "maxloh",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "GameStop makes $55.5B takeover offer for eBay",
+      "link": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+      "pubDate": "Mon, 04 May 2026 09:31:12 +0000",
+      "isoDate": "2026-05-04T09:31:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/cn0p8yled1do\">https://www.bbc.co.uk/news/articles/cn0p8yled1do</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48006402\">https://news.ycombinator.com/item?id=48006402</a></p>\n<p>Points: 700</p>\n<p># Comments: 686</p>\n",
+      "contentSnippet": "Article URL: https://www.bbc.co.uk/news/articles/cn0p8yled1do\nComments URL: https://news.ycombinator.com/item?id=48006402\nPoints: 700\n# Comments: 686",
+      "creator": "n1b0m",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-05-06T03:33:50.801Z"
+}
