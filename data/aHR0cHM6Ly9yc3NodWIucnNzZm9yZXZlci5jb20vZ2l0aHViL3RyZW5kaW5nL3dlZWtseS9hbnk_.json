@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "tt-a1i/archify",
+      "link": "https://github.com/tt-a1i/archify",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1211139949/484a27cf-6888-472b-9f58-46615a4429b1\" referrerpolicy=\"no-referrer\"><br>Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.<br><br>Language: JavaScript<br>Stars: 49581<br>Forks: 3216",
+      "contentSnippet": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.\nLanguage: JavaScript\nStars: 49581\nForks: 3216",
+      "creator": "tt-a1i",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "THU-MAIC/OpenMAIC",
+      "link": "https://github.com/THU-MAIC/OpenMAIC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/778f036b029cb592025d252478556753f8dbab4c8deb09cd3e563754034777bb/THU-MAIC/OpenMAIC\" referrerpolicy=\"no-referrer\"><br>Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click<br><br>Language: TypeScript<br>Stars: 31990<br>Forks: 5244",
+      "contentSnippet": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click\nLanguage: TypeScript\nStars: 31990\nForks: 5244",
+      "creator": "THU-MAIC",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Gitlawb/openclaude",
+      "link": "https://github.com/Gitlawb/openclaude",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3eeb3e3e73bbdf09a68347200353405965a3c7da6698d3338c674e56a663c47a/Gitlawb/openclaude\" referrerpolicy=\"no-referrer\"><br>runs anywhere. uses anything<br><br>Language: TypeScript<br>Stars: 32723<br>Forks: 9063",
+      "contentSnippet": "runs anywhere. uses anything\nLanguage: TypeScript\nStars: 32723\nForks: 9063",
+      "creator": "Gitlawb",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "google-research/timesfm",
+      "link": "https://github.com/google-research/timesfm",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e327adba80091ee66c5aa9bd195ce5dc766fc2ba24eb1c09203baea56b932897/google-research/timesfm\" referrerpolicy=\"no-referrer\"><br>TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.<br><br>Language: Python<br>Stars: 31320<br>Forks: 2995",
+      "contentSnippet": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.\nLanguage: Python\nStars: 31320\nForks: 2995",
+      "creator": "google-research",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "jingyaogong/minimind",
+      "link": "https://github.com/jingyaogong/minimind",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2b5191f27f93547e6a5db73fe0a9b54b5a9cc3215b8edaf917a9709f0b601253/jingyaogong/minimind\" referrerpolicy=\"no-referrer\"><br>🧠 Train a 64M-parameter LLM from scratch in just 2h!<br><br>Language: Python<br>Stars: 58836<br>Forks: 7647",
+      "contentSnippet": "🧠 Train a 64M-parameter LLM from scratch in just 2h!\nLanguage: Python\nStars: 58836\nForks: 7647",
+      "creator": "jingyaogong",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "tailscale/tailcat",
+      "link": "https://github.com/tailscale/tailcat",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c39c933780a54b61b1c122cc72510dfc4ab10586370fff3f00e98554b75e562a/tailscale/tailcat\" referrerpolicy=\"no-referrer\"><br>like netcat, but over Tailscale's data plane, without Tailscale's control plane<br><br>Language: Go<br>Stars: 6392<br>Forks: 244",
+      "contentSnippet": "like netcat, but over Tailscale's data plane, without Tailscale's control plane\nLanguage: Go\nStars: 6392\nForks: 244",
+      "creator": "tailscale",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5d3f15caaa91bbeb6262d88b3aab734e6a86bc04b3489b5b6214fae42f7cc4dc/K-Dense-AI/scientific-agent-skills\" referrerpolicy=\"no-referrer\"><br>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.<br><br>Language: Python<br>Stars: 42977<br>Forks: 3928",
+      "contentSnippet": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\nLanguage: Python\nStars: 42977\nForks: 3928",
+      "creator": "K-Dense-AI",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Lakr233/vphone-cli",
+      "link": "https://github.com/Lakr233/vphone-cli",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fbe1b817509909749a9b58c2baba99c15fc38673d793b26a293043f67e46b7af/Lakr233/vphone-cli\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Swift<br>Stars: 10795<br>Forks: 1380",
+      "contentSnippet": "Language: Swift\nStars: 10795\nForks: 1380",
+      "creator": "Lakr233",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "fmtlib/fmt",
+      "link": "https://github.com/fmtlib/fmt",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ab995db406901a862a13d8d63f3f3141f94b26daadb1b5c6bc8aaca2bf04f537/fmtlib/fmt\" referrerpolicy=\"no-referrer\"><br>A modern formatting library<br><br>Language: C++<br>Stars: 25576<br>Forks: 3043",
+      "contentSnippet": "A modern formatting library\nLanguage: C++\nStars: 25576\nForks: 3043",
+      "creator": "fmtlib",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "handsomestWei/patent-disclosure-skill",
+      "link": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d1c57f25c14fef1146180cbc19f82c3152964200ee160bff20c2ed98784f2647/handsomestWei/patent-disclosure-skill\" referrerpolicy=\"no-referrer\"><br>中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。<br><br>Language: Python<br>Stars: 7487<br>Forks: 821",
+      "contentSnippet": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。\nLanguage: Python\nStars: 7487\nForks: 821",
+      "creator": "handsomestWei",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc\" referrerpolicy=\"no-referrer\"><br>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br><br>Language: Python<br>Stars: 19046<br>Forks: 2442",
+      "contentSnippet": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\nLanguage: Python\nStars: 19046\nForks: 2442",
+      "creator": "debpalash",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "magnitudedev/magnitude",
+      "link": "https://github.com/magnitudedev/magnitude",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2fb738d4fab18a654ad2b3de41e65bd063e1677afb98ae1aa66715bbdbeac443/magnitudedev/magnitude\" referrerpolicy=\"no-referrer\"><br>Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.<br><br>Language: TypeScript<br>Stars: 3260<br>Forks: 233",
+      "contentSnippet": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.\nLanguage: TypeScript\nStars: 3260\nForks: 233",
+      "creator": "magnitudedev",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "every-app/open-seo",
+      "link": "https://github.com/every-app/open-seo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4ca362e2520190831b4f7aca95abc304b7b25287b1d42e8b6732429c2d437fcd/every-app/open-seo\" referrerpolicy=\"no-referrer\"><br>Open source alternative to Semrush and Ahrefs<br><br>Language: TypeScript<br>Stars: 17298<br>Forks: 2168",
+      "contentSnippet": "Open source alternative to Semrush and Ahrefs\nLanguage: TypeScript\nStars: 17298\nForks: 2168",
+      "creator": "every-app",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "bilawalsidhu/gods-eye-view",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ddae5c3f9e9cee1e1f7a1fd0239b7839cffe04c9416daf90be763ab26b9ca164/bilawalsidhu/gods-eye-view\" referrerpolicy=\"no-referrer\"><br>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.<br><br>Language: JavaScript<br>Stars: 18052<br>Forks: 3651",
+      "contentSnippet": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\nLanguage: JavaScript\nStars: 18052\nForks: 3651",
+      "creator": "bilawalsidhu",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "link": "https://github.com/punkpeye/awesome-mcp-servers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4e39db2aa68363b643733f15c2be0b0562679d3e6a010a377405d02ca26239d1/punkpeye/awesome-mcp-servers\" referrerpolicy=\"no-referrer\"><br>A collection of MCP servers.<br><br>Language: Unknown<br>Stars: 94347<br>Forks: 15713",
+      "contentSnippet": "A collection of MCP servers.\nLanguage: Unknown\nStars: 94347\nForks: 15713",
+      "creator": "punkpeye",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "p-e-w/heretic",
+      "link": "https://github.com/p-e-w/heretic",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/03ab2ae5141a8b59e83b244763ba69967ecd239923c8275ae673e8179b10ee2a/p-e-w/heretic\" referrerpolicy=\"no-referrer\"><br>Fully automatic censorship removal for language models<br><br>Language: Python<br>Stars: 30607<br>Forks: 3383",
+      "contentSnippet": "Fully automatic censorship removal for language models\nLanguage: Python\nStars: 30607\nForks: 3383",
+      "creator": "p-e-w",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "majd/ipatool",
+      "link": "https://github.com/majd/ipatool",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b2339f65c60ed04387eb2bded31bad52c1b1e9a4571cac3bfca02414ef6204c8/majd/ipatool\" referrerpolicy=\"no-referrer\"><br>Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.<br><br>Language: Go<br>Stars: 10923<br>Forks: 912",
+      "contentSnippet": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.\nLanguage: Go\nStars: 10923\nForks: 912",
+      "creator": "majd",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4ffce4121442285d1a21150017e8278fe84bead6546587ea084f1eef794799ab/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 250042<br>Forks: 37627",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 250042\nForks: 37627",
+      "creator": "affaan-m",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/bc46174ec346f2b15e2f434d8944ac9453cee8e46c92200cd88c0562439e220e/ChromeDevTools/chrome-devtools-mcp\" referrerpolicy=\"no-referrer\"><br>Chrome DevTools for coding agents<br><br>Language: TypeScript<br>Stars: 51080<br>Forks: 3581",
+      "contentSnippet": "Chrome DevTools for coding agents\nLanguage: TypeScript\nStars: 51080\nForks: 3581",
+      "creator": "ChromeDevTools",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "checkstyle/checkstyle",
+      "link": "https://github.com/checkstyle/checkstyle",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/12499251/d6fc7800-95b5-11e9-9d28-95750b8352e9\" referrerpolicy=\"no-referrer\"><br>Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.<br><br>Language: Java<br>Stars: 9546<br>Forks: 4218",
+      "contentSnippet": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.\nLanguage: Java\nStars: 9546\nForks: 4218",
+      "creator": "checkstyle",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "abi/screenshot-to-code",
+      "link": "https://github.com/abi/screenshot-to-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e9b90fde8bd123fba7d3c1bb731a4c8739e4342e09ff0d9dcf3f29d88396623c/abi/screenshot-to-code\" referrerpolicy=\"no-referrer\"><br>Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)<br><br>Language: Python<br>Stars: 77924<br>Forks: 9476",
+      "contentSnippet": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)\nLanguage: Python\nStars: 77924\nForks: 9476",
+      "creator": "abi",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-09-06T03:40:51.056Z"
+}

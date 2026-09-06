@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+  "title": "Microsoft Research",
+  "description": "",
+  "link": "https://www.microsoft.com/en-us/research/",
+  "items": [
+    {
+      "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+      "link": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+      "pubDate": "Mon, 31 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-31T16:00:00.000Z",
+      "content": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/\">GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration.\nThe post GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models appeared first on Microsoft Research.",
+      "creator": "Naoto Usuyama, Jeya Maria Jose Valanarasu, Tristan Naumann",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Broadening access to Skala creates a faster path to predictive DFT ",
+      "link": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+      "pubDate": "Thu, 20 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-20T16:00:00.000Z",
+      "content": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track computational performance. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/\">Broadening access to Skala creates a faster path to predictive DFT </a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track computational performance. \nThe post Broadening access to Skala creates a faster path to predictive DFT  appeared first on Microsoft Research.",
+      "creator": "Sebastian Ehlert, Stefano Battaglia, Thijs Vogels, Jan Hermann, Jens Wehner, Giulia Luise, Klaas Giesbertz, Chin-Wei Huang, Aaron Kaplan, Kate Milton, Stephanie Marisa Lanius, Derk Kooi, P. Bern&aacute;t Szab&oacute;, Gregor Simm, Rianne van den Berg, Paola Gori Giorgi",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "MindTopo reveals VLMs’ spatial reasoning abilities",
+      "link": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+      "pubDate": "Wed, 12 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-12T16:00:00.000Z",
+      "content": "<p>A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and  highlights new opportunities to strengthen spatial reasoning and planning.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/\">MindTopo reveals VLMs&#8217; spatial reasoning abilities</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and  highlights new opportunities to strengthen spatial reasoning and planning.\nThe post MindTopo reveals VLMs’ spatial reasoning abilities appeared first on Microsoft Research.",
+      "creator": "Yunfei Ge, Anbang Liu, Qineng Wang, Johnalbert Garnica, Zihan Wang, Reuben Tan, Jianfeng Gao, Ruohan Zhang, Yining Hong, Jiajun Wu, Manling Li",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+      "link": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+      "pubDate": "Tue, 11 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-11T16:00:00.000Z",
+      "content": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpretation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/\">Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpretation.\nThe post Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement appeared first on Microsoft Research.",
+      "creator": "Mercy Ranjit, Nikhilesh E, Dr. Abhyuday Kumara  Swamy, Tanuja Ganu",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Orchard: An open framework for scalable agentic AI",
+      "link": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+      "pubDate": "Mon, 03 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-03T16:00:00.000Z",
+      "content": "<p>Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by enabling researchers to reuse the same infrastructure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/\">Orchard: An open framework for scalable agentic AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by enabling researchers to reuse the same infrastructure.\nThe post Orchard: An open framework for scalable agentic AI appeared first on Microsoft Research.",
+      "creator": "Baolin Peng, Wenlin Yao, Qianhui Wu, Hao Cheng, Jianfeng Gao",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Echoverse: Deep, evolving environments for computer-use agents",
+      "link": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+      "pubDate": "Thu, 30 Jul 2026 17:00:00 +0000",
+      "isoDate": "2026-07-30T17:00:00.000Z",
+      "content": "<p>Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the tasks, tests, and environments evolve.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/\">Echoverse: Deep, evolving environments for computer-use agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the tasks, tests, and environments evolve.\nThe post Echoverse: Deep, evolving environments for computer-use agents appeared first on Microsoft Research.",
+      "creator": "Akshay Nambi, Yash Pandya, Sahil Gupta, Sarthak Harne, Kavyansh Chourasia, Yash Lara, Ahmed Awadallah",
+      "enclosure": {
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/07/Hero-video.mp4",
+        "type": "video/mp4"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "EvoLib: Turning experience into evolving knowledge",
+      "link": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+      "pubDate": "Thu, 30 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-30T16:00:00.000Z",
+      "content": "<p>LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/\">EvoLib: Turning experience into evolving knowledge</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment. \nThe post EvoLib: Turning experience into evolving knowledge appeared first on Microsoft Research.",
+      "creator": "Weijia Xu, Alessandro Sordoni, Zelalem Gero, Michel Galley, Eric Yuan, Jianfeng Gao",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
+      "link": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+      "pubDate": "Mon, 13 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-13T16:00:00.000Z",
+      "content": "<p>Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/\">Verifying Rust cryptography in SymCrypt, from standards to code</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.\nThe post Verifying Rust cryptography in SymCrypt, from standards to code appeared first on Microsoft Research.",
+      "creator": "Son Ho, Cédric Fournet, Antoine Delignat-Lavaud, Samuel Lee, Jason Fisher, Jessica Krynitsky",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
+      "link": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+      "pubDate": "Thu, 09 Jul 2026 16:46:22 +0000",
+      "isoDate": "2026-07-09T16:46:22.000Z",
+      "content": "<p>Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/\">Aurora 1.5: Extending open foundation models for weather and Earth-system applications</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications.\nThe post Aurora 1.5: Extending open foundation models for weather and Earth-system applications appeared first on Microsoft Research.",
+      "creator": "Kenji Takeda, Haiyu Dong, Jonathan Weyn, Amit Misra, Matt Corey, Kevin White, Shannon Monroe, Juan M. Lavista Ferres, Ashley Llorens, Bonnie Kruft",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Flint: A visualization language for the AI era",
+      "link": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+      "pubDate": "Wed, 08 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-08T16:00:00.000Z",
+      "content": "<p>Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive charts from compact, human-editable specifications.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/\">Flint: A visualization language for the AI era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive charts from compact, human-editable specifications.\nThe post Flint: A visualization language for the AI era appeared first on Microsoft Research.",
+      "creator": "Chenglong Wang, Alper Sarikaya, Scott Tsukamaki, Michel Galley, Jianfeng Gao",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-09-06T03:41:30.232Z"
+}
