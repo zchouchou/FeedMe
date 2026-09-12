@@ -1,0 +1,169 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "ayghri/i-have-adhd",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c63085cdd733417f3ec88dfc49f514c8f421eeccbc34fd74930664abfd253904/ayghri/i-have-adhd\" referrerpolicy=\"no-referrer\"><br>A skill to stop your coding agent from burying the answer. ADHD-friendly output.<br><br>Language: Python<br>Stars: 42107<br>Forks: 2380",
+      "contentSnippet": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.\nLanguage: Python\nStars: 42107\nForks: 2380",
+      "creator": "ayghri",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "bilawalsidhu/gods-eye-view",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c5e4075f420af933c819c8f0641a0b79cd06ca66395d09908848ab4e8162745a/bilawalsidhu/gods-eye-view\" referrerpolicy=\"no-referrer\"><br>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.<br><br>Language: JavaScript<br>Stars: 27316<br>Forks: 5583",
+      "contentSnippet": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\nLanguage: JavaScript\nStars: 27316\nForks: 5583",
+      "creator": "bilawalsidhu",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "nab138/iloader",
+      "link": "https://github.com/nab138/iloader",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5c462cf01af73ebbd9152a3805114cebca55dde5a385d1511cc650b7b4acc23b/nab138/iloader\" referrerpolicy=\"no-referrer\"><br>User friendly sideloader<br><br>Language: TypeScript<br>Stars: 2933<br>Forks: 204",
+      "contentSnippet": "User friendly sideloader\nLanguage: TypeScript\nStars: 2933\nForks: 204",
+      "creator": "nab138",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "melgarafael/DeskcommCRM",
+      "link": "https://github.com/melgarafael/DeskcommCRM",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1223939135/976719c3-5d23-4dd9-a6b2-915229d2c325\" referrerpolicy=\"no-referrer\"><br>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.<br><br>Language: TypeScript<br>Stars: 1408<br>Forks: 503",
+      "contentSnippet": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.\nLanguage: TypeScript\nStars: 1408\nForks: 503",
+      "creator": "melgarafael",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "vastsa/PI-Desktop",
+      "link": "https://github.com/vastsa/PI-Desktop",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/21897fc07384e3748c93f3f2e3570958452e42446aeb1d3f00371e3c4ff96d63/vastsa/PI-Desktop\" referrerpolicy=\"no-referrer\"><br>Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins<br><br>Language: TypeScript<br>Stars: 2824<br>Forks: 222",
+      "contentSnippet": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins\nLanguage: TypeScript\nStars: 2824\nForks: 222",
+      "creator": "vastsa",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "armory3d/armorpaint",
+      "link": "https://github.com/armory3d/armorpaint",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f146ca977bcb83fa6e4b2db00f80d7bb3837e0a6c6cbd6e0c73ecacccd488c93/armory3d/armorpaint\" referrerpolicy=\"no-referrer\"><br>Graphics Creation Tools<br><br>Language: C<br>Stars: 4748<br>Forks: 534",
+      "contentSnippet": "Graphics Creation Tools\nLanguage: C\nStars: 4748\nForks: 534",
+      "creator": "armory3d",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "alsk1992/CloddsBot",
+      "link": "https://github.com/alsk1992/CloddsBot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/13c76d78ee921f510db5fd8ba3405b2d7c5e8011e407eb01f4de4ecec0fe7612/alsk1992/CloddsBot\" referrerpolicy=\"no-referrer\"><br>Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.<br><br>Language: TypeScript<br>Stars: 2194<br>Forks: 285",
+      "contentSnippet": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.\nLanguage: TypeScript\nStars: 2194\nForks: 285",
+      "creator": "alsk1992",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "nashsu/llm_wiki",
+      "link": "https://github.com/nashsu/llm_wiki",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2ed7772c7a2449ab40b62b609de75b1a4a512ecaa68b9a3e42914f9978920409/nashsu/llm_wiki\" referrerpolicy=\"no-referrer\"><br>LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。<br><br>Language: TypeScript<br>Stars: 18799<br>Forks: 2135",
+      "contentSnippet": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。\nLanguage: TypeScript\nStars: 18799\nForks: 2135",
+      "creator": "nashsu",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4a82c3b963b0d54cfd6547b38eb6ed998a15277dbce67e5f32518c82388c2b30/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 285421<br>Forks: 25522",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 285421\nForks: 25522",
+      "creator": "obra",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Sonarr/Sonarr",
+      "link": "https://github.com/Sonarr/Sonarr",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f4be6f7b5f094e63a35db69fc8716202c062e53917373a62004b8ffab9ac58b0/Sonarr/Sonarr\" referrerpolicy=\"no-referrer\"><br>Smart PVR for newsgroup and bittorrent users.<br><br>Language: C#<br>Stars: 15756<br>Forks: 1949",
+      "contentSnippet": "Smart PVR for newsgroup and bittorrent users.\nLanguage: C#\nStars: 15756\nForks: 1949",
+      "creator": "Sonarr",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "jihe520/MathModelAgent",
+      "link": "https://github.com/jihe520/MathModelAgent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/44c56a0976f2e5008da690ce95dd537047b75d104e7d7aa560852a3548de87a6/jihe520/MathModelAgent\" referrerpolicy=\"no-referrer\"><br>🤖📐专为数学建模设计的 Agent &amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.<br><br>Language: Python<br>Stars: 4891<br>Forks: 394",
+      "contentSnippet": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.\nLanguage: Python\nStars: 4891\nForks: 394",
+      "creator": "jihe520",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "p1neappleXpress/OpenFlux",
+      "link": "https://github.com/p1neappleXpress/OpenFlux",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/da03c5631368366b650f1cf02282643380b41b78ffc49e738b9675bcb87d6970/p1neappleXpress/OpenFlux\" referrerpolicy=\"no-referrer\"><br>Network stack research tool. TCP tunnel with pluggable transports.<br><br>Language: Go<br>Stars: 1178<br>Forks: 89",
+      "contentSnippet": "Network stack research tool. TCP tunnel with pluggable transports.\nLanguage: Go\nStars: 1178\nForks: 89",
+      "creator": "p1neappleXpress",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "jordan-gibbs/hyperresearch",
+      "link": "https://github.com/jordan-gibbs/hyperresearch",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1206357666/2f673ac1-eb21-46ea-b0cc-4aecf520e4c8\" referrerpolicy=\"no-referrer\"><br>Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.<br><br>Language: Python<br>Stars: 2687<br>Forks: 262",
+      "contentSnippet": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.\nLanguage: Python\nStars: 2687\nForks: 262",
+      "creator": "jordan-gibbs",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "alphaXiv/OpenResearch",
+      "link": "https://github.com/alphaXiv/OpenResearch",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/942045e2cf3e355e1f1df03f5e26a47b9ff77523916f9524338424217308efcc/alphaXiv/OpenResearch\" referrerpolicy=\"no-referrer\"><br>Run parallel research agents with any model<br><br>Language: Rust<br>Stars: 1340<br>Forks: 95",
+      "contentSnippet": "Run parallel research agents with any model\nLanguage: Rust\nStars: 1340\nForks: 95",
+      "creator": "alphaXiv",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "github/spec-kit",
+      "link": "https://github.com/github/spec-kit",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d1b4244d3881925efad6da68830f0ccf309a1928a09dcccc527d8b70e9a39bc5/github/spec-kit\" referrerpolicy=\"no-referrer\"><br>💫 Toolkit to help you get started with Spec-Driven Development<br><br>Language: Python<br>Stars: 135810<br>Forks: 12202",
+      "contentSnippet": "💫 Toolkit to help you get started with Spec-Driven Development\nLanguage: Python\nStars: 135810\nForks: 12202",
+      "creator": "github",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "pascalorg/editor",
+      "link": "https://github.com/pascalorg/editor",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1077819522/f76f9c77-a8ac-47a2-9fd7-d17a9cdb3759\" referrerpolicy=\"no-referrer\"><br>Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.<br><br>Language: TypeScript<br>Stars: 23662<br>Forks: 2945",
+      "contentSnippet": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.\nLanguage: TypeScript\nStars: 23662\nForks: 2945",
+      "creator": "pascalorg",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-09-12T03:48:30.573Z"
+}
