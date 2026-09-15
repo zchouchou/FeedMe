@@ -1,0 +1,209 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "JustVugg/colibri",
+      "link": "https://github.com/JustVugg/colibri",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e312473973b03bea9892035de82abbff0ab29ba3f66b32f1b8b75e93880b6f57/JustVugg/colibri\" referrerpolicy=\"no-referrer\"><br>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦<br><br>Language: C<br>Stars: 32330<br>Forks: 3404",
+      "contentSnippet": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦\nLanguage: C\nStars: 32330\nForks: 3404",
+      "creator": "JustVugg",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d\" referrerpolicy=\"no-referrer\"><br>Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.<br><br>Language: Go<br>Stars: 26152<br>Forks: 1887",
+      "contentSnippet": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\nLanguage: Go\nStars: 26152\nForks: 1887",
+      "creator": "alibaba",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "multimodal-art-projection/YuE",
+      "link": "https://github.com/multimodal-art-projection/YuE",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f5c2d0044309aac0e8fa7398f4af5033b73ea317956de6a1d38bcd535d826ac5/multimodal-art-projection/YuE\" referrerpolicy=\"no-referrer\"><br>YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.<br><br>Language: Python<br>Stars: 8502<br>Forks: 918",
+      "contentSnippet": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.\nLanguage: Python\nStars: 8502\nForks: 918",
+      "creator": "multimodal-art-projection",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc\" referrerpolicy=\"no-referrer\"><br>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br><br>Language: Python<br>Stars: 29530<br>Forks: 3581",
+      "contentSnippet": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\nLanguage: Python\nStars: 29530\nForks: 3581",
+      "creator": "debpalash",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "666ghj/MiroFish",
+      "link": "https://github.com/666ghj/MiroFish",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1104332987/1d2666e4-67da-4bb7-bd85-60d49f5d3e10\" referrerpolicy=\"no-referrer\"><br>A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物<br><br>Language: Python<br>Stars: 73317<br>Forks: 11295",
+      "contentSnippet": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物\nLanguage: Python\nStars: 73317\nForks: 11295",
+      "creator": "666ghj",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Panniantong/Agent-Reach",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/89a8d90e605b0af33da41349eea63ef06016b8e6ab9ff970fa087fbf5d3da2e0/Panniantong/Agent-Reach\" referrerpolicy=\"no-referrer\"><br>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.<br><br>Language: Python<br>Stars: 81477<br>Forks: 7089",
+      "contentSnippet": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\nLanguage: Python\nStars: 81477\nForks: 7089",
+      "creator": "Panniantong",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "asgeirtj/system_prompts_leaks",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/976921297/6c0bb133-1e4f-4a4e-9570-43797d4faefe\" referrerpolicy=\"no-referrer\"><br>Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.<br><br>Language: JavaScript<br>Stars: 66890<br>Forks: 10877",
+      "contentSnippet": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.\nLanguage: JavaScript\nStars: 66890\nForks: 10877",
+      "creator": "asgeirtj",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "rlaope/oh-my-hermes",
+      "link": "https://github.com/rlaope/oh-my-hermes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/57258d4c0c90b4c572da50e3868009e1084d07dc31dbacd356af788ed97ec7d1/rlaope/oh-my-hermes\" referrerpolicy=\"no-referrer\"><br>All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages<br><br>Language: Python<br>Stars: 2145<br>Forks: 166",
+      "contentSnippet": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages\nLanguage: Python\nStars: 2145\nForks: 166",
+      "creator": "rlaope",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "localsend/localsend",
+      "link": "https://github.com/localsend/localsend",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/578822531/6c3c4f46-0ab9-4737-9afe-7fa7f2f929d7\" referrerpolicy=\"no-referrer\"><br>An open-source cross-platform alternative to AirDrop<br><br>Language: Dart<br>Stars: 91415<br>Forks: 5102",
+      "contentSnippet": "An open-source cross-platform alternative to AirDrop\nLanguage: Dart\nStars: 91415\nForks: 5102",
+      "creator": "localsend",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "dani-garcia/vaultwarden",
+      "link": "https://github.com/dani-garcia/vaultwarden",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/89a8d90e605b0af33da41349eea63ef06016b8e6ab9ff970fa087fbf5d3da2e0/dani-garcia/vaultwarden\" referrerpolicy=\"no-referrer\"><br>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs<br><br>Language: Rust<br>Stars: 67578<br>Forks: 3213",
+      "contentSnippet": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs\nLanguage: Rust\nStars: 67578\nForks: 3213",
+      "creator": "dani-garcia",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "TauricResearch/TradingAgents",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1\" referrerpolicy=\"no-referrer\"><br>TradingAgents: Multi-Agents LLM Financial Trading Framework<br><br>Language: Python<br>Stars: 106265<br>Forks: 20319",
+      "contentSnippet": "TradingAgents: Multi-Agents LLM Financial Trading Framework\nLanguage: Python\nStars: 106265\nForks: 20319",
+      "creator": "TauricResearch",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ruvnet/RuView",
+      "link": "https://github.com/ruvnet/RuView",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/997737944/2860500f-6e90-47c1-a59a-1c83e376e5cf\" referrerpolicy=\"no-referrer\"><br>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.<br><br>Language: Rust<br>Stars: 93925<br>Forks: 12438",
+      "contentSnippet": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.\nLanguage: Rust\nStars: 93925\nForks: 12438",
+      "creator": "ruvnet",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "tech-leads-club/agent-skills",
+      "link": "https://github.com/tech-leads-club/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d10bac1f98c512de007f00ba8b23be39e4d6a50cb1af292eb99c403844f3db2d/tech-leads-club/agent-skills\" referrerpolicy=\"no-referrer\"><br>The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.<br><br>Language: TypeScript<br>Stars: 6125<br>Forks: 519",
+      "contentSnippet": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.\nLanguage: TypeScript\nStars: 6125\nForks: 519",
+      "creator": "tech-leads-club",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenBMB/VoxCPM",
+      "link": "https://github.com/OpenBMB/VoxCPM",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ba4a7b4f5c2ebf8f244bad11467d812322fb1cba2e551a3a772f175621e5bdb4/OpenBMB/VoxCPM\" referrerpolicy=\"no-referrer\"><br>VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning<br><br>Language: Python<br>Stars: 37436<br>Forks: 4252",
+      "contentSnippet": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning\nLanguage: Python\nStars: 37436\nForks: 4252",
+      "creator": "OpenBMB",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "huggingface/transformers",
+      "link": "https://github.com/huggingface/transformers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/155220641/a16c4880-a501-11ea-9e8f-646cf611702e\" referrerpolicy=\"no-referrer\"><br>🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. <br><br>Language: Python<br>Stars: 166050<br>Forks: 34580",
+      "contentSnippet": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. \nLanguage: Python\nStars: 166050\nForks: 34580",
+      "creator": "huggingface",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ever-co/ever-gauzy",
+      "link": "https://github.com/ever-co/ever-gauzy",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/189829392/7a1e420b-43dd-4690-ae69-a167a2b571d7\" referrerpolicy=\"no-referrer\"><br>Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co<br><br>Language: TypeScript<br>Stars: 6068<br>Forks: 991",
+      "contentSnippet": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co\nLanguage: TypeScript\nStars: 6068\nForks: 991",
+      "creator": "ever-co",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Crosstalk-Solutions/project-nomad",
+      "link": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/31ade64abcd2eb67087961e72c5942d80076cc2aa83bc599af138e5067363672/Crosstalk-Solutions/project-nomad\" referrerpolicy=\"no-referrer\"><br>Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.<br><br>Language: TypeScript<br>Stars: 36975<br>Forks: 3690",
+      "contentSnippet": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.\nLanguage: TypeScript\nStars: 36975\nForks: 3690",
+      "creator": "Crosstalk-Solutions",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "reconurge/flowsint",
+      "link": "https://github.com/reconurge/flowsint",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/717de25aed562964d763983476cb58023da3cd2c82976760a48acf357c33ed57/reconurge/flowsint\" referrerpolicy=\"no-referrer\"><br>A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.<br><br>Language: TypeScript<br>Stars: 8410<br>Forks: 1030",
+      "contentSnippet": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.\nLanguage: TypeScript\nStars: 8410\nForks: 1030",
+      "creator": "reconurge",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "peetzweg/opendisplay",
+      "link": "https://github.com/peetzweg/opendisplay",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6a6d984bc97fcb1b7c3ce7526ff11ad3dda340954d7e7c665084cf2e559d388d/peetzweg/opendisplay\" referrerpolicy=\"no-referrer\"><br>Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.<br><br>Language: Swift<br>Stars: 3661<br>Forks: 251",
+      "contentSnippet": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.\nLanguage: Swift\nStars: 3661\nForks: 251",
+      "creator": "peetzweg",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "SnailSploit/Claude-Red",
+      "link": "https://github.com/SnailSploit/Claude-Red",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c39475855c7c544acdc6e169acc8bcbd625b1f0d58fedfe607d1f1d521533abb/SnailSploit/Claude-Red\" referrerpolicy=\"no-referrer\"><br>claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.<br><br>Language: Python<br>Stars: 4846<br>Forks: 635",
+      "contentSnippet": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.\nLanguage: Python\nStars: 4846\nForks: 635",
+      "creator": "SnailSploit",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-09-15T04:03:01.774Z"
+}

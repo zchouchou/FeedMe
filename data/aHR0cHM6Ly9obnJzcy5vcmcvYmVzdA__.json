@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "pubDate": "Mon, 14 Sep 2026 17:50:29 +0000",
+      "isoDate": "2026-09-14T17:50:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\">https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49701004\">https://news.ycombinator.com/item?id=49701004</a></p>\n<p>Points: 427</p>\n<p># Comments: 482</p>\n",
+      "contentSnippet": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\nComments URL: https://news.ycombinator.com/item?id=49701004\nPoints: 427\n# Comments: 482",
+      "creator": "throw0101d",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Steam Frame starts at $1059",
+      "link": "https://store.steampowered.com/hardware/steamframe",
+      "pubDate": "Mon, 14 Sep 2026 17:27:55 +0000",
+      "isoDate": "2026-09-14T17:27:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://store.steampowered.com/hardware/steamframe\">https://store.steampowered.com/hardware/steamframe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49700661\">https://news.ycombinator.com/item?id=49700661</a></p>\n<p>Points: 539</p>\n<p># Comments: 417</p>\n",
+      "contentSnippet": "Article URL: https://store.steampowered.com/hardware/steamframe\nComments URL: https://news.ycombinator.com/item?id=49700661\nPoints: 539\n# Comments: 417",
+      "creator": "bsimpson",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Pion, an agent designed to run any company autonomously",
+      "link": "https://andonlabs.com/blog/why-we-built-pion",
+      "pubDate": "Mon, 14 Sep 2026 17:16:06 +0000",
+      "isoDate": "2026-09-14T17:16:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://andonlabs.com/blog/why-we-built-pion\">https://andonlabs.com/blog/why-we-built-pion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49700477\">https://news.ycombinator.com/item?id=49700477</a></p>\n<p>Points: 308</p>\n<p># Comments: 343</p>\n",
+      "contentSnippet": "Article URL: https://andonlabs.com/blog/why-we-built-pion\nComments URL: https://news.ycombinator.com/item?id=49700477\nPoints: 308\n# Comments: 343",
+      "creator": "lukaspetersson",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Distributed Systems Classics (2017)",
+      "link": "https://nvartolomei.com/dist-sys-classics/",
+      "pubDate": "Mon, 14 Sep 2026 16:02:01 +0000",
+      "isoDate": "2026-09-14T16:02:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://nvartolomei.com/dist-sys-classics/\">https://nvartolomei.com/dist-sys-classics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49699158\">https://news.ycombinator.com/item?id=49699158</a></p>\n<p>Points: 247</p>\n<p># Comments: 56</p>\n",
+      "contentSnippet": "Article URL: https://nvartolomei.com/dist-sys-classics/\nComments URL: https://news.ycombinator.com/item?id=49699158\nPoints: 247\n# Comments: 56",
+      "creator": "grep_it",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Dario, Please",
+      "link": "https://pop.rdi.sh/dario-please/",
+      "pubDate": "Mon, 14 Sep 2026 14:50:32 +0000",
+      "isoDate": "2026-09-14T14:50:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://pop.rdi.sh/dario-please/\">https://pop.rdi.sh/dario-please/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49697893\">https://news.ycombinator.com/item?id=49697893</a></p>\n<p>Points: 317</p>\n<p># Comments: 155</p>\n",
+      "contentSnippet": "Article URL: https://pop.rdi.sh/dario-please/\nComments URL: https://news.ycombinator.com/item?id=49697893\nPoints: 317\n# Comments: 155",
+      "creator": "0x5FC3",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How to write an effective software design document",
+      "link": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+      "pubDate": "Mon, 14 Sep 2026 13:00:46 +0000",
+      "isoDate": "2026-09-14T13:00:46.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://refactoringenglish.com/excerpts/write-an-effective-design-doc/\">https://refactoringenglish.com/excerpts/write-an-effective-design-doc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49696125\">https://news.ycombinator.com/item?id=49696125</a></p>\n<p>Points: 309</p>\n<p># Comments: 130</p>\n",
+      "contentSnippet": "Article URL: https://refactoringenglish.com/excerpts/write-an-effective-design-doc/\nComments URL: https://news.ycombinator.com/item?id=49696125\nPoints: 309\n# Comments: 130",
+      "creator": "fagnerbrack",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "pubDate": "Mon, 14 Sep 2026 12:40:57 +0000",
+      "isoDate": "2026-09-14T12:40:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/\">https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49695876\">https://news.ycombinator.com/item?id=49695876</a></p>\n<p>Points: 389</p>\n<p># Comments: 329</p>\n",
+      "contentSnippet": "Article URL: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/\nComments URL: https://news.ycombinator.com/item?id=49695876\nPoints: 389\n# Comments: 329",
+      "creator": "gregnavis",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+      "link": "https://xcancel.com/twitter",
+      "pubDate": "Mon, 14 Sep 2026 12:05:52 +0000",
+      "isoDate": "2026-09-14T12:05:52.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://xcancel.com/twitter\">https://xcancel.com/twitter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49695459\">https://news.ycombinator.com/item?id=49695459</a></p>\n<p>Points: 271</p>\n<p># Comments: 1</p>\n",
+      "contentSnippet": "Article URL: https://xcancel.com/twitter\nComments URL: https://news.ycombinator.com/item?id=49695459\nPoints: 271\n# Comments: 1",
+      "creator": "unfocso",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "link": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "pubDate": "Mon, 14 Sep 2026 12:01:32 +0000",
+      "isoDate": "2026-09-14T12:01:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/\">https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49695409\">https://news.ycombinator.com/item?id=49695409</a></p>\n<p>Points: 219</p>\n<p># Comments: 155</p>\n",
+      "contentSnippet": "Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/\nComments URL: https://news.ycombinator.com/item?id=49695409\nPoints: 219\n# Comments: 155",
+      "creator": "tosh",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "XCancel service is suspended until further notice",
+      "link": "https://xcancel.com/#",
+      "pubDate": "Mon, 14 Sep 2026 09:51:50 +0000",
+      "isoDate": "2026-09-14T09:51:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://xcancel.com/#\">https://xcancel.com/#</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49694296\">https://news.ycombinator.com/item?id=49694296</a></p>\n<p>Points: 493</p>\n<p># Comments: 793</p>\n",
+      "contentSnippet": "Article URL: https://xcancel.com/#\nComments URL: https://news.ycombinator.com/item?id=49694296\nPoints: 493\n# Comments: 793",
+      "creator": "gaganyaan",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
+      "link": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
+      "pubDate": "Mon, 14 Sep 2026 02:50:40 +0000",
+      "isoDate": "2026-09-14T02:50:40.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/8NmSg\" rel=\"nofollow\">https://archive.ph/8NmSg</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49691343\">https://news.ycombinator.com/item?id=49691343</a></p>\n<p>Points: 296</p>\n<p># Comments: 411</p>\n",
+      "contentSnippet": "https://archive.ph/8NmSg\nComments URL: https://news.ycombinator.com/item?id=49691343\nPoints: 296\n# Comments: 411",
+      "creator": "andsoitis",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The case against JPEG XL",
+      "link": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "pubDate": "Mon, 14 Sep 2026 01:02:37 +0000",
+      "isoDate": "2026-09-14T01:02:37.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://giannirosato.com/blog/post/case-against-jxl/\">https://giannirosato.com/blog/post/case-against-jxl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690554\">https://news.ycombinator.com/item?id=49690554</a></p>\n<p>Points: 261</p>\n<p># Comments: 349</p>\n",
+      "contentSnippet": "Article URL: https://giannirosato.com/blog/post/case-against-jxl/\nComments URL: https://news.ycombinator.com/item?id=49690554\nPoints: 261\n# Comments: 349",
+      "creator": "contact9879",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Apple's Dimensional Drawings",
+      "link": "https://developer.apple.com/accessories/dimensional-drawings/",
+      "pubDate": "Mon, 14 Sep 2026 00:11:21 +0000",
+      "isoDate": "2026-09-14T00:11:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://developer.apple.com/accessories/dimensional-drawings/\">https://developer.apple.com/accessories/dimensional-drawings/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690174\">https://news.ycombinator.com/item?id=49690174</a></p>\n<p>Points: 379</p>\n<p># Comments: 126</p>\n",
+      "contentSnippet": "Article URL: https://developer.apple.com/accessories/dimensional-drawings/\nComments URL: https://news.ycombinator.com/item?id=49690174\nPoints: 379\n# Comments: 126",
+      "creator": "herbertl",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The contagion of fear",
+      "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+      "pubDate": "Sun, 13 Sep 2026 22:38:18 +0000",
+      "isoDate": "2026-09-13T22:38:18.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/\">https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49689460\">https://news.ycombinator.com/item?id=49689460</a></p>\n<p>Points: 260</p>\n<p># Comments: 185</p>\n",
+      "contentSnippet": "Article URL: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/\nComments URL: https://news.ycombinator.com/item?id=49689460\nPoints: 260\n# Comments: 185",
+      "creator": "elffjs",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "pubDate": "Sun, 13 Sep 2026 21:47:04 +0000",
+      "isoDate": "2026-09-13T21:47:04.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10\">https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49689048\">https://news.ycombinator.com/item?id=49689048</a></p>\n<p>Points: 378</p>\n<p># Comments: 199</p>\n",
+      "contentSnippet": "Article URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10\nComments URL: https://news.ycombinator.com/item?id=49689048\nPoints: 378\n# Comments: 199",
+      "creator": "Cider9986",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "pubDate": "Sun, 13 Sep 2026 21:06:13 +0000",
+      "isoDate": "2026-09-13T21:06:13.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.vals.ai/blogs/fable-solves-cyphral-distich\">https://www.vals.ai/blogs/fable-solves-cyphral-distich</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688695\">https://news.ycombinator.com/item?id=49688695</a></p>\n<p>Points: 1179</p>\n<p># Comments: 546</p>\n",
+      "contentSnippet": "Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich\nComments URL: https://news.ycombinator.com/item?id=49688695\nPoints: 1179\n# Comments: 546",
+      "creator": "u1hcw9nx",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Mullenweg has returned as CEO after attempted board ouster",
+      "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "pubDate": "Sun, 13 Sep 2026 20:19:06 +0000",
+      "isoDate": "2026-09-13T20:19:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/\">https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688259\">https://news.ycombinator.com/item?id=49688259</a></p>\n<p>Points: 264</p>\n<p># Comments: 373</p>\n",
+      "contentSnippet": "Article URL: https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/\nComments URL: https://news.ycombinator.com/item?id=49688259\nPoints: 264\n# Comments: 373",
+      "creator": "ilamont",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+      "link": "https://twitter.com/TechEmails/status/2099214399840059428",
+      "pubDate": "Sun, 13 Sep 2026 20:08:45 +0000",
+      "isoDate": "2026-09-13T20:08:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/TechEmails/status/2099214399840059428\">https://twitter.com/TechEmails/status/2099214399840059428</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688157\">https://news.ycombinator.com/item?id=49688157</a></p>\n<p>Points: 310</p>\n<p># Comments: 143</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/TechEmails/status/2099214399840059428\nComments URL: https://news.ycombinator.com/item?id=49688157\nPoints: 310\n# Comments: 143",
+      "creator": "mfiguiere",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "I'm being cyberattacked by Tesla, Inc",
+      "link": "https://dreamstation.systems/personal/tesla.html",
+      "pubDate": "Sun, 13 Sep 2026 18:03:09 +0000",
+      "isoDate": "2026-09-13T18:03:09.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://dreamstation.systems/personal/tesla.html\">https://dreamstation.systems/personal/tesla.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49686766\">https://news.ycombinator.com/item?id=49686766</a></p>\n<p>Points: 451</p>\n<p># Comments: 119</p>\n",
+      "contentSnippet": "Article URL: https://dreamstation.systems/personal/tesla.html\nComments URL: https://news.ycombinator.com/item?id=49686766\nPoints: 451\n# Comments: 119",
+      "creator": "robinpie",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Global shortage has led to motor oil rationing at Costco",
+      "link": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
+      "pubDate": "Sun, 13 Sep 2026 17:57:59 +0000",
+      "isoDate": "2026-09-13T17:57:59.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/\">https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49686697\">https://news.ycombinator.com/item?id=49686697</a></p>\n<p>Points: 222</p>\n<p># Comments: 212</p>\n",
+      "contentSnippet": "Article URL: https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/\nComments URL: https://news.ycombinator.com/item?id=49686697\nPoints: 222\n# Comments: 212",
+      "creator": "mikhael",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Why is Google still serving dodgy ads?",
+      "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "pubDate": "Sun, 13 Sep 2026 17:37:44 +0000",
+      "isoDate": "2026-09-13T17:37:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads\">https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49686445\">https://news.ycombinator.com/item?id=49686445</a></p>\n<p>Points: 928</p>\n<p># Comments: 402</p>\n",
+      "contentSnippet": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads\nComments URL: https://news.ycombinator.com/item?id=49686445\nPoints: 928\n# Comments: 402",
+      "creator": "iamflimflam1",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Ask HN: What are you working on? (September 2026)",
+      "link": "https://news.ycombinator.com/item?id=49686380",
+      "pubDate": "Sun, 13 Sep 2026 17:31:38 +0000",
+      "isoDate": "2026-09-13T17:31:38.000Z",
+      "content": "\n<p>What are you working on? What have you been curious about lately?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49686380\">https://news.ycombinator.com/item?id=49686380</a></p>\n<p>Points: 303</p>\n<p># Comments: 957</p>\n",
+      "contentSnippet": "What are you working on? What have you been curious about lately?\nComments URL: https://news.ycombinator.com/item?id=49686380\nPoints: 303\n# Comments: 957",
+      "creator": "david927",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "link": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "pubDate": "Sun, 13 Sep 2026 16:52:33 +0000",
+      "isoDate": "2026-09-13T16:52:33.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/DavidSacks/status/2098973625252708460\">https://twitter.com/DavidSacks/status/2098973625252708460</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49685991\">https://news.ycombinator.com/item?id=49685991</a></p>\n<p>Points: 322</p>\n<p># Comments: 258</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/DavidSacks/status/2098973625252708460\nComments URL: https://news.ycombinator.com/item?id=49685991\nPoints: 322\n# Comments: 258",
+      "creator": "kolanos",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "pubDate": "Sun, 13 Sep 2026 15:44:38 +0000",
+      "isoDate": "2026-09-13T15:44:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/\">https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49685253\">https://news.ycombinator.com/item?id=49685253</a></p>\n<p>Points: 407</p>\n<p># Comments: 234</p>\n",
+      "contentSnippet": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/\nComments URL: https://news.ycombinator.com/item?id=49685253\nPoints: 407\n# Comments: 234",
+      "creator": "TheJCDenton",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "link": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "pubDate": "Sun, 13 Sep 2026 14:28:36 +0000",
+      "isoDate": "2026-09-13T14:28:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment\">https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684393\">https://news.ycombinator.com/item?id=49684393</a></p>\n<p>Points: 469</p>\n<p># Comments: 228</p>\n",
+      "contentSnippet": "Article URL: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment\nComments URL: https://news.ycombinator.com/item?id=49684393\nPoints: 469\n# Comments: 228",
+      "creator": "Levitating",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Data collected by cars and sold to third parties",
+      "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "pubDate": "Sun, 13 Sep 2026 13:45:08 +0000",
+      "isoDate": "2026-09-13T13:45:08.000Z",
+      "content": "\n<p><a href=\"https://web.archive.org/web/20260913134705/https://www.theverge.com/column/994172/your-car-is-selling-your-data\" rel=\"nofollow\">https://web.archive.org/web/20260913134705/https://www.theve...</a><p><a href=\"https://archive.ph/TWEVZ\" rel=\"nofollow\">https://archive.ph/TWEVZ</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49683953\">https://news.ycombinator.com/item?id=49683953</a></p>\n<p>Points: 469</p>\n<p># Comments: 250</p>\n",
+      "contentSnippet": "https://web.archive.org/web/20260913134705/https://www.theve...\nhttps://archive.ph/TWEVZ\nComments URL: https://news.ycombinator.com/item?id=49683953\nPoints: 469\n# Comments: 250",
+      "creator": "bookofjoe",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Flock worker calls police on reporter filming public camera installation",
+      "link": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
+      "pubDate": "Sun, 13 Sep 2026 13:35:31 +0000",
+      "isoDate": "2026-09-13T13:35:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/\">https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49683853\">https://news.ycombinator.com/item?id=49683853</a></p>\n<p>Points: 354</p>\n<p># Comments: 264</p>\n",
+      "contentSnippet": "Article URL: https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/\nComments URL: https://news.ycombinator.com/item?id=49683853\nPoints: 354\n# Comments: 264",
+      "creator": "SanjayMehta",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+      "pubDate": "Sun, 13 Sep 2026 12:30:15 +0000",
+      "isoDate": "2026-09-13T12:30:15.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689\">https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49683262\">https://news.ycombinator.com/item?id=49683262</a></p>\n<p>Points: 259</p>\n<p># Comments: 62</p>\n",
+      "contentSnippet": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689\nComments URL: https://news.ycombinator.com/item?id=49683262\nPoints: 259\n# Comments: 62",
+      "creator": "ibobev",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Homebrew 7.0.0",
+      "link": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+      "pubDate": "Sun, 13 Sep 2026 08:41:17 +0000",
+      "isoDate": "2026-09-13T08:41:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://brew.sh/2026/09/13/homebrew-7.0.0/\">https://brew.sh/2026/09/13/homebrew-7.0.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49681545\">https://news.ycombinator.com/item?id=49681545</a></p>\n<p>Points: 624</p>\n<p># Comments: 251</p>\n",
+      "contentSnippet": "Article URL: https://brew.sh/2026/09/13/homebrew-7.0.0/\nComments URL: https://news.ycombinator.com/item?id=49681545\nPoints: 624\n# Comments: 251",
+      "creator": "mikemcquaid",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "JetKVM Mini",
+      "link": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "pubDate": "Sun, 13 Sep 2026 07:49:46 +0000",
+      "isoDate": "2026-09-13T07:49:46.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://jetkvm.com/blog/introducing-jetkvm-mini\">https://jetkvm.com/blog/introducing-jetkvm-mini</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49681152\">https://news.ycombinator.com/item?id=49681152</a></p>\n<p>Points: 564</p>\n<p># Comments: 231</p>\n",
+      "contentSnippet": "Article URL: https://jetkvm.com/blog/introducing-jetkvm-mini\nComments URL: https://news.ycombinator.com/item?id=49681152\nPoints: 564\n# Comments: 231",
+      "creator": "taubek",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-09-15T04:02:58.475Z"
+}
