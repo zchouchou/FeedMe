@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d\" referrerpolicy=\"no-referrer\"><br>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.<br><br>Language: Go<br>Stars: 36794<br>Forks: 2620",
+      "contentSnippet": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\nLanguage: Go\nStars: 36794\nForks: 2620",
+      "creator": "alibaba",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ayghri/i-have-adhd",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fe1bc6f41a528fb126a05cf6b242ea4416e72299e09bb15e375cff085e7d249a/ayghri/i-have-adhd\" referrerpolicy=\"no-referrer\"><br>A skill to stop your coding agent from burying the answer. ADHD-friendly output.<br><br>Language: Python<br>Stars: 48150<br>Forks: 2801",
+      "contentSnippet": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.\nLanguage: Python\nStars: 48150\nForks: 2801",
+      "creator": "ayghri",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "bilawalsidhu/gods-eye-view",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ca7dfc22db847a6de7b00dea029c847ada3aafe9ca7219085afea5a424079b5b/bilawalsidhu/gods-eye-view\" referrerpolicy=\"no-referrer\"><br>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.<br><br>Language: JavaScript<br>Stars: 37915<br>Forks: 7647",
+      "contentSnippet": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\nLanguage: JavaScript\nStars: 37915\nForks: 7647",
+      "creator": "bilawalsidhu",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e13e12df5c20d330bfe42dff4ecc93f5e052775b57ac331e0ba0aae88ed6dd9c/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 262154<br>Forks: 39225",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 262154\nForks: 39225",
+      "creator": "affaan-m",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "link": "https://github.com/Tencent/WeKnora",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2340833435a4d84e8f6cbfe1e280cccc6109a18cdf34dd66f8f64cc7b5a962bd/Tencent/WeKnora\" referrerpolicy=\"no-referrer\"><br>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.<br><br>Language: Go<br>Stars: 27058<br>Forks: 3639",
+      "contentSnippet": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.\nLanguage: Go\nStars: 27058\nForks: 3639",
+      "creator": "Tencent",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anthropics/claude-code",
+      "link": "https://github.com/anthropics/claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ff33a754fcf7120ee0d8f0831c4bf1d561e201a3ec85ce3ff9a4ddaf888d82ef/anthropics/claude-code\" referrerpolicy=\"no-referrer\"><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.<br><br>Language: TypeScript<br>Stars: 146353<br>Forks: 23806",
+      "contentSnippet": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.\nLanguage: TypeScript\nStars: 146353\nForks: 23806",
+      "creator": "anthropics",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "link": "https://github.com/mksglu/context-mode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6a7e7f4ed919af8f8e57149c221127aaa12c76fe3e507ccd3bf108af96c90c3b/mksglu/context-mode\" referrerpolicy=\"no-referrer\"><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.<br><br>Language: TypeScript<br>Stars: 23552<br>Forks: 1695",
+      "contentSnippet": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.\nLanguage: TypeScript\nStars: 23552\nForks: 1695",
+      "creator": "mksglu",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/18a6c8eddde1f0873b14703802b70ca35e80e017e3d2ca0fadc633ca2fa5438a/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: JavaScript<br>Stars: 96467<br>Forks: 10199",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: JavaScript\nStars: 96467\nForks: 10199",
+      "creator": "addyosmani",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "max-sixty/worktrunk",
+      "link": "https://github.com/max-sixty/worktrunk",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1078528927/6196f2ac-248f-42f5-abb5-d18768111b3b\" referrerpolicy=\"no-referrer\"><br>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows<br><br>Language: Rust<br>Stars: 8035<br>Forks: 274",
+      "contentSnippet": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows\nLanguage: Rust\nStars: 8035\nForks: 274",
+      "creator": "max-sixty",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anthropics/knowledge-work-plugins",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b6f3aafdeacb2838c71a43d07963bc2be151e20c919142333a445212ae7c8653/anthropics/knowledge-work-plugins\" referrerpolicy=\"no-referrer\"><br>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork<br><br>Language: Python<br>Stars: 24915<br>Forks: 2973",
+      "contentSnippet": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\nLanguage: Python\nStars: 24915\nForks: 2973",
+      "creator": "anthropics",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "openai/plugins",
+      "link": "https://github.com/openai/plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c5b2e94573691e1889b0b980496a1275870235ed5b22e520aa97daa74162374a/openai/plugins\" referrerpolicy=\"no-referrer\"><br>OpenAI Plugins<br><br>Language: JavaScript<br>Stars: 6983<br>Forks: 902",
+      "contentSnippet": "OpenAI Plugins\nLanguage: JavaScript\nStars: 6983\nForks: 902",
+      "creator": "openai",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "blader/humanizer",
+      "link": "https://github.com/blader/humanizer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a722c50d4bfa1d231214e42419fb29b44db1de9906804ddf9f13fe43b7fbb3aa/blader/humanizer\" referrerpolicy=\"no-referrer\"><br>Agent skill that removes signs of AI-generated writing from text<br><br>Language: Python<br>Stars: 49980<br>Forks: 4035",
+      "contentSnippet": "Agent skill that removes signs of AI-generated writing from text\nLanguage: Python\nStars: 49980\nForks: 4035",
+      "creator": "blader",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "kunchenguid/firstmate",
+      "link": "https://github.com/kunchenguid/firstmate",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1266884317/d0bb9a65-8e65-4b71-bf01-3674d502d124\" referrerpolicy=\"no-referrer\"><br>Talk to one agent. Ship with a crew.<br><br>Language: Shell<br>Stars: 6570<br>Forks: 2003",
+      "contentSnippet": "Talk to one agent. Ship with a crew.\nLanguage: Shell\nStars: 6570\nForks: 2003",
+      "creator": "kunchenguid",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "link": "https://github.com/microsoft/markitdown",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c2ff5316df794aaed0c7942a71cf08f6843b240f559e4792736b07940331d982/microsoft/markitdown\" referrerpolicy=\"no-referrer\"><br>Python tool for converting files and office documents to Markdown.<br><br>Language: Python<br>Stars: 185446<br>Forks: 13651",
+      "contentSnippet": "Python tool for converting files and office documents to Markdown.\nLanguage: Python\nStars: 185446\nForks: 13651",
+      "creator": "microsoft",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "home-assistant/core",
+      "link": "https://github.com/home-assistant/core",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/12888993/b7c31002-f51f-45b9-ae79-1c1fd52e84ab\" referrerpolicy=\"no-referrer\"><br>:house_with_garden: Open source home automation that puts local control and privacy first.<br><br>Language: Python<br>Stars: 90745<br>Forks: 38701",
+      "contentSnippet": ":house_with_garden: Open source home automation that puts local control and privacy first.\nLanguage: Python\nStars: 90745\nForks: 38701",
+      "creator": "home-assistant",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "stablyai/orca",
+      "link": "https://github.com/stablyai/orca",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6bd6253b46d3542f7706384546cc395a138513e55de6045d0bdc3491a2a03618/stablyai/orca\" referrerpolicy=\"no-referrer\"><br>Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.<br><br>Language: TypeScript<br>Stars: 72055<br>Forks: 4710",
+      "contentSnippet": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.\nLanguage: TypeScript\nStars: 72055\nForks: 4710",
+      "creator": "stablyai",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0847a45ca450e27fa5cc5aa8cd64e6ed70b11a016a7db4cf9e72701b1e6a9825/heygen-com/hyperframes\" referrerpolicy=\"no-referrer\"><br>Write HTML. Render video. Built for agents.<br><br>Language: TypeScript<br>Stars: 51426<br>Forks: 4684",
+      "contentSnippet": "Write HTML. Render video. Built for agents.\nLanguage: TypeScript\nStars: 51426\nForks: 4684",
+      "creator": "heygen-com",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Panniantong/Agent-Reach",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c24e3eaa8151aeca2cd4fdec671d496fb17de4249adebd9b9d7d4aedc4f5f6ad/Panniantong/Agent-Reach\" referrerpolicy=\"no-referrer\"><br>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.<br><br>Language: Python<br>Stars: 83161<br>Forks: 7286",
+      "contentSnippet": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\nLanguage: Python\nStars: 83161\nForks: 7286",
+      "creator": "Panniantong",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/44ec59ff597d3d5e30a7aee1953950709e2de9fdd7615c9cd151775683edc5bb/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 288568<br>Forks: 25811",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 288568\nForks: 25811",
+      "creator": "obra",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "petergyang/no-ai-slop",
+      "link": "https://github.com/petergyang/no-ai-slop",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fa2030cd0ebc9d7b5e2d22b76000852b32bdccbb8ecd8af17543cb9350baa78a/petergyang/no-ai-slop\" referrerpolicy=\"no-referrer\"><br>Removes 20+ patterns of AI slop from any piece of writing.<br><br>Language: Python<br>Stars: 10585<br>Forks: 730",
+      "contentSnippet": "Removes 20+ patterns of AI slop from any piece of writing.\nLanguage: Python\nStars: 10585\nForks: 730",
+      "creator": "petergyang",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "danny-avila/LibreChat",
+      "link": "https://github.com/danny-avila/LibreChat",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0b6267a782cc0c609c8343dc011642a9c4ebe371ac3a15f9f76dc7fbe697d617/danny-avila/LibreChat\" referrerpolicy=\"no-referrer\"><br>Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active<br><br>Language: TypeScript<br>Stars: 44339<br>Forks: 9111",
+      "contentSnippet": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active\nLanguage: TypeScript\nStars: 44339\nForks: 9111",
+      "creator": "danny-avila",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-09-19T03:49:38.841Z"
+}
