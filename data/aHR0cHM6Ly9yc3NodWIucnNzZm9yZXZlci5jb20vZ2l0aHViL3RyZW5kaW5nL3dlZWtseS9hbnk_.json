@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/93e1e384943a9fa6db0e9d12ce1394eff11728389c8e2c9b6136dc0d56fb9cae/cloudflare/security-audit-skill\" referrerpolicy=\"no-referrer\"><br>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings<br><br>Language: JavaScript<br>Stars: 21692<br>Forks: 1251",
+      "contentSnippet": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\nLanguage: JavaScript\nStars: 21692\nForks: 1251",
+      "creator": "cloudflare",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anthropics/financial-services",
+      "link": "https://github.com/anthropics/financial-services",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6a5cda2ce05ef3cd53d136752f3e783da9d520ab9069ce905f33b44dd7bb8c9f/anthropics/financial-services\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Python<br>Stars: 37573<br>Forks: 5435",
+      "contentSnippet": "Language: Python\nStars: 37573\nForks: 5435",
+      "creator": "anthropics",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anthropics/claude-code",
+      "link": "https://github.com/anthropics/claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/379a85369e822d239726e011eaea9181325bb1b8ded7afc6fefb26c4408907ce/anthropics/claude-code\" referrerpolicy=\"no-referrer\"><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.<br><br>Language: TypeScript<br>Stars: 148117<br>Forks: 24617",
+      "contentSnippet": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.\nLanguage: TypeScript\nStars: 148117\nForks: 24617",
+      "creator": "anthropics",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d\" referrerpolicy=\"no-referrer\"><br>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.<br><br>Language: Go<br>Stars: 41391<br>Forks: 2975",
+      "contentSnippet": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\nLanguage: Go\nStars: 41391\nForks: 2975",
+      "creator": "alibaba",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7c7aa8c793b8fb09d7007f638ac384c6ed15101f5a21af48c4e2d14cdb303132/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 267563<br>Forks: 39965",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 267563\nForks: 39965",
+      "creator": "affaan-m",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "link": "https://github.com/Tencent/WeKnora",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/14e616672693855c4e8fcb4861fb32f4ddd83c32e3c330bb9a49326d7fc63d97/Tencent/WeKnora\" referrerpolicy=\"no-referrer\"><br>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.<br><br>Language: Go<br>Stars: 30131<br>Forks: 4046",
+      "contentSnippet": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.\nLanguage: Go\nStars: 30131\nForks: 4046",
+      "creator": "Tencent",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fd271506dd348ac3736c64fd1ccfa4a8b9456fdc4beeda3b6923b12dfb572d32/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: JavaScript<br>Stars: 99112<br>Forks: 10407",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: JavaScript\nStars: 99112\nForks: 10407",
+      "creator": "addyosmani",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "stablyai/orca",
+      "link": "https://github.com/stablyai/orca",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/15a6c1678c474a53d92106e449ce5cd6b7b38831877595a0d3ebe482f5058d0b/stablyai/orca\" referrerpolicy=\"no-referrer\"><br>Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.<br><br>Language: TypeScript<br>Stars: 78414<br>Forks: 5130",
+      "contentSnippet": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.\nLanguage: TypeScript\nStars: 78414\nForks: 5130",
+      "creator": "stablyai",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "vectorize-io/hindsight",
+      "link": "https://github.com/vectorize-io/hindsight",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7d228f8549c00829b96ca366da8fefbd8e3fb74db9b1a988faf55c0ce8e1f3f9/vectorize-io/hindsight\" referrerpolicy=\"no-referrer\"><br>Hindsight: Agent Memory That Learns<br><br>Language: Python<br>Stars: 29968<br>Forks: 3179",
+      "contentSnippet": "Hindsight: Agent Memory That Learns\nLanguage: Python\nStars: 29968\nForks: 3179",
+      "creator": "vectorize-io",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anthropics/knowledge-work-plugins",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3a6fdc764d4b0981078bf0d75508a7286f2080758af5eae6d807106828f3a8cf/anthropics/knowledge-work-plugins\" referrerpolicy=\"no-referrer\"><br>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork<br><br>Language: Python<br>Stars: 25632<br>Forks: 3033",
+      "contentSnippet": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\nLanguage: Python\nStars: 25632\nForks: 3033",
+      "creator": "anthropics",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "davila7/claude-code-templates",
+      "link": "https://github.com/davila7/claude-code-templates",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/663dbd25055302cd665a2cb9eaaea297f8e9839a68862ce9546cbaafaead6fc8/davila7/claude-code-templates\" referrerpolicy=\"no-referrer\"><br>CLI tool for configuring and monitoring Claude Code<br><br>Language: Python<br>Stars: 31841<br>Forks: 3621",
+      "contentSnippet": "CLI tool for configuring and monitoring Claude Code\nLanguage: Python\nStars: 31841\nForks: 3621",
+      "creator": "davila7",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "paperclipai/paperclip",
+      "link": "https://github.com/paperclipai/paperclip",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a24e85a72f95b55a137df067367b00162de05b76d11781fab82bbc471dbf8b79/paperclipai/paperclip\" referrerpolicy=\"no-referrer\"><br>The open-source app everyone uses to manage agents at work<br><br>Language: TypeScript<br>Stars: 85205<br>Forks: 15257",
+      "contentSnippet": "The open-source app everyone uses to manage agents at work\nLanguage: TypeScript\nStars: 85205\nForks: 15257",
+      "creator": "paperclipai",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "pytorch/pytorch",
+      "link": "https://github.com/pytorch/pytorch",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/bcd15f46c0b9f419aaa6d3eb8000cea5af95dbc71d73752bb0f60d440fa8e572/pytorch/pytorch\" referrerpolicy=\"no-referrer\"><br>Tensors and Dynamic neural networks in Python with strong GPU acceleration<br><br>Language: Python<br>Stars: 103333<br>Forks: 30477",
+      "contentSnippet": "Tensors and Dynamic neural networks in Python with strong GPU acceleration\nLanguage: Python\nStars: 103333\nForks: 30477",
+      "creator": "pytorch",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "TencentCloud/Octop",
+      "link": "https://github.com/TencentCloud/Octop",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e5347eb55eca1a38bfa644fa5762ac6c5ca183c58db5214ae54ba253571c1a1c/TencentCloud/Octop\" referrerpolicy=\"no-referrer\"><br>A smarter, self-hosted AI assistant — multi-user, multi-agent.<br><br>Language: Python<br>Stars: 4976<br>Forks: 589",
+      "contentSnippet": "A smarter, self-hosted AI assistant — multi-user, multi-agent.\nLanguage: Python\nStars: 4976\nForks: 589",
+      "creator": "TencentCloud",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "cloudflare/quiche",
+      "link": "https://github.com/cloudflare/quiche",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/150891532/2e6cb65b-af39-4800-ba9c-846e87230de5\" referrerpolicy=\"no-referrer\"><br>🥧 Savoury implementation of the QUIC transport protocol and HTTP/3<br><br>Language: Rust<br>Stars: 12615<br>Forks: 1149",
+      "contentSnippet": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3\nLanguage: Rust\nStars: 12615\nForks: 1149",
+      "creator": "cloudflare",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Fission-AI/OpenSpec",
+      "link": "https://github.com/Fission-AI/OpenSpec",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/85978be7f37525135b73bf8a609b1a730baf7734b2ac55e30d35be30f0df16a3/Fission-AI/OpenSpec\" referrerpolicy=\"no-referrer\"><br>Spec-driven development (SDD) for AI coding assistants.<br><br>Language: TypeScript<br>Stars: 70380<br>Forks: 4821",
+      "contentSnippet": "Spec-driven development (SDD) for AI coding assistants.\nLanguage: TypeScript\nStars: 70380\nForks: 4821",
+      "creator": "Fission-AI",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "HKUDS/CLI-Anything",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/272f679c4632865777e0d3b664e54d75fbcad4fb92d20f18c29b4b030c1678e3/HKUDS/CLI-Anything\" referrerpolicy=\"no-referrer\"><br>\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/<br><br>Language: Python<br>Stars: 50552<br>Forks: 4628",
+      "contentSnippet": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\nLanguage: Python\nStars: 50552\nForks: 4628",
+      "creator": "HKUDS",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "superdesigndev/treg",
+      "link": "https://github.com/superdesigndev/treg",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/bd01d36b4ba32325e5398b14675464f2e7b178cdcd6f51ef7c98285aa510fba5/superdesigndev/treg\" referrerpolicy=\"no-referrer\"><br>OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn<br><br>Language: Python<br>Stars: 3402<br>Forks: 279",
+      "contentSnippet": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn\nLanguage: Python\nStars: 3402\nForks: 279",
+      "creator": "superdesigndev",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "cline/cline",
+      "link": "https://github.com/cline/cline",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4087a86c41e78086c027306cb6af04259e45a705cba7176047cb8a68962acd31/cline/cline\" referrerpolicy=\"no-referrer\"><br>Autonomous coding agent as an SDK, IDE extension, or CLI assistant.<br><br>Language: TypeScript<br>Stars: 69335<br>Forks: 7521",
+      "contentSnippet": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.\nLanguage: TypeScript\nStars: 69335\nForks: 7521",
+      "creator": "cline",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "odoo/odoo",
+      "link": "https://github.com/odoo/odoo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9acf0be7453716bbe7cf2a257148fc409d7e98ed2e3de21eac48b09a2fbe004e/odoo/odoo\" referrerpolicy=\"no-referrer\"><br>Odoo. Open Source Apps To Grow Your Business.<br><br>Language: Python<br>Stars: 54660<br>Forks: 33838",
+      "contentSnippet": "Odoo. Open Source Apps To Grow Your Business.\nLanguage: Python\nStars: 54660\nForks: 33838",
+      "creator": "odoo",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "bojieli/ai-agent-book",
+      "link": "https://github.com/bojieli/ai-agent-book",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2ce347aaa3ab0fe3246aa21b333dbd2428e9cea04fb0dd9168d3eb425d88d89c/bojieli/ai-agent-book\" referrerpolicy=\"no-referrer\"><br>《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码<br><br>Language: Python<br>Stars: 51031<br>Forks: 5724",
+      "contentSnippet": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码\nLanguage: Python\nStars: 51031\nForks: 5724",
+      "creator": "bojieli",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-09-26T04:11:43.257Z"
+}

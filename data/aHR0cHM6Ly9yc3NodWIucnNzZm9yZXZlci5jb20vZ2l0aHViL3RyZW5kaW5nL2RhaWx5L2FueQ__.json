@@ -1,0 +1,169 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "paperclipai/paperclip",
+      "link": "https://github.com/paperclipai/paperclip",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a24e85a72f95b55a137df067367b00162de05b76d11781fab82bbc471dbf8b79/paperclipai/paperclip\" referrerpolicy=\"no-referrer\"><br>The open-source app everyone uses to manage agents at work<br><br>Language: TypeScript<br>Stars: 85205<br>Forks: 15257",
+      "contentSnippet": "The open-source app everyone uses to manage agents at work\nLanguage: TypeScript\nStars: 85205\nForks: 15257",
+      "creator": "paperclipai",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anthropics/claude-plugins-official",
+      "link": "https://github.com/anthropics/claude-plugins-official",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/bba1e48a735fd3fd02982e8387a07cd412527f277c4dd61e407198694a239189/anthropics/claude-plugins-official\" referrerpolicy=\"no-referrer\"><br>Official, Anthropic-managed directory of high quality Claude Code Plugins.<br><br>Language: Python<br>Stars: 36964<br>Forks: 4155",
+      "contentSnippet": "Official, Anthropic-managed directory of high quality Claude Code Plugins.\nLanguage: Python\nStars: 36964\nForks: 4155",
+      "creator": "anthropics",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "vectorize-io/hindsight",
+      "link": "https://github.com/vectorize-io/hindsight",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7d228f8549c00829b96ca366da8fefbd8e3fb74db9b1a988faf55c0ce8e1f3f9/vectorize-io/hindsight\" referrerpolicy=\"no-referrer\"><br>Hindsight: Agent Memory That Learns<br><br>Language: Python<br>Stars: 29968<br>Forks: 3179",
+      "contentSnippet": "Hindsight: Agent Memory That Learns\nLanguage: Python\nStars: 29968\nForks: 3179",
+      "creator": "vectorize-io",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4aed9798604f1109599f085ea367a278f512adfcf9b01ad91859f398f0d5a544/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 291712<br>Forks: 26110",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 291712\nForks: 26110",
+      "creator": "obra",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/65786b2047d025c2108efddda5c116b385e9120d97fc4d3e925466cc2f8b674b/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 269789<br>Forks: 22734",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 269789\nForks: 22734",
+      "creator": "mattpocock",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "dream-num/univer",
+      "link": "https://github.com/dream-num/univer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/543101941/085c0737-5cb6-434f-ac47-1c26f51c46d0\" referrerpolicy=\"no-referrer\"><br>The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.<br><br>Language: TypeScript<br>Stars: 18659<br>Forks: 1589",
+      "contentSnippet": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.\nLanguage: TypeScript\nStars: 18659\nForks: 1589",
+      "creator": "dream-num",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anthropics/skills",
+      "link": "https://github.com/anthropics/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8b325e9012fb2905ff0f0e41d1fdaaf144302c331a3354259bdcd500c096c6c0/anthropics/skills\" referrerpolicy=\"no-referrer\"><br>Public repository for Agent Skills<br><br>Language: Python<br>Stars: 178374<br>Forks: 21117",
+      "contentSnippet": "Public repository for Agent Skills\nLanguage: Python\nStars: 178374\nForks: 21117",
+      "creator": "anthropics",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "androoAGI/starnet",
+      "link": "https://github.com/androoAGI/starnet",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0564678a13dd34b76a495285591ddcf70e420bf213d7d8dd52a60c4c851a792a/androoAGI/starnet\" referrerpolicy=\"no-referrer\"><br>A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.<br><br>Language: JavaScript<br>Stars: 520<br>Forks: 98",
+      "contentSnippet": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.\nLanguage: JavaScript\nStars: 520\nForks: 98",
+      "creator": "androoAGI",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "derv82/wifit3",
+      "link": "https://github.com/derv82/wifit3",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1275465781/182e8ed0-3074-42a3-bafe-253a753780df\" referrerpolicy=\"no-referrer\"><br>Wifite but USB-only &amp; cross-platform.<br><br>Language: Python<br>Stars: 979<br>Forks: 89",
+      "contentSnippet": "Wifite but USB-only & cross-platform.\nLanguage: Python\nStars: 979\nForks: 89",
+      "creator": "derv82",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "kelseyhightower/kubernetes-the-hard-way",
+      "link": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1f72761dd294035d530af3b6e359c6406aed9e5b40360684f93829fb819c752e/kelseyhightower/kubernetes-the-hard-way\" referrerpolicy=\"no-referrer\"><br>Bootstrap Kubernetes the hard way. No scripts.<br><br>Language: Unknown<br>Stars: 50145<br>Forks: 15921",
+      "contentSnippet": "Bootstrap Kubernetes the hard way. No scripts.\nLanguage: Unknown\nStars: 50145\nForks: 15921",
+      "creator": "kelseyhightower",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1185590488/a8b65f74-921c-4682-94c5-7cb82b65ba2c\" referrerpolicy=\"no-referrer\"><br>Learn it. Build it. Ship it for others.<br><br>Language: Python<br>Stars: 57640<br>Forks: 10040",
+      "contentSnippet": "Learn it. Build it. Ship it for others.\nLanguage: Python\nStars: 57640\nForks: 10040",
+      "creator": "rohitg00",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "shy3130/tick-stock-panel",
+      "link": "https://github.com/shy3130/tick-stock-panel",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1a51847b63c15f74999938e9694f4ccaab35b0dca7d72153ad7cfabe50eb6b35/shy3130/tick-stock-panel\" referrerpolicy=\"no-referrer\"><br>TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源<br><br>Language: Python<br>Stars: 5168<br>Forks: 1259",
+      "contentSnippet": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源\nLanguage: Python\nStars: 5168\nForks: 1259",
+      "creator": "shy3130",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "google/ax",
+      "link": "https://github.com/google/ax",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/52f6cf60e6d4ce9d18150188c217f3fc359477bf45a0cf4680d7daa967024c56/google/ax\" referrerpolicy=\"no-referrer\"><br>Google's open agentic orchestration runtime<br><br>Language: Go<br>Stars: 11585<br>Forks: 556",
+      "contentSnippet": "Google's open agentic orchestration runtime\nLanguage: Go\nStars: 11585\nForks: 556",
+      "creator": "google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "link": "https://github.com/NVIDIA/Model-Optimizer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/663f0537b382d6d15f1abd2d8a79ee15df9e2a03a96a798074253c4073a928e1/NVIDIA/Model-Optimizer\" referrerpolicy=\"no-referrer\"><br>A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.<br><br>Language: Python<br>Stars: 4509<br>Forks: 653",
+      "contentSnippet": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.\nLanguage: Python\nStars: 4509\nForks: 653",
+      "creator": "NVIDIA",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/345bb475f2cfed167ac02c2b0f5e05c2bd161c619eea171e7464def7e0d1fa7f/pbakaus/impeccable\" referrerpolicy=\"no-referrer\"><br>The design language that makes your AI harness better at design.<br><br>Language: JavaScript<br>Stars: 71253<br>Forks: 4310",
+      "contentSnippet": "The design language that makes your AI harness better at design.\nLanguage: JavaScript\nStars: 71253\nForks: 4310",
+      "creator": "pbakaus",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "openbao/openbao",
+      "link": "https://github.com/openbao/openbao",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/84757f61eb71635f075c10d0450389b1457b5ca5617c313c0fb478c270e30271/openbao/openbao\" referrerpolicy=\"no-referrer\"><br>OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.<br><br>Language: Go<br>Stars: 7771<br>Forks: 587",
+      "contentSnippet": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.\nLanguage: Go\nStars: 7771\nForks: 587",
+      "creator": "openbao",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-09-26T04:11:38.659Z"
+}

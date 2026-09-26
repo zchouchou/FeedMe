@@ -1,0 +1,117 @@
+{
+  "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+  "title": "Microsoft Research",
+  "description": "",
+  "link": "https://www.microsoft.com/en-us/research/",
+  "items": [
+    {
+      "title": "Offloaded inference for real-world physical AI robotics",
+      "link": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+      "pubDate": "Wed, 23 Sep 2026 16:01:36 +0000",
+      "isoDate": "2026-09-23T16:01:36.000Z",
+      "content": "<p>Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/\">Offloaded inference for real-world physical AI robotics</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads.\nThe post Offloaded inference for real-world physical AI robotics appeared first on Microsoft Research.",
+      "creator": "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
+      "enclosure": {
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/SO101-handover-1.mp4",
+        "type": "video/mp4"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+      "link": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+      "pubDate": "Mon, 21 Sep 2026 15:30:19 +0000",
+      "isoDate": "2026-09-21T15:30:19.000Z",
+      "content": "<p>Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical synthesis, helping researchers explore a wide range of molecules.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/\">Improving synthesis prediction of small molecules at scale with RetroChimera</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical synthesis, helping researchers explore a wide range of molecules.\nThe post Improving synthesis prediction of small molecules at scale with RetroChimera appeared first on Microsoft Research.",
+      "creator": "Felix Pultar, John Gardner, Guoqing Liu, Marwin Segler",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+      "link": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+      "pubDate": "Mon, 31 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-31T16:00:00.000Z",
+      "content": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/\">GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration.\nThe post GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models appeared first on Microsoft Research.",
+      "creator": "Naoto Usuyama, Jeya Maria Jose Valanarasu, Tristan Naumann",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Broadening access to Skala creates a faster path to predictive DFT ",
+      "link": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+      "pubDate": "Thu, 20 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-20T16:00:00.000Z",
+      "content": "<p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track computational performance. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/\">Broadening access to Skala creates a faster path to predictive DFT </a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track computational performance. \nThe post Broadening access to Skala creates a faster path to predictive DFT  appeared first on Microsoft Research.",
+      "creator": "Sebastian Ehlert, Stefano Battaglia, Thijs Vogels, Jan Hermann, Jens Wehner, Giulia Luise, Klaas Giesbertz, Chin-Wei Huang, Aaron Kaplan, Kate Milton, Stephanie Marisa Lanius, Derk Kooi, P. Bern&aacute;t Szab&oacute;, Gregor Simm, Rianne van den Berg, Paola Gori Giorgi",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "MindTopo reveals VLMs’ spatial reasoning abilities",
+      "link": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+      "pubDate": "Wed, 12 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-12T16:00:00.000Z",
+      "content": "<p>A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and  highlights new opportunities to strengthen spatial reasoning and planning.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/\">MindTopo reveals VLMs&#8217; spatial reasoning abilities</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and  highlights new opportunities to strengthen spatial reasoning and planning.\nThe post MindTopo reveals VLMs’ spatial reasoning abilities appeared first on Microsoft Research.",
+      "creator": "Yunfei Ge, Anbang Liu, Qineng Wang, Johnalbert Garnica, Zihan Wang, Reuben Tan, Jianfeng Gao, Ruohan Zhang, Yining Hong, Jiajun Wu, Manling Li",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+      "link": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+      "pubDate": "Tue, 11 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-11T16:00:00.000Z",
+      "content": "<p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpretation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/\">Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpretation.\nThe post Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement appeared first on Microsoft Research.",
+      "creator": "Mercy Ranjit, Nikhilesh E, Dr. Abhyuday Kumara  Swamy, Tanuja Ganu",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Orchard: An open framework for scalable agentic AI",
+      "link": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+      "pubDate": "Mon, 03 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-03T16:00:00.000Z",
+      "content": "<p>Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by enabling researchers to reuse the same infrastructure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/\">Orchard: An open framework for scalable agentic AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by enabling researchers to reuse the same infrastructure.\nThe post Orchard: An open framework for scalable agentic AI appeared first on Microsoft Research.",
+      "creator": "Baolin Peng, Wenlin Yao, Qianhui Wu, Hao Cheng, Jianfeng Gao",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Echoverse: Deep, evolving environments for computer-use agents",
+      "link": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+      "pubDate": "Thu, 30 Jul 2026 17:00:00 +0000",
+      "isoDate": "2026-07-30T17:00:00.000Z",
+      "content": "<p>Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the tasks, tests, and environments evolve.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/\">Echoverse: Deep, evolving environments for computer-use agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the tasks, tests, and environments evolve.\nThe post Echoverse: Deep, evolving environments for computer-use agents appeared first on Microsoft Research.",
+      "creator": "Akshay Nambi, Yash Pandya, Sahil Gupta, Sarthak Harne, Kavyansh Chourasia, Yash Lara, Ahmed Awadallah",
+      "enclosure": {
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/07/Hero-video.mp4",
+        "type": "video/mp4"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "EvoLib: Turning experience into evolving knowledge",
+      "link": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+      "pubDate": "Thu, 30 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-30T16:00:00.000Z",
+      "content": "<p>LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/\">EvoLib: Turning experience into evolving knowledge</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment. \nThe post EvoLib: Turning experience into evolving knowledge appeared first on Microsoft Research.",
+      "creator": "Weijia Xu, Zelalem Gero, Michel Galley, Eric Yuan, Jianfeng Gao",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
+      "link": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+      "pubDate": "Mon, 13 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-13T16:00:00.000Z",
+      "content": "<p>Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/\">Verifying Rust cryptography in SymCrypt, from standards to code</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.\nThe post Verifying Rust cryptography in SymCrypt, from standards to code appeared first on Microsoft Research.",
+      "creator": "Son Ho, Cédric Fournet, Antoine Delignat-Lavaud, Samuel Lee, Jason Fisher, Jessica Krynitsky",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-09-26T04:12:03.946Z"
+}
