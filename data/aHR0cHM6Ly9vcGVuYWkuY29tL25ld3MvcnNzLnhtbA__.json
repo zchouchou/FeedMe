@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://openai.com/news/rss.xml",
+  "title": "OpenAI News",
+  "description": "The OpenAI blog",
+  "link": "https://openai.com/news",
+  "items": [
+    {
+      "title": "A model guide for the GPT-6 family",
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
+      "pubDate": "Fri, 02 Oct 2026 16:15:00 GMT",
+      "isoDate": "2026-10-02T16:15:00.000Z",
+      "content": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "contentSnippet": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "link": "https://openai.com/index/chatham-financial",
+      "pubDate": "Fri, 02 Oct 2026 00:00:00 GMT",
+      "isoDate": "2026-10-02T00:00:00.000Z",
+      "content": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "contentSnippet": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The eternal complement",
+      "link": "https://openai.com/index/the-eternal-complement",
+      "pubDate": "Thu, 01 Oct 2026 17:00:00 GMT",
+      "isoDate": "2026-10-01T17:00:00.000Z",
+      "content": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "contentSnippet": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "link": "https://openai.com/index/albertsons-reimagining-retail",
+      "pubDate": "Thu, 01 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-01T16:00:00.000Z",
+      "content": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "contentSnippet": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "link": "https://openai.com/index/the-den-family-social",
+      "pubDate": "Thu, 01 Oct 2026 00:00:00 GMT",
+      "isoDate": "2026-10-01T00:00:00.000Z",
+      "content": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "contentSnippet": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "pubDate": "Wed, 30 Sep 2026 10:30:00 GMT",
+      "isoDate": "2026-09-30T10:30:00.000Z",
+      "content": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "contentSnippet": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Helping small businesses put AI to work",
+      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "pubDate": "Wed, 30 Sep 2026 10:00:00 GMT",
+      "isoDate": "2026-09-30T10:00:00.000Z",
+      "content": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "contentSnippet": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "DevDay 2026 Recap",
+      "link": "https://openai.com/index/devday-2026-recap",
+      "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "isoDate": "2026-09-29T10:00:00.000Z",
+      "content": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "contentSnippet": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Introducing GPT-6.1 Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "isoDate": "2026-09-29T10:00:00.000Z",
+      "content": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "contentSnippet": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Introducing dots",
+      "link": "https://openai.com/index/introducing-dots",
+      "pubDate": "Tue, 29 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-29T00:00:00.000Z",
+      "content": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "contentSnippet": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How we will do better for Australia",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "pubDate": "Mon, 28 Sep 2026 19:00:00 GMT",
+      "isoDate": "2026-09-28T19:00:00.000Z",
+      "content": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "contentSnippet": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Towards safety cases for frontier AI training",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "pubDate": "Mon, 28 Sep 2026 19:00:00 GMT",
+      "isoDate": "2026-09-28T19:00:00.000Z",
+      "content": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "contentSnippet": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "isoDate": "2026-09-28T07:00:00.000Z",
+      "content": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "contentSnippet": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "pubDate": "Mon, 28 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-28T00:00:00.000Z",
+      "content": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "contentSnippet": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Are you a Codex Original?",
+      "link": "https://openai.com/form/codex-originals",
+      "pubDate": "Mon, 28 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-28T00:00:00.000Z",
+      "content": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "contentSnippet": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "link": "https://openai.com/index/proaction",
+      "pubDate": "Fri, 25 Sep 2026 19:00:00 GMT",
+      "isoDate": "2026-09-25T19:00:00.000Z",
+      "content": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "contentSnippet": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Two years of OpenAI Academy",
+      "link": "https://openai.com/index/two-years-of-openai-academy",
+      "pubDate": "Wed, 23 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-23T16:00:00.000Z",
+      "content": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "contentSnippet": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "pubDate": "Wed, 23 Sep 2026 13:00:00 GMT",
+      "isoDate": "2026-09-23T13:00:00.000Z",
+      "content": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "contentSnippet": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-23T12:00:00.000Z",
+      "content": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "contentSnippet": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "link": "https://openai.com/index/ringg",
+      "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-23T12:00:00.000Z",
+      "content": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "contentSnippet": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-23T12:00:00.000Z",
+      "content": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "contentSnippet": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-23T12:00:00.000Z",
+      "content": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "contentSnippet": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Introducing MentalHealthBench",
+      "link": "https://openai.com/index/introducing-mentalhealthbench",
+      "pubDate": "Wed, 23 Sep 2026 10:00:00 GMT",
+      "isoDate": "2026-09-23T10:00:00.000Z",
+      "content": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+      "contentSnippet": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "pubDate": "Wed, 23 Sep 2026 02:00:00 GMT",
+      "isoDate": "2026-09-23T02:00:00.000Z",
+      "content": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+      "contentSnippet": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "link": "https://openai.com/index/airbnb-gpt-6-astra",
+      "pubDate": "Wed, 23 Sep 2026 01:00:00 GMT",
+      "isoDate": "2026-09-23T01:00:00.000Z",
+      "content": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+      "contentSnippet": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "pubDate": "Wed, 23 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-23T00:00:00.000Z",
+      "content": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "contentSnippet": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Better prompt caching for GPT-6",
+      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "pubDate": "Tue, 22 Sep 2026 21:00:00 GMT",
+      "isoDate": "2026-09-22T21:00:00.000Z",
+      "content": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "contentSnippet": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Introducing GPT-6 Sol and Luna",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "pubDate": "Tue, 22 Sep 2026 18:00:00 GMT",
+      "isoDate": "2026-09-22T18:00:00.000Z",
+      "content": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "contentSnippet": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "pubDate": "Tue, 22 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-22T12:00:00.000Z",
+      "content": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "contentSnippet": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Priorities and principles for effective third party assessments",
+      "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-22T00:00:00.000Z",
+      "content": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "contentSnippet": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T04:29:00.217Z"
+}

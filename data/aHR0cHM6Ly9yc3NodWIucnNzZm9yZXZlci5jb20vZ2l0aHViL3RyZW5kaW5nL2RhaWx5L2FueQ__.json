@@ -1,0 +1,179 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "Panniantong/Agent-Reach",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f8565e7ff62aecc355f7e812d1dd7e95a49a283d44091c79522476a24fe04f34/Panniantong/Agent-Reach\" referrerpolicy=\"no-referrer\"><br>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.<br><br>Language: Python<br>Stars: 88870<br>Forks: 7826",
+      "contentSnippet": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\nLanguage: Python\nStars: 88870\nForks: 7826",
+      "creator": "Panniantong",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "link": "https://github.com/JuliusBrussee/caveman",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b28a2d0ff2f5c4bac05d84f43c8769c821a1017a8c9f2ab825facbfd9361c923/JuliusBrussee/caveman\" referrerpolicy=\"no-referrer\"><br>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.<br><br>Language: Go<br>Stars: 109166<br>Forks: 6318",
+      "contentSnippet": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.\nLanguage: Go\nStars: 109166\nForks: 6318",
+      "creator": "JuliusBrussee",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/58df820753b31251119b18af3c5aab2cb022701e16c54bc43d36d9bbeebe854b/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 294525<br>Forks: 26324",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 294525\nForks: 26324",
+      "creator": "obra",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6\" referrerpolicy=\"no-referrer\"><br>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.<br><br>Language: JavaScript<br>Stars: 151973<br>Forks: 8151",
+      "contentSnippet": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\nLanguage: JavaScript\nStars: 151973\nForks: 8151",
+      "creator": "DietrichGebert",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ca0a4b9394fbf4d9680245d5fca51d5c3108f65c4de2655d4c75fbc6b6617f93/pbakaus/impeccable\" referrerpolicy=\"no-referrer\"><br>The design language that makes your AI harness better at design.<br><br>Language: JavaScript<br>Stars: 74432<br>Forks: 4485",
+      "contentSnippet": "The design language that makes your AI harness better at design.\nLanguage: JavaScript\nStars: 74432\nForks: 4485",
+      "creator": "pbakaus",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/67691bd15c2f5a522a3d40ef9897a622b18ae96c4b455389338755e213c8ff02/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 274803<br>Forks: 23068",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 274803\nForks: 23068",
+      "creator": "mattpocock",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "NVIDIA/OpenShell",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f3dafa05e3c48cc6297762b099679ae655f4d257d083d159c27d6a8d7b6a1df8/NVIDIA/OpenShell\" referrerpolicy=\"no-referrer\"><br>OpenShell is the safe, private runtime for autonomous AI agents.<br><br>Language: Rust<br>Stars: 14479<br>Forks: 1664",
+      "contentSnippet": "OpenShell is the safe, private runtime for autonomous AI agents.\nLanguage: Rust\nStars: 14479\nForks: 1664",
+      "creator": "NVIDIA",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "coreyhaines31/marketingskills",
+      "link": "https://github.com/coreyhaines31/marketingskills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cce880db44168d0e96c3a5cc935ebdfe001c43de33259d0993ac5f94546f85d7/coreyhaines31/marketingskills\" referrerpolicy=\"no-referrer\"><br>Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.<br><br>Language: JavaScript<br>Stars: 52460<br>Forks: 7882",
+      "contentSnippet": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.\nLanguage: JavaScript\nStars: 52460\nForks: 7882",
+      "creator": "coreyhaines31",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9e4428461aa25235d5379e539b2aead34fa906166bfe0eb5d29c0a665024a1dc/heygen-com/hyperframes\" referrerpolicy=\"no-referrer\"><br>Write HTML. Render video. Built for agents.<br><br>Language: TypeScript<br>Stars: 55968<br>Forks: 5041",
+      "contentSnippet": "Write HTML. Render video. Built for agents.\nLanguage: TypeScript\nStars: 55968\nForks: 5041",
+      "creator": "heygen-com",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "link": "https://github.com/mksglu/context-mode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a2c86f11f0665a68574c73c69e077e5557073573a9b1cab1fde6f4a0d6eada3c/mksglu/context-mode\" referrerpolicy=\"no-referrer\"><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.<br><br>Language: TypeScript<br>Stars: 25080<br>Forks: 1800",
+      "contentSnippet": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.\nLanguage: TypeScript\nStars: 25080\nForks: 1800",
+      "creator": "mksglu",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "google/skills",
+      "link": "https://github.com/google/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d4cee77d0a2122a6e02fbaefcf7d672a6afc0b70f014141241b24bd9118d52fc/google/skills\" referrerpolicy=\"no-referrer\"><br>Agent Skills for Google products and technologies<br><br>Language: Python<br>Stars: 20794<br>Forks: 1724",
+      "contentSnippet": "Agent Skills for Google products and technologies\nLanguage: Python\nStars: 20794\nForks: 1724",
+      "creator": "google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "getsentry/sentry",
+      "link": "https://github.com/getsentry/sentry",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8a9bc4b205e666dc6eefdcde824f01880f040fa49c7ea121c917bb7631ec59c9/getsentry/sentry\" referrerpolicy=\"no-referrer\"><br>Developer-first error tracking and performance monitoring<br><br>Language: Python<br>Stars: 45057<br>Forks: 4893",
+      "contentSnippet": "Developer-first error tracking and performance monitoring\nLanguage: Python\nStars: 45057\nForks: 4893",
+      "creator": "getsentry",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "colbymchenry/codegraph",
+      "link": "https://github.com/colbymchenry/codegraph",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/75e04ed4c158977277225450d866c448eca54ab7c860ff0c8b32d327575e0911/colbymchenry/codegraph\" referrerpolicy=\"no-referrer\"><br>Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local<br><br>Language: C<br>Stars: 73009<br>Forks: 4686",
+      "contentSnippet": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local\nLanguage: C\nStars: 73009\nForks: 4686",
+      "creator": "colbymchenry",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "cursor/plugins",
+      "link": "https://github.com/cursor/plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/41dfa9d4383abbec0f495f67af906bee38dc82544c8052b39ed83ca49d3aae6a/cursor/plugins\" referrerpolicy=\"no-referrer\"><br>Cursor plugin specification and official plugins<br><br>Language: TypeScript<br>Stars: 9528<br>Forks: 901",
+      "contentSnippet": "Cursor plugin specification and official plugins\nLanguage: TypeScript\nStars: 9528\nForks: 901",
+      "creator": "cursor",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "mvschwarz/openrig",
+      "link": "https://github.com/mvschwarz/openrig",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1198124295/1af4015a-ccfc-48e2-9d75-81ff3f15e3a1\" referrerpolicy=\"no-referrer\"><br>Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.<br><br>Language: TypeScript<br>Stars: 4409<br>Forks: 301",
+      "contentSnippet": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.\nLanguage: TypeScript\nStars: 4409\nForks: 301",
+      "creator": "mvschwarz",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Effect-TS/effect",
+      "link": "https://github.com/Effect-TS/effect",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a006bc43bc72242b6cb86a9398bced84744782c1b498b7ebc210873b755d22a5/Effect-TS/effect\" referrerpolicy=\"no-referrer\"><br>Build production-ready applications in TypeScript<br><br>Language: TypeScript<br>Stars: 16596<br>Forks: 804",
+      "contentSnippet": "Build production-ready applications in TypeScript\nLanguage: TypeScript\nStars: 16596\nForks: 804",
+      "creator": "Effect-TS",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "pablostanley/yoinks",
+      "link": "https://github.com/pablostanley/yoinks",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/71a041c7056e88fd7a24607e97ba48603968de55fb5920f1d9b5987e8486d757/pablostanley/yoinks\" referrerpolicy=\"no-referrer\"><br>yoink any video from your terminal. no shady ads.<br><br>Language: TypeScript<br>Stars: 3576<br>Forks: 314",
+      "contentSnippet": "yoink any video from your terminal. no shady ads.\nLanguage: TypeScript\nStars: 3576\nForks: 314",
+      "creator": "pablostanley",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T04:29:04.147Z"
+}

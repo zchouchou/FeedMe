@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Apple Pass Designer",
+      "link": "https://developer.apple.com/pass-designer/",
+      "pubDate": "Fri, 02 Oct 2026 19:06:56 +0000",
+      "isoDate": "2026-10-02T19:06:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://developer.apple.com/pass-designer/\">https://developer.apple.com/pass-designer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937276\">https://news.ycombinator.com/item?id=49937276</a></p>\n<p>Points: 346</p>\n<p># Comments: 225</p>\n",
+      "contentSnippet": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 346\n# Comments: 225",
+      "creator": "soheilpro",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "link": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "pubDate": "Fri, 02 Oct 2026 13:18:32 +0000",
+      "isoDate": "2026-10-02T13:18:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://gwern.net/doc/math/1973-halmos.pdf\">https://gwern.net/doc/math/1973-halmos.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933235\">https://news.ycombinator.com/item?id=49933235</a></p>\n<p>Points: 256</p>\n<p># Comments: 142</p>\n",
+      "contentSnippet": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf\nComments URL: https://news.ycombinator.com/item?id=49933235\nPoints: 256\n# Comments: 142",
+      "creator": "suopspaces",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Shimano Bicycle Museum Review",
+      "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "pubDate": "Fri, 02 Oct 2026 05:12:58 +0000",
+      "isoDate": "2026-10-02T05:12:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://inrng.com/2026/10/shimano-bicycle-museum/\">https://inrng.com/2026/10/shimano-bicycle-museum/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49930047\">https://news.ycombinator.com/item?id=49930047</a></p>\n<p>Points: 285</p>\n<p># Comments: 74</p>\n",
+      "contentSnippet": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 285\n# Comments: 74",
+      "creator": "pietroppeter",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "link": "https://www.deepseek.com/en/harness/",
+      "pubDate": "Fri, 02 Oct 2026 03:11:20 +0000",
+      "isoDate": "2026-10-02T03:11:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.deepseek.com/en/harness/\">https://www.deepseek.com/en/harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929489\">https://news.ycombinator.com/item?id=49929489</a></p>\n<p>Points: 385</p>\n<p># Comments: 207</p>\n",
+      "contentSnippet": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 385\n# Comments: 207",
+      "creator": "Kuyawa",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How Singapore's government-run dating service works",
+      "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "pubDate": "Fri, 02 Oct 2026 01:56:52 +0000",
+      "isoDate": "2026-10-02T01:56:52.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\">https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929113\">https://news.ycombinator.com/item?id=49929113</a></p>\n<p>Points: 246</p>\n<p># Comments: 343</p>\n",
+      "contentSnippet": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\nComments URL: https://news.ycombinator.com/item?id=49929113\nPoints: 246\n# Comments: 343",
+      "creator": "danielfoster",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "link": "https://lwn.net/Articles/1097401/",
+      "pubDate": "Thu, 01 Oct 2026 23:10:44 +0000",
+      "isoDate": "2026-10-01T23:10:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lwn.net/Articles/1097401/\">https://lwn.net/Articles/1097401/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928121\">https://news.ycombinator.com/item?id=49928121</a></p>\n<p>Points: 553</p>\n<p># Comments: 394</p>\n",
+      "contentSnippet": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 553\n# Comments: 394",
+      "creator": "luispa",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "link": "https://www.frogandtoad.ai/",
+      "pubDate": "Thu, 01 Oct 2026 22:23:38 +0000",
+      "isoDate": "2026-10-01T22:23:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.frogandtoad.ai/\">https://www.frogandtoad.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927760\">https://news.ycombinator.com/item?id=49927760</a></p>\n<p>Points: 544</p>\n<p># Comments: 125</p>\n",
+      "contentSnippet": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 544\n# Comments: 125",
+      "creator": "supermdguy",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "pubDate": "Thu, 01 Oct 2026 22:23:07 +0000",
+      "isoDate": "2026-10-01T22:23:07.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility\">https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927754\">https://news.ycombinator.com/item?id=49927754</a></p>\n<p>Points: 544</p>\n<p># Comments: 237</p>\n",
+      "contentSnippet": "Article URL: https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility\nComments URL: https://news.ycombinator.com/item?id=49927754\nPoints: 544\n# Comments: 237",
+      "creator": "hn_acker",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Sites in ChatGPT",
+      "link": "https://chatgpt.com/features/sites/",
+      "pubDate": "Thu, 01 Oct 2026 22:22:21 +0000",
+      "isoDate": "2026-10-01T22:22:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://chatgpt.com/features/sites/\">https://chatgpt.com/features/sites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927747\">https://news.ycombinator.com/item?id=49927747</a></p>\n<p>Points: 227</p>\n<p># Comments: 228</p>\n",
+      "contentSnippet": "Article URL: https://chatgpt.com/features/sites/\nComments URL: https://news.ycombinator.com/item?id=49927747\nPoints: 227\n# Comments: 228",
+      "creator": "polvi",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The death of web development education",
+      "link": "https://molily.de/web-dev-education/",
+      "pubDate": "Thu, 01 Oct 2026 21:07:37 +0000",
+      "isoDate": "2026-10-01T21:07:37.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://molily.de/web-dev-education/\">https://molily.de/web-dev-education/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927100\">https://news.ycombinator.com/item?id=49927100</a></p>\n<p>Points: 233</p>\n<p># Comments: 188</p>\n",
+      "contentSnippet": "Article URL: https://molily.de/web-dev-education/\nComments URL: https://news.ycombinator.com/item?id=49927100\nPoints: 233\n# Comments: 188",
+      "creator": "ibobev",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "pubDate": "Thu, 01 Oct 2026 20:23:27 +0000",
+      "isoDate": "2026-10-01T20:23:27.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://automatictransmission.khoury.northeastern.edu/index.html\">https://automatictransmission.khoury.northeastern.edu/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926628\">https://news.ycombinator.com/item?id=49926628</a></p>\n<p>Points: 247</p>\n<p># Comments: 215</p>\n",
+      "contentSnippet": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 247\n# Comments: 215",
+      "creator": "rafaelc",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "SvelteKit 3",
+      "link": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "pubDate": "Thu, 01 Oct 2026 20:14:23 +0000",
+      "isoDate": "2026-10-01T20:14:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://svelte.dev/blog/sveltekit-3-is-here\">https://svelte.dev/blog/sveltekit-3-is-here</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926536\">https://news.ycombinator.com/item?id=49926536</a></p>\n<p>Points: 396</p>\n<p># Comments: 171</p>\n",
+      "contentSnippet": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 396\n# Comments: 171",
+      "creator": "sampsn",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Pi 1.0",
+      "link": "https://earendil.com/posts/pi-1-0/",
+      "pubDate": "Thu, 01 Oct 2026 19:33:05 +0000",
+      "isoDate": "2026-10-01T19:33:05.000Z",
+      "content": "\n<p>Related: <i>Pi Durable</i> - https://news.ycombinator.com/item?id=49925969</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926069\">https://news.ycombinator.com/item?id=49926069</a></p>\n<p>Points: 1646</p>\n<p># Comments: 575</p>\n",
+      "contentSnippet": "Related: Pi Durable - https://news.ycombinator.com/item?id=49925969\nComments URL: https://news.ycombinator.com/item?id=49926069\nPoints: 1646\n# Comments: 575",
+      "creator": "sergiotapia",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "FLUX 3 Image",
+      "link": "https://bfl.ai/models/flux-3-image",
+      "pubDate": "Thu, 01 Oct 2026 19:24:29 +0000",
+      "isoDate": "2026-10-01T19:24:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bfl.ai/models/flux-3-image\">https://bfl.ai/models/flux-3-image</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49925974\">https://news.ycombinator.com/item?id=49925974</a></p>\n<p>Points: 290</p>\n<p># Comments: 62</p>\n",
+      "contentSnippet": "Article URL: https://bfl.ai/models/flux-3-image\nComments URL: https://news.ycombinator.com/item?id=49925974\nPoints: 290\n# Comments: 62",
+      "creator": "minimaxir",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Pi Durable",
+      "link": "https://earendil.com/posts/pi-durable/",
+      "pubDate": "Thu, 01 Oct 2026 19:24:08 +0000",
+      "isoDate": "2026-10-01T19:24:08.000Z",
+      "content": "\n<p>Related: <i>Pi 1.0</i> - <a href=\"https://news.ycombinator.com/item?id=49926069\">https://news.ycombinator.com/item?id=49926069</a> - Oct 2026 (184 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49925969\">https://news.ycombinator.com/item?id=49925969</a></p>\n<p>Points: 490</p>\n<p># Comments: 68</p>\n",
+      "contentSnippet": "Related: Pi 1.0 - https://news.ycombinator.com/item?id=49926069 - Oct 2026 (184 comments)\nComments URL: https://news.ycombinator.com/item?id=49925969\nPoints: 490\n# Comments: 68",
+      "creator": "paulsmith",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "link": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "pubDate": "Thu, 01 Oct 2026 18:20:18 +0000",
+      "isoDate": "2026-10-01T18:20:18.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/Kv6yS\" rel=\"nofollow\">https://archive.ph/Kv6yS</a><p><a href=\"https://www.youtube.com/watch?v=_h_pQ1-5iQg\" rel=\"nofollow\">https://www.youtube.com/watch?v=_h_pQ1-5iQg</a><p><a href=\"https://www.theguardian.com/sport/2026/oct/01/mike-tomlin-minecraft-city\" rel=\"nofollow\">https://www.theguardian.com/sport/2026/oct/01/mike-tomlin-mi...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49925184\">https://news.ycombinator.com/item?id=49925184</a></p>\n<p>Points: 344</p>\n<p># Comments: 89</p>\n",
+      "contentSnippet": "https://archive.ph/Kv6yS\nhttps://www.youtube.com/watch?v=_h_pQ1-5iQg\nhttps://www.theguardian.com/sport/2026/oct/01/mike-tomlin-mi...\nComments URL: https://news.ycombinator.com/item?id=49925184\nPoints: 344\n# Comments: 89",
+      "creator": "CoryOndrejka",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "link": "https://blog.gitbutler.com/git-3-sha-256",
+      "pubDate": "Thu, 01 Oct 2026 16:57:03 +0000",
+      "isoDate": "2026-10-01T16:57:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.gitbutler.com/git-3-sha-256\">https://blog.gitbutler.com/git-3-sha-256</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49924179\">https://news.ycombinator.com/item?id=49924179</a></p>\n<p>Points: 549</p>\n<p># Comments: 521</p>\n",
+      "contentSnippet": "Article URL: https://blog.gitbutler.com/git-3-sha-256\nComments URL: https://news.ycombinator.com/item?id=49924179\nPoints: 549\n# Comments: 521",
+      "creator": "chmaynard",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "link": "https://blog.cloudflare.com/clef-decision-models/",
+      "pubDate": "Thu, 01 Oct 2026 16:18:57 +0000",
+      "isoDate": "2026-10-01T16:18:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.cloudflare.com/clef-decision-models/\">https://blog.cloudflare.com/clef-decision-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49923692\">https://news.ycombinator.com/item?id=49923692</a></p>\n<p>Points: 620</p>\n<p># Comments: 215</p>\n",
+      "contentSnippet": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 620\n# Comments: 215",
+      "creator": "jasondavies",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "RIP, vector database",
+      "link": "https://turbopuffer.com/blog/rip-vector-database",
+      "pubDate": "Thu, 01 Oct 2026 16:01:56 +0000",
+      "isoDate": "2026-10-01T16:01:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://turbopuffer.com/blog/rip-vector-database\">https://turbopuffer.com/blog/rip-vector-database</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49923466\">https://news.ycombinator.com/item?id=49923466</a></p>\n<p>Points: 375</p>\n<p># Comments: 106</p>\n",
+      "contentSnippet": "Article URL: https://turbopuffer.com/blog/rip-vector-database\nComments URL: https://news.ycombinator.com/item?id=49923466\nPoints: 375\n# Comments: 106",
+      "creator": "razin",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+      "link": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+      "pubDate": "Thu, 01 Oct 2026 15:07:42 +0000",
+      "isoDate": "2026-10-01T15:07:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/\">https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49922674\">https://news.ycombinator.com/item?id=49922674</a></p>\n<p>Points: 280</p>\n<p># Comments: 63</p>\n",
+      "contentSnippet": "Article URL: https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/\nComments URL: https://news.ycombinator.com/item?id=49922674\nPoints: 280\n# Comments: 63",
+      "creator": "nkw",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "link": "https://news.ycombinator.com/item?id=49922569",
+      "pubDate": "Thu, 01 Oct 2026 15:02:07 +0000",
+      "isoDate": "2026-10-01T15:02:07.000Z",
+      "content": "\n<p>Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn't a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don't reply to job posts to complain about\nsomething. It's off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href=\"https://hnwork.app\" rel=\"nofollow\">https://hnwork.app</a>, <a href=\"https://nthesis.ai/public/hn-who-is-hiring\" rel=\"nofollow\">https://nthesis.ai/public/hn-who-is-hiring</a>, <a href=\"https://dheerajck.github.io/hnwhoishiring/\" rel=\"nofollow\">https://dheerajck.github.io/hnwhoishiring/</a>,\n<a href=\"http://nchelluri.github.io/hnjobs/\" rel=\"nofollow\">http://nchelluri.github.io/hnjobs/</a>, <a href=\"https://hnjobs.emilburzo.com\" rel=\"nofollow\">https://hnjobs.emilburzo.com</a>.<p>Don't miss this other fine thread: <i>Who wants to be hired?</i> <a href=\"https://news.ycombinator.com/item?id=49922568\">https://news.ycombinator.com/item?id=49922568</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49922569\">https://news.ycombinator.com/item?id=49922569</a></p>\n<p>Points: 260</p>\n<p># Comments: 269</p>\n",
+      "contentSnippet": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.\nPlease only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn't a household name,\nexplain what your company does.\nPlease only post if you are actively filling a position and are committed\nto replying to applicants.\nCommenters: please don't reply to job posts to complain about\nsomething. It's off topic here.\nReaders: please only email if you are personally interested in the job.\nSearchers: try https://hnwork.app, https://nthesis.ai/public/hn-who-is-hiring, https://dheerajck.github.io/hnwhoishiring/,\nhttp://nchelluri.github.io/hnjobs/, https://hnjobs.emilburzo.com.\nDon't miss this other fine thread: Who wants to be hired? https://news.ycombinator.com/item?id=49922568\nComments URL: https://news.ycombinator.com/item?id=49922569\nPoints: 260\n# Comments: 269",
+      "creator": "whoishiring",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+      "link": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
+      "pubDate": "Thu, 01 Oct 2026 14:38:35 +0000",
+      "isoDate": "2026-10-01T14:38:35.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/\">https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49922278\">https://news.ycombinator.com/item?id=49922278</a></p>\n<p>Points: 282</p>\n<p># Comments: 220</p>\n",
+      "contentSnippet": "Article URL: https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/\nComments URL: https://news.ycombinator.com/item?id=49922278\nPoints: 282\n# Comments: 220",
+      "creator": "speckx",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Cloudflare K2: serverless event streams",
+      "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+      "pubDate": "Thu, 01 Oct 2026 14:09:10 +0000",
+      "isoDate": "2026-10-01T14:09:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.cloudflare.com/cloudflare-k2-streams/\">https://blog.cloudflare.com/cloudflare-k2-streams/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49921923\">https://news.ycombinator.com/item?id=49921923</a></p>\n<p>Points: 282</p>\n<p># Comments: 111</p>\n",
+      "contentSnippet": "Article URL: https://blog.cloudflare.com/cloudflare-k2-streams/\nComments URL: https://news.ycombinator.com/item?id=49921923\nPoints: 282\n# Comments: 111",
+      "creator": "elffjs",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+      "link": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+      "pubDate": "Thu, 01 Oct 2026 13:05:51 +0000",
+      "isoDate": "2026-10-01T13:05:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html\">https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49921118\">https://news.ycombinator.com/item?id=49921118</a></p>\n<p>Points: 253</p>\n<p># Comments: 246</p>\n",
+      "contentSnippet": "Article URL: https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html\nComments URL: https://news.ycombinator.com/item?id=49921118\nPoints: 253\n# Comments: 246",
+      "creator": "gmays",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
+      "link": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
+      "pubDate": "Thu, 01 Oct 2026 12:55:27 +0000",
+      "isoDate": "2026-10-01T12:55:27.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/\">https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49920997\">https://news.ycombinator.com/item?id=49920997</a></p>\n<p>Points: 352</p>\n<p># Comments: 156</p>\n",
+      "contentSnippet": "Article URL: https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/\nComments URL: https://news.ycombinator.com/item?id=49920997\nPoints: 352\n# Comments: 156",
+      "creator": "speckx",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+      "link": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+      "pubDate": "Thu, 01 Oct 2026 12:48:59 +0000",
+      "isoDate": "2026-10-01T12:48:59.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026\">https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49920932\">https://news.ycombinator.com/item?id=49920932</a></p>\n<p>Points: 384</p>\n<p># Comments: 437</p>\n",
+      "contentSnippet": "Article URL: https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026\nComments URL: https://news.ycombinator.com/item?id=49920932\nPoints: 384\n# Comments: 437",
+      "creator": "speckx",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How to speed up the Rust compiler in September 2026",
+      "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "pubDate": "Thu, 01 Oct 2026 12:44:38 +0000",
+      "isoDate": "2026-10-01T12:44:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html\">https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49920896\">https://news.ycombinator.com/item?id=49920896</a></p>\n<p>Points: 272</p>\n<p># Comments: 163</p>\n",
+      "contentSnippet": "Article URL: https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html\nComments URL: https://news.ycombinator.com/item?id=49920896\nPoints: 272\n# Comments: 163",
+      "creator": "trickypr",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Returning from vacation? The government can search your phone without a warrant",
+      "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+      "pubDate": "Thu, 01 Oct 2026 11:13:59 +0000",
+      "isoDate": "2026-10-01T11:13:59.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/\">https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49920234\">https://news.ycombinator.com/item?id=49920234</a></p>\n<p>Points: 403</p>\n<p># Comments: 369</p>\n",
+      "contentSnippet": "Article URL: https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/\nComments URL: https://news.ycombinator.com/item?id=49920234\nPoints: 403\n# Comments: 369",
+      "creator": "rbanffy",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "StreetComplete on iOS is now in public beta",
+      "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "pubDate": "Thu, 01 Oct 2026 10:59:57 +0000",
+      "isoDate": "2026-10-01T10:59:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/streetcomplete/StreetComplete/issues/5421\">https://github.com/streetcomplete/StreetComplete/issues/5421</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49920160\">https://news.ycombinator.com/item?id=49920160</a></p>\n<p>Points: 619</p>\n<p># Comments: 170</p>\n",
+      "contentSnippet": "Article URL: https://github.com/streetcomplete/StreetComplete/issues/5421\nComments URL: https://news.ycombinator.com/item?id=49920160\nPoints: 619\n# Comments: 170",
+      "creator": "Snowly",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Fuck Android Developer Verification Program",
+      "link": "https://twitter.com/0xcrypto/status/2105515822643114182",
+      "pubDate": "Thu, 01 Oct 2026 04:32:38 +0000",
+      "isoDate": "2026-10-01T04:32:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/0xcrypto/status/2105515822643114182\">https://twitter.com/0xcrypto/status/2105515822643114182</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49917761\">https://news.ycombinator.com/item?id=49917761</a></p>\n<p>Points: 328</p>\n<p># Comments: 137</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/0xcrypto/status/2105515822643114182\nComments URL: https://news.ycombinator.com/item?id=49917761\nPoints: 328\n# Comments: 137",
+      "creator": "0xcrypto",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T04:28:54.740Z"
+}
