@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "pubDate": "Fri, 09 Oct 2026 21:06:59 +0000",
+      "isoDate": "2026-10-09T21:06:59.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306\">https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50026555\">https://news.ycombinator.com/item?id=50026555</a></p>\n<p>Points: 488</p>\n<p># Comments: 272</p>\n",
+      "contentSnippet": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306\nComments URL: https://news.ycombinator.com/item?id=50026555\nPoints: 488\n# Comments: 272",
+      "creator": "gumby",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "No Man Is an Island",
+      "link": "https://borretti.me/article/no-man-is-an-island",
+      "pubDate": "Fri, 09 Oct 2026 20:04:00 +0000",
+      "isoDate": "2026-10-09T20:04:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://borretti.me/article/no-man-is-an-island\">https://borretti.me/article/no-man-is-an-island</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50025935\">https://news.ycombinator.com/item?id=50025935</a></p>\n<p>Points: 272</p>\n<p># Comments: 180</p>\n",
+      "contentSnippet": "Article URL: https://borretti.me/article/no-man-is-an-island\nComments URL: https://news.ycombinator.com/item?id=50025935\nPoints: 272\n# Comments: 180",
+      "creator": "zetalyrae",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "link": "https://carrierexplode.com/",
+      "pubDate": "Fri, 09 Oct 2026 18:10:55 +0000",
+      "isoDate": "2026-10-09T18:10:55.000Z",
+      "content": "\n<p>Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands.<p>carrier-explode also contains decoders and explanations for all the common baseband configurations, etc.<p>There’s still quite a bit of work to be done in checking my assumptions, but the tool has already been proven useful for a few enthusiast groups.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024499\">https://news.ycombinator.com/item?id=50024499</a></p>\n<p>Points: 250</p>\n<p># Comments: 32</p>\n",
+      "contentSnippet": "Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands.\ncarrier-explode also contains decoders and explanations for all the common baseband configurations, etc.\nThere’s still quite a bit of work to be done in checking my assumptions, but the tool has already been proven useful for a few enthusiast groups.\nComments URL: https://news.ycombinator.com/item?id=50024499\nPoints: 250\n# Comments: 32",
+      "creator": "simplyalec",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "link": "https://typesafe.ai/blog/series-ai",
+      "pubDate": "Fri, 09 Oct 2026 17:02:31 +0000",
+      "isoDate": "2026-10-09T17:02:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://typesafe.ai/blog/series-ai\">https://typesafe.ai/blog/series-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50023450\">https://news.ycombinator.com/item?id=50023450</a></p>\n<p>Points: 310</p>\n<p># Comments: 229</p>\n",
+      "contentSnippet": "Article URL: https://typesafe.ai/blog/series-ai\nComments URL: https://news.ycombinator.com/item?id=50023450\nPoints: 310\n# Comments: 229",
+      "creator": "tosh",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Triple-A Minesweeper",
+      "link": "https://minesweeper.mikelacher.com/",
+      "pubDate": "Fri, 09 Oct 2026 15:51:05 +0000",
+      "isoDate": "2026-10-09T15:51:05.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://minesweeper.mikelacher.com/\">https://minesweeper.mikelacher.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50022292\">https://news.ycombinator.com/item?id=50022292</a></p>\n<p>Points: 773</p>\n<p># Comments: 153</p>\n",
+      "contentSnippet": "Article URL: https://minesweeper.mikelacher.com/\nComments URL: https://news.ycombinator.com/item?id=50022292\nPoints: 773\n# Comments: 153",
+      "creator": "robin_reala",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Python 3.15",
+      "link": "https://www.python.org/downloads/release/python-3150/",
+      "pubDate": "Fri, 09 Oct 2026 14:35:42 +0000",
+      "isoDate": "2026-10-09T14:35:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.python.org/downloads/release/python-3150/\">https://www.python.org/downloads/release/python-3150/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50021127\">https://news.ycombinator.com/item?id=50021127</a></p>\n<p>Points: 291</p>\n<p># Comments: 97</p>\n",
+      "contentSnippet": "Article URL: https://www.python.org/downloads/release/python-3150/\nComments URL: https://news.ycombinator.com/item?id=50021127\nPoints: 291\n# Comments: 97",
+      "creator": "ngoldbaum",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+      "link": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/",
+      "pubDate": "Fri, 09 Oct 2026 14:31:54 +0000",
+      "isoDate": "2026-10-09T14:31:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/\">https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50021066\">https://news.ycombinator.com/item?id=50021066</a></p>\n<p>Points: 472</p>\n<p># Comments: 462</p>\n",
+      "contentSnippet": "Article URL: https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/\nComments URL: https://news.ycombinator.com/item?id=50021066\nPoints: 472\n# Comments: 462",
+      "creator": "poly2it",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Our $445M Series D",
+      "link": "https://oxide.computer/blog/our-445m-series-d",
+      "pubDate": "Fri, 09 Oct 2026 13:12:47 +0000",
+      "isoDate": "2026-10-09T13:12:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://oxide.computer/blog/our-445m-series-d\">https://oxide.computer/blog/our-445m-series-d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50020014\">https://news.ycombinator.com/item?id=50020014</a></p>\n<p>Points: 622</p>\n<p># Comments: 284</p>\n",
+      "contentSnippet": "Article URL: https://oxide.computer/blog/our-445m-series-d\nComments URL: https://news.ycombinator.com/item?id=50020014\nPoints: 622\n# Comments: 284",
+      "creator": "ahlCVA",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Cloudflare acquires Deno",
+      "link": "https://deno.com/blog/cloudflare",
+      "pubDate": "Fri, 09 Oct 2026 13:03:48 +0000",
+      "isoDate": "2026-10-09T13:03:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://deno.com/blog/cloudflare\">https://deno.com/blog/cloudflare</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019911\">https://news.ycombinator.com/item?id=50019911</a></p>\n<p>Points: 1120</p>\n<p># Comments: 576</p>\n",
+      "contentSnippet": "Article URL: https://deno.com/blog/cloudflare\nComments URL: https://news.ycombinator.com/item?id=50019911\nPoints: 1120\n# Comments: 576",
+      "creator": "ilreb",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "pubDate": "Fri, 09 Oct 2026 11:03:48 +0000",
+      "isoDate": "2026-10-09T11:03:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/franzenzenhofer/big-arrow-on-the-screen\">https://github.com/franzenzenhofer/big-arrow-on-the-screen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50018817\">https://news.ycombinator.com/item?id=50018817</a></p>\n<p>Points: 390</p>\n<p># Comments: 171</p>\n",
+      "contentSnippet": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen\nComments URL: https://news.ycombinator.com/item?id=50018817\nPoints: 390\n# Comments: 171",
+      "creator": "franze",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+      "link": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "pubDate": "Fri, 09 Oct 2026 10:12:11 +0000",
+      "isoDate": "2026-10-09T10:12:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.nobelprize.org/prizes/peace/2026/press-release/\">https://www.nobelprize.org/prizes/peace/2026/press-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50018420\">https://news.ycombinator.com/item?id=50018420</a></p>\n<p>Points: 454</p>\n<p># Comments: 236</p>\n",
+      "contentSnippet": "Article URL: https://www.nobelprize.org/prizes/peace/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=50018420\nPoints: 454\n# Comments: 236",
+      "creator": "Anon84",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "pubDate": "Fri, 09 Oct 2026 10:00:26 +0000",
+      "isoDate": "2026-10-09T10:00:26.000Z",
+      "content": "\n<p>Later: <a href=\"https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html\" rel=\"nofollow\">https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50018350\">https://news.ycombinator.com/item?id=50018350</a></p>\n<p>Points: 324</p>\n<p># Comments: 206</p>\n",
+      "contentSnippet": "Later: https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-...\nComments URL: https://news.ycombinator.com/item?id=50018350\nPoints: 324\n# Comments: 206",
+      "creator": "trakkstar",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Sorry, I'm in a meeting",
+      "link": "https://iminafleeting.com/",
+      "pubDate": "Fri, 09 Oct 2026 09:21:48 +0000",
+      "isoDate": "2026-10-09T09:21:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://iminafleeting.com/\">https://iminafleeting.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50018088\">https://news.ycombinator.com/item?id=50018088</a></p>\n<p>Points: 815</p>\n<p># Comments: 246</p>\n",
+      "contentSnippet": "Article URL: https://iminafleeting.com/\nComments URL: https://news.ycombinator.com/item?id=50018088\nPoints: 815\n# Comments: 246",
+      "creator": "splintersio",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Keyboard differences between Windows and Macs",
+      "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "pubDate": "Fri, 09 Oct 2026 03:08:05 +0000",
+      "isoDate": "2026-10-09T03:08:05.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/\">https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50015515\">https://news.ycombinator.com/item?id=50015515</a></p>\n<p>Points: 327</p>\n<p># Comments: 267</p>\n",
+      "contentSnippet": "Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/\nComments URL: https://news.ycombinator.com/item?id=50015515\nPoints: 327\n# Comments: 267",
+      "creator": "sohkamyung",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Bevy 0.20",
+      "link": "https://bevy.org/news/bevy-0-20/",
+      "pubDate": "Thu, 08 Oct 2026 22:57:50 +0000",
+      "isoDate": "2026-10-08T22:57:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bevy.org/news/bevy-0-20/\">https://bevy.org/news/bevy-0-20/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50013610\">https://news.ycombinator.com/item?id=50013610</a></p>\n<p>Points: 246</p>\n<p># Comments: 65</p>\n",
+      "contentSnippet": "Article URL: https://bevy.org/news/bevy-0-20/\nComments URL: https://news.ycombinator.com/item?id=50013610\nPoints: 246\n# Comments: 65",
+      "creator": "Philpax",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+      "link": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+      "pubDate": "Thu, 08 Oct 2026 20:42:16 +0000",
+      "isoDate": "2026-10-08T20:42:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full\">https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50011928\">https://news.ycombinator.com/item?id=50011928</a></p>\n<p>Points: 384</p>\n<p># Comments: 256</p>\n",
+      "contentSnippet": "Article URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full\nComments URL: https://news.ycombinator.com/item?id=50011928\nPoints: 384\n# Comments: 256",
+      "creator": "bookofjoe",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The value of not getting to the point (2015)",
+      "link": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "pubDate": "Thu, 08 Oct 2026 19:04:56 +0000",
+      "isoDate": "2026-10-08T19:04:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/\">https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50010470\">https://news.ycombinator.com/item?id=50010470</a></p>\n<p>Points: 228</p>\n<p># Comments: 82</p>\n",
+      "contentSnippet": "Article URL: https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/\nComments URL: https://news.ycombinator.com/item?id=50010470\nPoints: 228\n# Comments: 82",
+      "creator": "NaOH",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Theranos.world",
+      "link": "https://www.theranos.world/",
+      "pubDate": "Thu, 08 Oct 2026 17:51:49 +0000",
+      "isoDate": "2026-10-08T17:51:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theranos.world/\">https://www.theranos.world/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50009295\">https://news.ycombinator.com/item?id=50009295</a></p>\n<p>Points: 553</p>\n<p># Comments: 199</p>\n",
+      "contentSnippet": "Article URL: https://www.theranos.world/\nComments URL: https://news.ycombinator.com/item?id=50009295\nPoints: 553\n# Comments: 199",
+      "creator": "kbyatnal",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "link": "https://cactuscompute.com/blog/whistle",
+      "pubDate": "Thu, 08 Oct 2026 16:59:39 +0000",
+      "isoDate": "2026-10-08T16:59:39.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://cactuscompute.com/blog/whistle\">https://cactuscompute.com/blog/whistle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50008427\">https://news.ycombinator.com/item?id=50008427</a></p>\n<p>Points: 923</p>\n<p># Comments: 176</p>\n",
+      "contentSnippet": "Article URL: https://cactuscompute.com/blog/whistle\nComments URL: https://news.ycombinator.com/item?id=50008427\nPoints: 923\n# Comments: 176",
+      "creator": "gmays",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenAI annualised revenues $20B less than previously signalled",
+      "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "pubDate": "Thu, 08 Oct 2026 16:45:58 +0000",
+      "isoDate": "2026-10-08T16:45:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html\">https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50008187\">https://news.ycombinator.com/item?id=50008187</a></p>\n<p>Points: 422</p>\n<p># Comments: 298</p>\n",
+      "contentSnippet": "Article URL: https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html\nComments URL: https://news.ycombinator.com/item?id=50008187\nPoints: 422\n# Comments: 298",
+      "creator": "mfiguiere",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
+      "link": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
+      "pubDate": "Thu, 08 Oct 2026 16:03:33 +0000",
+      "isoDate": "2026-10-08T16:03:33.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/\">https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50007519\">https://news.ycombinator.com/item?id=50007519</a></p>\n<p>Points: 257</p>\n<p># Comments: 159</p>\n",
+      "contentSnippet": "Article URL: https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/\nComments URL: https://news.ycombinator.com/item?id=50007519\nPoints: 257\n# Comments: 159",
+      "creator": "01-_-",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Trump administration is suspending Microsoft from a green card program",
+      "link": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+      "pubDate": "Thu, 08 Oct 2026 15:15:00 +0000",
+      "isoDate": "2026-10-08T15:15:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea\">https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50006832\">https://news.ycombinator.com/item?id=50006832</a></p>\n<p>Points: 924</p>\n<p># Comments: 1587</p>\n",
+      "contentSnippet": "Article URL: https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea\nComments URL: https://news.ycombinator.com/item?id=50006832\nPoints: 924\n# Comments: 1587",
+      "creator": "alephnerd",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+      "link": "https://news.ycombinator.com/item?id=50006366",
+      "pubDate": "Thu, 08 Oct 2026 14:39:47 +0000",
+      "isoDate": "2026-10-08T14:39:47.000Z",
+      "content": "\n<p>Ten years ago I was 19 and traveling through East Africa, and I spent a summer in Ibumila, a village in the Njombe highlands of Tanzania. There's no school in the village. The nearest one is a boarding school an hour away that costs a few hundred dollars a year, which is out of reach for most families there and was about two weeks of summer job money for me. The daughter of the family I stayed with, Anwarite, was 11. I offered to pay her fees and told myself I'd keep paying as long as she wanted to keep going.<p>This summer she graduated from the University of Dar es Salaam with a degree in Language Studies, and last week she told me she'd been accepted into a Master of Arts in Swahili program there. Roughly 2% of people from Njombe ever finish a university degree. Her goal is to get a PhD and then to bring it back to the region.<p>Her entire 18-month master's program (tuition, registration, fees, books, supplies) comes to 3,060,000 TSh, about $1,161.<p>Since this worked out, I kept adding students as I could afford to, and in 2021 I registered it as a 501(c)(3), the Tanzania Education Project. It supports five students from Ibumila now, school fees and healthcare. I kept it small while I was finishing my PhD because I didn't want commitments I couldn't personally guarantee for a decade; I've since started a postdoc, so it feels like the right time to grow past my own paycheck. The long-term goal is that every kid in the village has access to education and healthcare. I sometimes think of this project as a slow experiment. How much could the village itself change over someone's lifetime if the kids have access to education?<p><a href=\"https://tanzaniaeducationproject.org/\" rel=\"nofollow\">https://tanzaniaeducationproject.org/</a> is the website. Nobody takes a salary, and aside from bank fees the money goes to the students. If anyone wants to fund Anwarite's master's specifically, it's here: <a href=\"https://www.gofundme.com/f/send-anwarite-to-her-masters-program\" rel=\"nofollow\">https://www.gofundme.com/f/send-anwarite-to-her-masters-prog...</a><p>Happy to answer any questions or take any tips you all might have about doing this sort of thing.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50006366\">https://news.ycombinator.com/item?id=50006366</a></p>\n<p>Points: 742</p>\n<p># Comments: 238</p>\n",
+      "contentSnippet": "Ten years ago I was 19 and traveling through East Africa, and I spent a summer in Ibumila, a village in the Njombe highlands of Tanzania. There's no school in the village. The nearest one is a boarding school an hour away that costs a few hundred dollars a year, which is out of reach for most families there and was about two weeks of summer job money for me. The daughter of the family I stayed with, Anwarite, was 11. I offered to pay her fees and told myself I'd keep paying as long as she wanted to keep going.\nThis summer she graduated from the University of Dar es Salaam with a degree in Language Studies, and last week she told me she'd been accepted into a Master of Arts in Swahili program there. Roughly 2% of people from Njombe ever finish a university degree. Her goal is to get a PhD and then to bring it back to the region.\nHer entire 18-month master's program (tuition, registration, fees, books, supplies) comes to 3,060,000 TSh, about $1,161.\nSince this worked out, I kept adding students as I could afford to, and in 2021 I registered it as a 501(c)(3), the Tanzania Education Project. It supports five students from Ibumila now, school fees and healthcare. I kept it small while I was finishing my PhD because I didn't want commitments I couldn't personally guarantee for a decade; I've since started a postdoc, so it feels like the right time to grow past my own paycheck. The long-term goal is that every kid in the village has access to education and healthcare. I sometimes think of this project as a slow experiment. How much could the village itself change over someone's lifetime if the kids have access to education?\nhttps://tanzaniaeducationproject.org/ is the website. Nobody takes a salary, and aside from bank fees the money goes to the students. If anyone wants to fund Anwarite's master's specifically, it's here: https://www.gofundme.com/f/send-anwarite-to-her-masters-prog...\nHappy to answer any questions or take any tips you all might have about doing this sort of thing.\nComments URL: https://news.ycombinator.com/item?id=50006366\nPoints: 742\n# Comments: 238",
+      "creator": "lukehandcool",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Beauty in DVD Menus",
+      "link": "https://vale.rocks/posts/dvd-menus",
+      "pubDate": "Thu, 08 Oct 2026 13:22:01 +0000",
+      "isoDate": "2026-10-08T13:22:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://vale.rocks/posts/dvd-menus\">https://vale.rocks/posts/dvd-menus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50005527\">https://news.ycombinator.com/item?id=50005527</a></p>\n<p>Points: 330</p>\n<p># Comments: 184</p>\n",
+      "contentSnippet": "Article URL: https://vale.rocks/posts/dvd-menus\nComments URL: https://news.ycombinator.com/item?id=50005527\nPoints: 330\n# Comments: 184",
+      "creator": "speckx",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+      "link": "https://quesma.com/blog/invisible-cities-one-shot/",
+      "pubDate": "Thu, 08 Oct 2026 12:00:20 +0000",
+      "isoDate": "2026-10-08T12:00:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://quesma.com/blog/invisible-cities-one-shot/\">https://quesma.com/blog/invisible-cities-one-shot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50004790\">https://news.ycombinator.com/item?id=50004790</a></p>\n<p>Points: 406</p>\n<p># Comments: 199</p>\n",
+      "contentSnippet": "Article URL: https://quesma.com/blog/invisible-cities-one-shot/\nComments URL: https://news.ycombinator.com/item?id=50004790\nPoints: 406\n# Comments: 199",
+      "creator": "stared",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Yes, and",
+      "link": "https://htmx.org/essays/yes-and/",
+      "pubDate": "Thu, 08 Oct 2026 09:48:18 +0000",
+      "isoDate": "2026-10-08T09:48:18.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://htmx.org/essays/yes-and/\">https://htmx.org/essays/yes-and/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50003796\">https://news.ycombinator.com/item?id=50003796</a></p>\n<p>Points: 744</p>\n<p># Comments: 295</p>\n",
+      "contentSnippet": "Article URL: https://htmx.org/essays/yes-and/\nComments URL: https://news.ycombinator.com/item?id=50003796\nPoints: 744\n# Comments: 295",
+      "creator": "Michelangelo11",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenAI Withdraws 3 Math Papers",
+      "link": "https://github.com/openai/math/blob/main/history.md",
+      "pubDate": "Thu, 08 Oct 2026 08:08:37 +0000",
+      "isoDate": "2026-10-08T08:08:37.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/openai/math/blob/main/history.md\">https://github.com/openai/math/blob/main/history.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50003107\">https://news.ycombinator.com/item?id=50003107</a></p>\n<p>Points: 342</p>\n<p># Comments: 3</p>\n",
+      "contentSnippet": "Article URL: https://github.com/openai/math/blob/main/history.md\nComments URL: https://news.ycombinator.com/item?id=50003107\nPoints: 342\n# Comments: 3",
+      "creator": "theemathas",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+      "link": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "pubDate": "Thu, 08 Oct 2026 07:07:34 +0000",
+      "isoDate": "2026-10-08T07:07:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9\">https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50002665\">https://news.ycombinator.com/item?id=50002665</a></p>\n<p>Points: 269</p>\n<p># Comments: 128</p>\n",
+      "contentSnippet": "Article URL: https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9\nComments URL: https://news.ycombinator.com/item?id=50002665\nPoints: 269\n# Comments: 128",
+      "creator": "pyduan",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenAI withdraws three mathematical results",
+      "link": "https://twitter.com/danintheory/status/2108065033070789090",
+      "pubDate": "Thu, 08 Oct 2026 07:05:40 +0000",
+      "isoDate": "2026-10-08T07:05:40.000Z",
+      "content": "\n<p><a href=\"https://github.com/openai/math/blob/main/history.md\" rel=\"nofollow\">https://github.com/openai/math/blob/main/history.md</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50002650\">https://news.ycombinator.com/item?id=50002650</a></p>\n<p>Points: 373</p>\n<p># Comments: 607</p>\n",
+      "contentSnippet": "https://github.com/openai/math/blob/main/history.md\nComments URL: https://news.ycombinator.com/item?id=50002650\nPoints: 373\n# Comments: 607",
+      "creator": "sashank_1509",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "“Math 2.0” will need to value mathematical progress more holistically",
+      "link": "https://mathstodon.xyz/@tao/117395269325940185",
+      "pubDate": "Thu, 08 Oct 2026 05:14:14 +0000",
+      "isoDate": "2026-10-08T05:14:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mathstodon.xyz/@tao/117395269325940185\">https://mathstodon.xyz/@tao/117395269325940185</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50002008\">https://news.ycombinator.com/item?id=50002008</a></p>\n<p>Points: 608</p>\n<p># Comments: 642</p>\n",
+      "contentSnippet": "Article URL: https://mathstodon.xyz/@tao/117395269325940185\nComments URL: https://news.ycombinator.com/item?id=50002008\nPoints: 608\n# Comments: 642",
+      "creator": "ent101",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-10-10T05:01:18.405Z"
+}
