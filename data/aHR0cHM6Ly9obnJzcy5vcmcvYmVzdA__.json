@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "How the Claude Code team does code review",
+      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "pubDate": "Fri, 16 Oct 2026 19:04:47 +0000",
+      "isoDate": "2026-10-16T19:04:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://claude.dev/blog/solving-code-review-at-anthropic/\">https://claude.dev/blog/solving-code-review-at-anthropic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122951\">https://news.ycombinator.com/item?id=50122951</a></p>\n<p>Points: 251</p>\n<p># Comments: 234</p>\n",
+      "contentSnippet": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/\nComments URL: https://news.ycombinator.com/item?id=50122951\nPoints: 251\n# Comments: 234",
+      "creator": "pretext",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "pubDate": "Fri, 16 Oct 2026 18:55:59 +0000",
+      "isoDate": "2026-10-16T18:55:59.000Z",
+      "content": "\n<p><a href=\"https://words.filippo.io/seeds-solved/\" rel=\"nofollow\">https://words.filippo.io/seeds-solved/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122800\">https://news.ycombinator.com/item?id=50122800</a></p>\n<p>Points: 707</p>\n<p># Comments: 274</p>\n",
+      "contentSnippet": "https://words.filippo.io/seeds-solved/\nComments URL: https://news.ycombinator.com/item?id=50122800\nPoints: 707\n# Comments: 274",
+      "creator": "ahlCVA",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "pubDate": "Fri, 16 Oct 2026 17:08:38 +0000",
+      "isoDate": "2026-10-16T17:08:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.mercor.com/research/labor-index/benchmark-map/\">https://www.mercor.com/research/labor-index/benchmark-map/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121179\">https://news.ycombinator.com/item?id=50121179</a></p>\n<p>Points: 415</p>\n<p># Comments: 350</p>\n",
+      "contentSnippet": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/\nComments URL: https://news.ycombinator.com/item?id=50121179\nPoints: 415\n# Comments: 350",
+      "creator": "speckx",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Waymo in Toronto",
+      "link": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "pubDate": "Fri, 16 Oct 2026 14:44:17 +0000",
+      "isoDate": "2026-10-16T14:44:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://waymo.com/blog/2026/10/waymo-in-toronto/\">https://waymo.com/blog/2026/10/waymo-in-toronto/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118981\">https://news.ycombinator.com/item?id=50118981</a></p>\n<p>Points: 283</p>\n<p># Comments: 393</p>\n",
+      "contentSnippet": "Article URL: https://waymo.com/blog/2026/10/waymo-in-toronto/\nComments URL: https://news.ycombinator.com/item?id=50118981\nPoints: 283\n# Comments: 393",
+      "creator": "ChrisArchitect",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "pubDate": "Fri, 16 Oct 2026 13:43:48 +0000",
+      "isoDate": "2026-10-16T13:43:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://machinelearning.apple.com/research/mlx-distributed-inference\">https://machinelearning.apple.com/research/mlx-distributed-inference</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118320\">https://news.ycombinator.com/item?id=50118320</a></p>\n<p>Points: 271</p>\n<p># Comments: 123</p>\n",
+      "contentSnippet": "Article URL: https://machinelearning.apple.com/research/mlx-distributed-inference\nComments URL: https://news.ycombinator.com/item?id=50118320\nPoints: 271\n# Comments: 123",
+      "creator": "antipaul",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "I Love Software Rendering",
+      "link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "pubDate": "Fri, 16 Oct 2026 12:52:08 +0000",
+      "isoDate": "2026-10-16T12:52:08.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/\">https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50117746\">https://news.ycombinator.com/item?id=50117746</a></p>\n<p>Points: 298</p>\n<p># Comments: 190</p>\n",
+      "contentSnippet": "Article URL: https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/\nComments URL: https://news.ycombinator.com/item?id=50117746\nPoints: 298\n# Comments: 190",
+      "creator": "speckx",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "link": "https://github.com/Saffsanity/sill",
+      "pubDate": "Fri, 16 Oct 2026 01:43:17 +0000",
+      "isoDate": "2026-10-16T01:43:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/Saffsanity/sill\">https://github.com/Saffsanity/sill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112739\">https://news.ycombinator.com/item?id=50112739</a></p>\n<p>Points: 249</p>\n<p># Comments: 74</p>\n",
+      "contentSnippet": "Article URL: https://github.com/Saffsanity/sill\nComments URL: https://news.ycombinator.com/item?id=50112739\nPoints: 249\n# Comments: 74",
+      "creator": "chanana",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Tesla Roadster",
+      "link": "https://www.tesla.com/roadster",
+      "pubDate": "Fri, 16 Oct 2026 01:32:45 +0000",
+      "isoDate": "2026-10-16T01:32:45.000Z",
+      "content": "\n<p><a href=\"https://www.youtube.com/watch?v=7p5LxFdc-Qg\" rel=\"nofollow\">https://www.youtube.com/watch?v=7p5LxFdc-Qg</a><p><a href=\"https://twitter.com/Tesla/status/2110788059008819215\" rel=\"nofollow\">https://twitter.com/Tesla/status/2110788059008819215</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112657\">https://news.ycombinator.com/item?id=50112657</a></p>\n<p>Points: 1228</p>\n<p># Comments: 2207</p>\n",
+      "contentSnippet": "https://www.youtube.com/watch?v=7p5LxFdc-Qg\nhttps://twitter.com/Tesla/status/2110788059008819215\nComments URL: https://news.ycombinator.com/item?id=50112657\nPoints: 1228\n# Comments: 2207",
+      "creator": "shekhar101",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+      "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "pubDate": "Thu, 15 Oct 2026 23:37:42 +0000",
+      "isoDate": "2026-10-15T23:37:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/\">https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50111852\">https://news.ycombinator.com/item?id=50111852</a></p>\n<p>Points: 449</p>\n<p># Comments: 166</p>\n",
+      "contentSnippet": "Article URL: https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/\nComments URL: https://news.ycombinator.com/item?id=50111852\nPoints: 449\n# Comments: 166",
+      "creator": "0in",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "What I self-host",
+      "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "pubDate": "Thu, 15 Oct 2026 20:23:25 +0000",
+      "isoDate": "2026-10-15T20:23:25.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/\">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109715\">https://news.ycombinator.com/item?id=50109715</a></p>\n<p>Points: 638</p>\n<p># Comments: 417</p>\n",
+      "contentSnippet": "Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/\nComments URL: https://news.ycombinator.com/item?id=50109715\nPoints: 638\n# Comments: 417",
+      "creator": "BrunoBernardino",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+      "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+      "pubDate": "Thu, 15 Oct 2026 19:55:49 +0000",
+      "isoDate": "2026-10-15T19:55:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts\">https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109375\">https://news.ycombinator.com/item?id=50109375</a></p>\n<p>Points: 396</p>\n<p># Comments: 281</p>\n",
+      "contentSnippet": "Article URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts\nComments URL: https://news.ycombinator.com/item?id=50109375\nPoints: 396\n# Comments: 281",
+      "creator": "johnbehnke",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+      "pubDate": "Thu, 15 Oct 2026 19:21:38 +0000",
+      "isoDate": "2026-10-15T19:21:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup\">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108872\">https://news.ycombinator.com/item?id=50108872</a></p>\n<p>Points: 414</p>\n<p># Comments: 204</p>\n",
+      "contentSnippet": "Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup\nComments URL: https://news.ycombinator.com/item?id=50108872\nPoints: 414\n# Comments: 204",
+      "creator": "speckx",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Why We're Banning AI",
+      "link": "https://www.currentaffairs.org/news/why-were-banning-ai",
+      "pubDate": "Thu, 15 Oct 2026 18:32:29 +0000",
+      "isoDate": "2026-10-15T18:32:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.currentaffairs.org/news/why-were-banning-ai\">https://www.currentaffairs.org/news/why-were-banning-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108131\">https://news.ycombinator.com/item?id=50108131</a></p>\n<p>Points: 254</p>\n<p># Comments: 201</p>\n",
+      "contentSnippet": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai\nComments URL: https://news.ycombinator.com/item?id=50108131\nPoints: 254\n# Comments: 201",
+      "creator": "vinyl7",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Muse Spark Open",
+      "link": "https://research.meta.ai/blog/muse-spark-open",
+      "pubDate": "Thu, 15 Oct 2026 17:47:39 +0000",
+      "isoDate": "2026-10-15T17:47:39.000Z",
+      "content": "\n<p><a href=\"https://dev.meta.ai/resources/blog/build-with-muse-spark-open\" rel=\"nofollow\">https://dev.meta.ai/resources/blog/build-with-muse-spark-ope...</a><p><a href=\"https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B\" rel=\"nofollow\">https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B</a><p><a href=\"https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/\" rel=\"nofollow\">https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50107379\">https://news.ycombinator.com/item?id=50107379</a></p>\n<p>Points: 902</p>\n<p># Comments: 467</p>\n",
+      "contentSnippet": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope...\nhttps://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B\nhttps://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-...\nComments URL: https://news.ycombinator.com/item?id=50107379\nPoints: 902\n# Comments: 467",
+      "creator": "bigwheels",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "More on Anthropic's Scion ripping off Mononoke",
+      "link": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+      "pubDate": "Thu, 15 Oct 2026 17:05:19 +0000",
+      "isoDate": "2026-10-15T17:05:19.000Z",
+      "content": "\n<p><i>Redesigning source control at Anthropic</i> - <a href=\"https://news.ycombinator.com/item?id=50073633\">https://news.ycombinator.com/item?id=50073633</a> (996 comments)<p><i>Anthropic's Scion is heavily inspired by Mononoke</i> - <a href=\"https://news.ycombinator.com/item?id=50094694\">https://news.ycombinator.com/item?id=50094694</a> (149 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50106738\">https://news.ycombinator.com/item?id=50106738</a></p>\n<p>Points: 252</p>\n<p># Comments: 87</p>\n",
+      "contentSnippet": "Redesigning source control at Anthropic - https://news.ycombinator.com/item?id=50073633 (996 comments)\nAnthropic's Scion is heavily inspired by Mononoke - https://news.ycombinator.com/item?id=50094694 (149 comments)\nComments URL: https://news.ycombinator.com/item?id=50106738\nPoints: 252\n# Comments: 87",
+      "creator": "sunshowers",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "An Israeli firm is sending zero-click spyware through online ads",
+      "link": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
+      "pubDate": "Thu, 15 Oct 2026 17:01:56 +0000",
+      "isoDate": "2026-10-15T17:01:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware\">https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50106676\">https://news.ycombinator.com/item?id=50106676</a></p>\n<p>Points: 247</p>\n<p># Comments: 13</p>\n",
+      "contentSnippet": "Article URL: https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware\nComments URL: https://news.ycombinator.com/item?id=50106676\nPoints: 247\n# Comments: 13",
+      "creator": "drewfax",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Jev meets the Trolley Problem",
+      "link": "https://zachlandes.com/trolley-problem/",
+      "pubDate": "Thu, 15 Oct 2026 16:24:52 +0000",
+      "isoDate": "2026-10-15T16:24:52.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://zachlandes.com/trolley-problem/\">https://zachlandes.com/trolley-problem/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50106023\">https://news.ycombinator.com/item?id=50106023</a></p>\n<p>Points: 623</p>\n<p># Comments: 247</p>\n",
+      "contentSnippet": "Article URL: https://zachlandes.com/trolley-problem/\nComments URL: https://news.ycombinator.com/item?id=50106023\nPoints: 623\n# Comments: 247",
+      "creator": "zlandes86",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "BIPM decides to stop adding leap seconds to UTC",
+      "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+      "pubDate": "Thu, 15 Oct 2026 16:11:36 +0000",
+      "isoDate": "2026-10-15T16:11:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bipm.org/en/cgpm-2026/resolution-5\">https://www.bipm.org/en/cgpm-2026/resolution-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105777\">https://news.ycombinator.com/item?id=50105777</a></p>\n<p>Points: 260</p>\n<p># Comments: 131</p>\n",
+      "contentSnippet": "Article URL: https://www.bipm.org/en/cgpm-2026/resolution-5\nComments URL: https://news.ycombinator.com/item?id=50105777\nPoints: 260\n# Comments: 131",
+      "creator": "gliffie",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Krea 3 – An image model built for editing at scale",
+      "link": "https://www.krea.ai/krea-3",
+      "pubDate": "Thu, 15 Oct 2026 16:04:05 +0000",
+      "isoDate": "2026-10-15T16:04:05.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.krea.ai/krea-3\">https://www.krea.ai/krea-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105648\">https://news.ycombinator.com/item?id=50105648</a></p>\n<p>Points: 342</p>\n<p># Comments: 107</p>\n",
+      "contentSnippet": "Article URL: https://www.krea.ai/krea-3\nComments URL: https://news.ycombinator.com/item?id=50105648\nPoints: 342\n# Comments: 107",
+      "creator": "dvrp",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Neural networks are clean",
+      "link": "https://already-clean.goodfire.com/",
+      "pubDate": "Thu, 15 Oct 2026 16:04:01 +0000",
+      "isoDate": "2026-10-15T16:04:01.000Z",
+      "content": "\n<p><a href=\"https://twitter.com/nickcammarata/status/2110757819427574056\" rel=\"nofollow\">https://twitter.com/nickcammarata/status/2110757819427574056</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105647\">https://news.ycombinator.com/item?id=50105647</a></p>\n<p>Points: 801</p>\n<p># Comments: 324</p>\n",
+      "contentSnippet": "https://twitter.com/nickcammarata/status/2110757819427574056\nComments URL: https://news.ycombinator.com/item?id=50105647\nPoints: 801\n# Comments: 324",
+      "creator": "themgt",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Steam Client is now faster than Epic's new vibe coded launcher",
+      "link": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+      "pubDate": "Thu, 15 Oct 2026 16:03:19 +0000",
+      "isoDate": "2026-10-15T16:03:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/\">https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105635\">https://news.ycombinator.com/item?id=50105635</a></p>\n<p>Points: 338</p>\n<p># Comments: 352</p>\n",
+      "contentSnippet": "Article URL: https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/\nComments URL: https://news.ycombinator.com/item?id=50105635\nPoints: 338\n# Comments: 352",
+      "creator": "starkparker",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "I designed a nose guard for my dog and gave it away. Now 500 dogs wear one",
+      "link": "https://snoutcover.com/one-year",
+      "pubDate": "Thu, 15 Oct 2026 15:44:36 +0000",
+      "isoDate": "2026-10-15T15:44:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://snoutcover.com/one-year\">https://snoutcover.com/one-year</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105344\">https://news.ycombinator.com/item?id=50105344</a></p>\n<p>Points: 248</p>\n<p># Comments: 123</p>\n",
+      "contentSnippet": "Article URL: https://snoutcover.com/one-year\nComments URL: https://news.ycombinator.com/item?id=50105344\nPoints: 248\n# Comments: 123",
+      "creator": "ragswag",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Celebrating 70 Years of Fortran",
+      "link": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+      "pubDate": "Thu, 15 Oct 2026 15:03:17 +0000",
+      "isoDate": "2026-10-15T15:03:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://fortran-lang.org/news/2026/09-15-Fortran-birthday/\">https://fortran-lang.org/news/2026/09-15-Fortran-birthday/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104726\">https://news.ycombinator.com/item?id=50104726</a></p>\n<p>Points: 310</p>\n<p># Comments: 156</p>\n",
+      "contentSnippet": "Article URL: https://fortran-lang.org/news/2026/09-15-Fortran-birthday/\nComments URL: https://news.ycombinator.com/item?id=50104726\nPoints: 310\n# Comments: 156",
+      "creator": "rbanffy",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "pubDate": "Thu, 15 Oct 2026 14:58:48 +0000",
+      "isoDate": "2026-10-15T14:58:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/\">https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104654\">https://news.ycombinator.com/item?id=50104654</a></p>\n<p>Points: 247</p>\n<p># Comments: 198</p>\n",
+      "contentSnippet": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/\nComments URL: https://news.ycombinator.com/item?id=50104654\nPoints: 247\n# Comments: 198",
+      "creator": "aaraujo002",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "I know why the mathematicians weep",
+      "link": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+      "pubDate": "Thu, 15 Oct 2026 13:44:32 +0000",
+      "isoDate": "2026-10-15T13:44:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep\">https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103630\">https://news.ycombinator.com/item?id=50103630</a></p>\n<p>Points: 386</p>\n<p># Comments: 645</p>\n",
+      "contentSnippet": "Article URL: https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep\nComments URL: https://news.ycombinator.com/item?id=50103630\nPoints: 386\n# Comments: 645",
+      "creator": "RickJWagner",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "link": "https://github.com/fyzugx/DEsk",
+      "pubDate": "Thu, 15 Oct 2026 13:23:44 +0000",
+      "isoDate": "2026-10-15T13:23:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/fyzugx/DEsk\">https://github.com/fyzugx/DEsk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103338\">https://news.ycombinator.com/item?id=50103338</a></p>\n<p>Points: 684</p>\n<p># Comments: 278</p>\n",
+      "contentSnippet": "Article URL: https://github.com/fyzugx/DEsk\nComments URL: https://news.ycombinator.com/item?id=50103338\nPoints: 684\n# Comments: 278",
+      "creator": "FinalDestiny",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
+      "link": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+      "pubDate": "Thu, 15 Oct 2026 12:58:32 +0000",
+      "isoDate": "2026-10-15T12:58:32.000Z",
+      "content": "\n<p><a href=\"https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware\" rel=\"nofollow\">https://www.theverge.com/tech/1011956/discover-tech-zero-cli...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103000\">https://news.ycombinator.com/item?id=50103000</a></p>\n<p>Points: 513</p>\n<p># Comments: 1</p>\n",
+      "contentSnippet": "https://www.theverge.com/tech/1011956/discover-tech-zero-cli...\nComments URL: https://news.ycombinator.com/item?id=50103000\nPoints: 513\n# Comments: 1",
+      "creator": "chunkyslink",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "link": "https://libreboot.org/news/libreboot2610.html",
+      "pubDate": "Thu, 15 Oct 2026 12:52:16 +0000",
+      "isoDate": "2026-10-15T12:52:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://libreboot.org/news/libreboot2610.html\">https://libreboot.org/news/libreboot2610.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50102923\">https://news.ycombinator.com/item?id=50102923</a></p>\n<p>Points: 304</p>\n<p># Comments: 197</p>\n",
+      "contentSnippet": "Article URL: https://libreboot.org/news/libreboot2610.html\nComments URL: https://news.ycombinator.com/item?id=50102923\nPoints: 304\n# Comments: 197",
+      "creator": "iamnothere",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Show HN: Unfenced – Land for sale that borders public land",
+      "link": "https://unfenced.land/",
+      "pubDate": "Thu, 15 Oct 2026 11:38:57 +0000",
+      "isoDate": "2026-10-15T11:38:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://unfenced.land/\">https://unfenced.land/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50102247\">https://news.ycombinator.com/item?id=50102247</a></p>\n<p>Points: 310</p>\n<p># Comments: 197</p>\n",
+      "contentSnippet": "Article URL: https://unfenced.land/\nComments URL: https://news.ycombinator.com/item?id=50102247\nPoints: 310\n# Comments: 197",
+      "creator": "otherwatersflow",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "pubDate": "Thu, 15 Oct 2026 10:43:36 +0000",
+      "isoDate": "2026-10-15T10:43:36.000Z",
+      "content": "\n<p><a href=\"https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say\" rel=\"nofollow\">https://www.theguardian.com/technology/2026/oct/15/israeli-f...</a><p><a href=\"https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware\" rel=\"nofollow\">https://www.theverge.com/tech/1011956/discover-tech-zero-cli...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50101813\">https://news.ycombinator.com/item?id=50101813</a></p>\n<p>Points: 498</p>\n<p># Comments: 667</p>\n",
+      "contentSnippet": "https://www.theguardian.com/technology/2026/oct/15/israeli-f...\nhttps://www.theverge.com/tech/1011956/discover-tech-zero-cli...\nComments URL: https://news.ycombinator.com/item?id=50101813\nPoints: 498\n# Comments: 667",
+      "creator": "jcomp",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-10-17T03:36:14.376Z"
+}
