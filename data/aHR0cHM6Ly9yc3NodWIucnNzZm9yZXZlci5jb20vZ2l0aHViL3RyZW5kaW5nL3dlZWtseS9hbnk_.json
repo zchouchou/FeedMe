@@ -1,0 +1,159 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "morluto/rea",
+      "link": "https://github.com/morluto/rea",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1209966933/1a3fef9a-be4b-41f4-8830-a94c0e8288cc\" referrerpolicy=\"no-referrer\"><br>Reverse engineer anything with agents, from app behavior down to native binaries.<br><br>Language: TypeScript<br>Stars: 373810<br>Forks: 93492",
+      "contentSnippet": "Reverse engineer anything with agents, from app behavior down to native binaries.\nLanguage: TypeScript\nStars: 373810\nForks: 93492",
+      "creator": "morluto",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anthropics/claude-plugins-official",
+      "link": "https://github.com/anthropics/claude-plugins-official",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/05bfa4bdce8d5de71217ae8acbb34d43f33152ee4d58c21a2e92cf29bd4ce498/anthropics/claude-plugins-official\" referrerpolicy=\"no-referrer\"><br>Official, Anthropic-managed directory of high quality Claude Code Plugins.<br><br>Language: Python<br>Stars: 44157<br>Forks: 4643",
+      "contentSnippet": "Official, Anthropic-managed directory of high quality Claude Code Plugins.\nLanguage: Python\nStars: 44157\nForks: 4643",
+      "creator": "anthropics",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ruvnet/ruflo",
+      "link": "https://github.com/ruvnet/ruflo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db\" referrerpolicy=\"no-referrer\"><br>🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated<br><br>Language: TypeScript<br>Stars: 78817<br>Forks: 9254",
+      "contentSnippet": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated\nLanguage: TypeScript\nStars: 78817\nForks: 9254",
+      "creator": "ruvnet",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "android/skills",
+      "link": "https://github.com/android/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/062f5d4e319911b45de68ab4022887961f455a5800f2c0d5c9236f15e38339dc/android/skills\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Kotlin<br>Stars: 9457<br>Forks: 607",
+      "contentSnippet": "Language: Kotlin\nStars: 9457\nForks: 607",
+      "creator": "android",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anomalyco/opencode",
+      "link": "https://github.com/anomalyco/opencode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/975734319/2c2c3389-c647-405c-a499-f80e4d521277\" referrerpolicy=\"no-referrer\"><br>The open source coding agent.<br><br>Language: TypeScript<br>Stars: 220682<br>Forks: 29510",
+      "contentSnippet": "The open source coding agent.\nLanguage: TypeScript\nStars: 220682\nForks: 29510",
+      "creator": "anomalyco",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "stablyai/orca",
+      "link": "https://github.com/stablyai/orca",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d8c847f572b369dddad956f9e421bcef5d65ab2f47e2ed6506330e8d40b8b6d2/stablyai/orca\" referrerpolicy=\"no-referrer\"><br>Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.<br><br>Language: TypeScript<br>Stars: 104015<br>Forks: 6573",
+      "contentSnippet": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.\nLanguage: TypeScript\nStars: 104015\nForks: 6573",
+      "creator": "stablyai",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "cursor/plugins",
+      "link": "https://github.com/cursor/plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d9da6d0aab0be7eed12aaf777f0179a30fb3ce0c19e26b62becaae521eb86281/cursor/plugins\" referrerpolicy=\"no-referrer\"><br>Cursor plugin specification and official plugins<br><br>Language: TypeScript<br>Stars: 13802<br>Forks: 1363",
+      "contentSnippet": "Cursor plugin specification and official plugins\nLanguage: TypeScript\nStars: 13802\nForks: 1363",
+      "creator": "cursor",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "akitaonrails/ai-memory",
+      "link": "https://github.com/akitaonrails/ai-memory",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e273adbb84c195fbc94ef48b8b6ff333712aa8a235253c00b136ef3f90fa0d01/akitaonrails/ai-memory\" referrerpolicy=\"no-referrer\"><br>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors<br><br>Language: Rust<br>Stars: 13082<br>Forks: 911",
+      "contentSnippet": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors\nLanguage: Rust\nStars: 13082\nForks: 911",
+      "creator": "akitaonrails",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "HKUDS/CLI-Anything",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fcfcde0c127aca063b1d33e49ef8727ccbf109d6ca98ba5b539321bde7d4c298/HKUDS/CLI-Anything\" referrerpolicy=\"no-referrer\"><br>\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/<br><br>Language: Python<br>Stars: 56642<br>Forks: 5083",
+      "contentSnippet": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\nLanguage: Python\nStars: 56642\nForks: 5083",
+      "creator": "HKUDS",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Comfy-Org/ComfyUI",
+      "link": "https://github.com/Comfy-Org/ComfyUI",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/589831718/8894dcc0-5f53-4f3c-97f0-50d820b7779b\" referrerpolicy=\"no-referrer\"><br>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.<br><br>Language: Python<br>Stars: 142388<br>Forks: 16789",
+      "contentSnippet": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.\nLanguage: Python\nStars: 142388\nForks: 16789",
+      "creator": "Comfy-Org",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc\" referrerpolicy=\"no-referrer\"><br>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br><br>Language: Python<br>Stars: 83526<br>Forks: 9216",
+      "contentSnippet": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\nLanguage: Python\nStars: 83526\nForks: 9216",
+      "creator": "debpalash",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/628f7d2175b03ba71a81f5f87284e99ea7b17020ddf456cacf6569edc272caf4/heygen-com/hyperframes\" referrerpolicy=\"no-referrer\"><br>Write HTML. Render video. Built for agents.<br><br>Language: TypeScript<br>Stars: 70887<br>Forks: 6410",
+      "contentSnippet": "Write HTML. Render video. Built for agents.\nLanguage: TypeScript\nStars: 70887\nForks: 6410",
+      "creator": "heygen-com",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/aee0614aba708a47d0894f27b0a6923cfeceb538735e371ebe6c1387fa8c038f/K-Dense-AI/scientific-agent-skills\" referrerpolicy=\"no-referrer\"><br>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.<br><br>Language: Python<br>Stars: 54266<br>Forks: 4786",
+      "contentSnippet": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\nLanguage: Python\nStars: 54266\nForks: 4786",
+      "creator": "K-Dense-AI",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "NationalSecurityAgency/ghidra",
+      "link": "https://github.com/NationalSecurityAgency/ghidra",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4f8c44fe75d9df9c19a33e52cf05ab698f1e307c781a1dff327987b8c3a2fdb7/NationalSecurityAgency/ghidra\" referrerpolicy=\"no-referrer\"><br>Ghidra is a software reverse engineering (SRE) framework<br><br>Language: Java<br>Stars: 93696<br>Forks: 10523",
+      "contentSnippet": "Ghidra is a software reverse engineering (SRE) framework\nLanguage: Java\nStars: 93696\nForks: 10523",
+      "creator": "NationalSecurityAgency",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "elie222/rakazo",
+      "link": "https://github.com/elie222/rakazo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b7ffbaa11a10192f31cd7ecbb04a0924c5137f902ba8da033c88250f525e4fce/elie222/rakazo\" referrerpolicy=\"no-referrer\"><br>Open-source Grok Bot alternative. Choose your own model and sandbox.<br><br>Language: TypeScript<br>Stars: 5472<br>Forks: 963",
+      "contentSnippet": "Open-source Grok Bot alternative. Choose your own model and sandbox.\nLanguage: TypeScript\nStars: 5472\nForks: 963",
+      "creator": "elie222",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-10-24T03:51:56.806Z"
+}

@@ -1,0 +1,89 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/da3296e1b97bf1654f25db1917a61db000b20f6f3bdc49935bb4d92cef110fc4/cloudflare/security-audit-skill\" referrerpolicy=\"no-referrer\"><br>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings<br><br>Language: JavaScript<br>Stars: 42369<br>Forks: 2647",
+      "contentSnippet": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\nLanguage: JavaScript\nStars: 42369\nForks: 2647",
+      "creator": "cloudflare",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "php/php-src",
+      "link": "https://github.com/php/php-src",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/de89f8515a59438b704e768f1969a189eadf451f2a474eee163e43cca8735eb9/php/php-src\" referrerpolicy=\"no-referrer\"><br>The PHP Interpreter<br><br>Language: C<br>Stars: 41593<br>Forks: 8363",
+      "contentSnippet": "The PHP Interpreter\nLanguage: C\nStars: 41593\nForks: 8363",
+      "creator": "php",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anthropics/knowledge-work-plugins",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/32785b5c12afbb3188925c339829b4b655d9bdf14846fc9a64961564e3c72f8c/anthropics/knowledge-work-plugins\" referrerpolicy=\"no-referrer\"><br>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork<br><br>Language: Python<br>Stars: 32298<br>Forks: 3576",
+      "contentSnippet": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\nLanguage: Python\nStars: 32298\nForks: 3576",
+      "creator": "anthropics",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "NVIDIA/OpenShell",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/37ed9a9b4e2195c11f78123c4f0b73bf64e13a834bcf27624de6e46f0a1e91f6/NVIDIA/OpenShell\" referrerpolicy=\"no-referrer\"><br>OpenShell is the safe, private runtime for autonomous AI agents.<br><br>Language: Rust<br>Stars: 18896<br>Forks: 1887",
+      "contentSnippet": "OpenShell is the safe, private runtime for autonomous AI agents.\nLanguage: Rust\nStars: 18896\nForks: 1887",
+      "creator": "NVIDIA",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Renhuai123/ziwei-doushu",
+      "link": "https://github.com/Renhuai123/ziwei-doushu",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d8c847f572b369dddad956f9e421bcef5d65ab2f47e2ed6506330e8d40b8b6d2/Renhuai123/ziwei-doushu\" referrerpolicy=\"no-referrer\"><br>紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据<br><br>Language: TypeScript<br>Stars: 6967<br>Forks: 1425",
+      "contentSnippet": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据\nLanguage: TypeScript\nStars: 6967\nForks: 1425",
+      "creator": "Renhuai123",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "SnailSploit/Claude-Red",
+      "link": "https://github.com/SnailSploit/Claude-Red",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/aa4ec85f59523cb977ed282bddfe099d9e3a0524aee923aceb208242c50a246c/SnailSploit/Claude-Red\" referrerpolicy=\"no-referrer\"><br>claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.<br><br>Language: Python<br>Stars: 8574<br>Forks: 1106",
+      "contentSnippet": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.\nLanguage: Python\nStars: 8574\nForks: 1106",
+      "creator": "SnailSploit",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenBMB/VoxCPM",
+      "link": "https://github.com/OpenBMB/VoxCPM",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d3564cd9415f7d0ef7e091af800b7c4d7af5bbde42a3de03b1714f7717831120/OpenBMB/VoxCPM\" referrerpolicy=\"no-referrer\"><br>VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning<br><br>Language: Python<br>Stars: 40328<br>Forks: 4582",
+      "contentSnippet": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning\nLanguage: Python\nStars: 40328\nForks: 4582",
+      "creator": "OpenBMB",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "nodejs/node",
+      "link": "https://github.com/nodejs/node",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d35d8616d52169660f113380e398099afc5232b73163a3add150aed54e0bdd5f/nodejs/node\" referrerpolicy=\"no-referrer\"><br>Node.js JavaScript runtime ✨🐢🚀✨<br><br>Language: JavaScript<br>Stars: 122922<br>Forks: 39835",
+      "contentSnippet": "Node.js JavaScript runtime ✨🐢🚀✨\nLanguage: JavaScript\nStars: 122922\nForks: 39835",
+      "creator": "nodejs",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-10-24T03:51:53.541Z"
+}
