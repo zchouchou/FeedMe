@@ -1,0 +1,189 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "thedotmack/claude-mem",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1048065319/62ccff98-4c97-4bab-97b7-ed6e1995cfba\" referrerpolicy=\"no-referrer\"><br>Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More<br><br>Language: TypeScript<br>Stars: 114095<br>Forks: 9900",
+      "contentSnippet": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\nLanguage: TypeScript\nStars: 114095\nForks: 9900",
+      "creator": "thedotmack",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Donchitos/Claude-Code-Game-Studios",
+      "link": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/103a973896e4c5f235e8210a9ac9abbd09c0d35a519f9aa94855d8945efbb10d/Donchitos/Claude-Code-Game-Studios\" referrerpolicy=\"no-referrer\"><br>Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.<br><br>Language: Shell<br>Stars: 36187<br>Forks: 4767",
+      "contentSnippet": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.\nLanguage: Shell\nStars: 36187\nForks: 4767",
+      "creator": "Donchitos",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "pingdotgg/t3code",
+      "link": "https://github.com/pingdotgg/t3code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cd560edf7c57abd400bf117ee3f45a28d06184d6be2e1e65f6e4d032567ea47d/pingdotgg/t3code\" referrerpolicy=\"no-referrer\"><br><br><br>Language: TypeScript<br>Stars: 50042<br>Forks: 9768",
+      "contentSnippet": "Language: TypeScript\nStars: 50042\nForks: 9768",
+      "creator": "pingdotgg",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "max-sixty/worktrunk",
+      "link": "https://github.com/max-sixty/worktrunk",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1078528927/6196f2ac-248f-42f5-abb5-d18768111b3b\" referrerpolicy=\"no-referrer\"><br>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows<br><br>Language: Rust<br>Stars: 11828<br>Forks: 456",
+      "contentSnippet": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows\nLanguage: Rust\nStars: 11828\nForks: 456",
+      "creator": "max-sixty",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Nutlope/hallmark",
+      "link": "https://github.com/Nutlope/hallmark",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1bd3790ba2d29fd69573c08921dbf72febd3b98cabbeeef54f05a87de46ee045/Nutlope/hallmark\" referrerpolicy=\"no-referrer\"><br>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.<br><br>Language: CSS<br>Stars: 49729<br>Forks: 2634",
+      "contentSnippet": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\nLanguage: CSS\nStars: 49729\nForks: 2634",
+      "creator": "Nutlope",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anthropics/skills",
+      "link": "https://github.com/anthropics/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a6ee512f05c5ce19e1487600c0d2e9cd69c8f1170c906de54f2b0348edc85a53/anthropics/skills\" referrerpolicy=\"no-referrer\"><br>Public repository for Agent Skills<br><br>Language: Python<br>Stars: 188247<br>Forks: 22198",
+      "contentSnippet": "Public repository for Agent Skills\nLanguage: Python\nStars: 188247\nForks: 22198",
+      "creator": "anthropics",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "milind-soni/OpenMausBot",
+      "link": "https://github.com/milind-soni/OpenMausBot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cd560edf7c57abd400bf117ee3f45a28d06184d6be2e1e65f6e4d032567ea47d/milind-soni/OpenMausBot\" referrerpolicy=\"no-referrer\"><br>Open-source Grok Bot alternative with a virtual machine that bots can use<br><br>Language: TypeScript<br>Stars: 15664<br>Forks: 2224",
+      "contentSnippet": "Open-source Grok Bot alternative with a virtual machine that bots can use\nLanguage: TypeScript\nStars: 15664\nForks: 2224",
+      "creator": "milind-soni",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/dcfdbd201c2c88f300c7c3c504ddab64239f3330b5168b5b0a13efe10516df0f/pbakaus/impeccable\" referrerpolicy=\"no-referrer\"><br>The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.<br><br>Language: Rust<br>Stars: 104931<br>Forks: 6233",
+      "contentSnippet": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.\nLanguage: Rust\nStars: 104931\nForks: 6233",
+      "creator": "pbakaus",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d7a12117ac149bec15b3043259a821c722978f4f1f477d63638ecc03dd2ec730/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 313699<br>Forks: 27909",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 313699\nForks: 27909",
+      "creator": "obra",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "HKUDS/DeepTutor",
+      "link": "https://github.com/HKUDS/DeepTutor",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/aec2c5bc9edacc493527681e0254b0201442f287aff4a9bdb5d600eab5ca9c47/HKUDS/DeepTutor\" referrerpolicy=\"no-referrer\"><br>DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.<br><br>Language: Python<br>Stars: 56036<br>Forks: 6852",
+      "contentSnippet": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.\nLanguage: Python\nStars: 56036\nForks: 6852",
+      "creator": "HKUDS",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "hyprwm/Hyprland",
+      "link": "https://github.com/hyprwm/Hyprland",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/470730648/62af9cdd-2851-437f-9250-05b8ae4a5bb0\" referrerpolicy=\"no-referrer\"><br>Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.<br><br>Language: C++<br>Stars: 40453<br>Forks: 2167",
+      "contentSnippet": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.\nLanguage: C++\nStars: 40453\nForks: 2167",
+      "creator": "hyprwm",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "jakubkrehel/skills",
+      "link": "https://github.com/jakubkrehel/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1296300799/3e0cf66c-1a61-45ff-ad66-7433d1a495ec\" referrerpolicy=\"no-referrer\"><br>A collection of agent skills that help you build great interfaces.<br><br>Language: Markdown<br>Stars: 11328<br>Forks: 439",
+      "contentSnippet": "A collection of agent skills that help you build great interfaces.\nLanguage: Markdown\nStars: 11328\nForks: 439",
+      "creator": "jakubkrehel",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "calesthio/OpenMontage",
+      "link": "https://github.com/calesthio/OpenMontage",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1195360525/645f0bc1-450d-4791-99b8-6102b4bb9f3d\" referrerpolicy=\"no-referrer\"><br>World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.<br><br>Language: Python<br>Stars: 77808<br>Forks: 10358",
+      "contentSnippet": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.\nLanguage: Python\nStars: 77808\nForks: 10358",
+      "creator": "calesthio",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The-PR-Agent/pr-agent",
+      "link": "https://github.com/The-PR-Agent/pr-agent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8b432fb1acf31be67bddb31d86065cd92c3d1aa962e13bd9c2b505022b46423e/The-PR-Agent/pr-agent\" referrerpolicy=\"no-referrer\"><br>🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.<br><br>Language: Python<br>Stars: 15333<br>Forks: 2131",
+      "contentSnippet": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.\nLanguage: Python\nStars: 15333\nForks: 2131",
+      "creator": "The-PR-Agent",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "nightly-labs/openbot",
+      "link": "https://github.com/nightly-labs/openbot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1e0994f3d60e720526088e5abda9c9247a9f805fbaaa339b322fe5af865706af/nightly-labs/openbot\" referrerpolicy=\"no-referrer\"><br>A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.<br><br>Language: TypeScript<br>Stars: 6108<br>Forks: 622",
+      "contentSnippet": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.\nLanguage: TypeScript\nStars: 6108\nForks: 622",
+      "creator": "nightly-labs",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "D4Vinci/Scrapling",
+      "link": "https://github.com/D4Vinci/Scrapling",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/872119017/65c3a8e0-207a-4834-8b43-01119c0834ce\" referrerpolicy=\"no-referrer\"><br>🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev<br><br>Language: Python<br>Stars: 98922<br>Forks: 10363",
+      "contentSnippet": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev\nLanguage: Python\nStars: 98922\nForks: 10363",
+      "creator": "D4Vinci",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/232ae338fbe6b8c10e4a74425cc834a72bdbac4826a142d54ce18c757dbaadc9/multica-ai/andrej-karpathy-skills\" referrerpolicy=\"no-referrer\"><br>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.<br><br>Language: Unknown<br>Stars: 230340<br>Forks: 22922",
+      "contentSnippet": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.\nLanguage: Unknown\nStars: 230340\nForks: 22922",
+      "creator": "multica-ai",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "shiyu-coder/Kronos",
+      "link": "https://github.com/shiyu-coder/Kronos",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/adcd826ead4c2214b4100d141586246d2831eacc19a8510192e62991eee6a65e/shiyu-coder/Kronos\" referrerpolicy=\"no-referrer\"><br>Kronos: A Foundation Model for the Language of Financial Markets<br><br>Language: Python<br>Stars: 47094<br>Forks: 7789",
+      "contentSnippet": "Kronos: A Foundation Model for the Language of Financial Markets\nLanguage: Python\nStars: 47094\nForks: 7789",
+      "creator": "shiyu-coder",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-11-07T05:15:30.527Z"
+}

@@ -1,0 +1,189 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "zed-industries/zed",
+      "link": "https://github.com/zed-industries/zed",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6a45a4e6087e871b58e65023955c60b0a5a22bf7604f010d8c1c6d07d00f8024/zed-industries/zed\" referrerpolicy=\"no-referrer\"><br>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.<br><br>Language: Rust<br>Stars: 93775<br>Forks: 11509",
+      "contentSnippet": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.\nLanguage: Rust\nStars: 93775\nForks: 11509",
+      "creator": "zed-industries",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "NVIDIA/auto-ontology",
+      "link": "https://github.com/NVIDIA/auto-ontology",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7fe2218cf71d20e7e9d383459a2199492577e402d4a71edefc4e3db9678e90de/NVIDIA/auto-ontology\" referrerpolicy=\"no-referrer\"><br>Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.<br><br>Language: Python<br>Stars: 9259<br>Forks: 736",
+      "contentSnippet": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.\nLanguage: Python\nStars: 9259\nForks: 736",
+      "creator": "NVIDIA",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "rails/rails",
+      "link": "https://github.com/rails/rails",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0712387f5bd17d59a3394a330a30beac163f15068c24e0792bf95ca35c24a044/rails/rails\" referrerpolicy=\"no-referrer\"><br>Ruby on Rails<br><br>Language: Ruby<br>Stars: 59049<br>Forks: 23833",
+      "contentSnippet": "Ruby on Rails\nLanguage: Ruby\nStars: 59049\nForks: 23833",
+      "creator": "rails",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "mpv-player/mpv",
+      "link": "https://github.com/mpv-player/mpv",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/23909147a1f7097365877031745b15bf865212795fcfec23cdf3248f2f566ab6/mpv-player/mpv\" referrerpolicy=\"no-referrer\"><br>🎥 Command line media player<br><br>Language: C<br>Stars: 37918<br>Forks: 3634",
+      "contentSnippet": "🎥 Command line media player\nLanguage: C\nStars: 37918\nForks: 3634",
+      "creator": "mpv-player",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "rust-lang/rust",
+      "link": "https://github.com/rust-lang/rust",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7eec9ac6c2c05c0914bb617ddd9a8c4f84279a68c0737bc9a3814e77cb2afb0f/rust-lang/rust\" referrerpolicy=\"no-referrer\"><br>Empowering everyone to build reliable and efficient software.<br><br>Language: Rust<br>Stars: 121503<br>Forks: 17369",
+      "contentSnippet": "Empowering everyone to build reliable and efficient software.\nLanguage: Rust\nStars: 121503\nForks: 17369",
+      "creator": "rust-lang",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "react/react",
+      "link": "https://github.com/react/react",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8b6a43569cc0ea421f265b74bccb9cd26cd626b3c8d2b4720b2c9c57c1a52049/react/react\" referrerpolicy=\"no-referrer\"><br>The library for web and native user interfaces.<br><br>Language: JavaScript<br>Stars: 252296<br>Forks: 51822",
+      "contentSnippet": "The library for web and native user interfaces.\nLanguage: JavaScript\nStars: 252296\nForks: 51822",
+      "creator": "react",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "angular/angular",
+      "link": "https://github.com/angular/angular",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/24195339/d4194dc2-d880-43f7-960c-ea30e05c6531\" referrerpolicy=\"no-referrer\"><br>Deliver web apps with confidence 🚀<br><br>Language: TypeScript<br>Stars: 101410<br>Forks: 28913",
+      "contentSnippet": "Deliver web apps with confidence 🚀\nLanguage: TypeScript\nStars: 101410\nForks: 28913",
+      "creator": "angular",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "symfony/symfony",
+      "link": "https://github.com/symfony/symfony",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/458058/af6a9d00-9374-11e9-887c-917673d9fe68\" referrerpolicy=\"no-referrer\"><br>The Symfony PHP framework<br><br>Language: PHP<br>Stars: 31467<br>Forks: 9949",
+      "contentSnippet": "The Symfony PHP framework\nLanguage: PHP\nStars: 31467\nForks: 9949",
+      "creator": "symfony",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "prometheus/prometheus",
+      "link": "https://github.com/prometheus/prometheus",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/134100cbccbbbe107f7a9c2bbb48dce1460aa6fd9540786a3a4c1c42a7292f1b/prometheus/prometheus\" referrerpolicy=\"no-referrer\"><br>The Prometheus monitoring system and time series database.<br><br>Language: Go<br>Stars: 67225<br>Forks: 10989",
+      "contentSnippet": "The Prometheus monitoring system and time series database.\nLanguage: Go\nStars: 67225\nForks: 10989",
+      "creator": "prometheus",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "google/skills",
+      "link": "https://github.com/google/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/da439a11253e959aa811fc59f4b496f84a77ddeec87ee1b3eed7369c2461cbb7/google/skills\" referrerpolicy=\"no-referrer\"><br>Agent Skills for Google products and technologies<br><br>Language: Python<br>Stars: 22920<br>Forks: 1928",
+      "contentSnippet": "Agent Skills for Google products and technologies\nLanguage: Python\nStars: 22920\nForks: 1928",
+      "creator": "google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "microsoft/vscode",
+      "link": "https://github.com/microsoft/vscode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9b679c8cbf717d8d334720b4c2de866406a78e5af0bccd17b30e8e1ccab86797/microsoft/vscode\" referrerpolicy=\"no-referrer\"><br>Visual Studio Code<br><br>Language: TypeScript<br>Stars: 195065<br>Forks: 44432",
+      "contentSnippet": "Visual Studio Code\nLanguage: TypeScript\nStars: 195065\nForks: 44432",
+      "creator": "microsoft",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "lz4/lz4",
+      "link": "https://github.com/lz4/lz4",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b62176e52f38d2956e5119e80239292b0fe837d0ac2c00ad55da4e81a54d8bb5/lz4/lz4\" referrerpolicy=\"no-referrer\"><br>Extremely Fast Compression algorithm<br><br>Language: C<br>Stars: 12642<br>Forks: 1643",
+      "contentSnippet": "Extremely Fast Compression algorithm\nLanguage: C\nStars: 12642\nForks: 1643",
+      "creator": "lz4",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "nushell/nushell",
+      "link": "https://github.com/nushell/nushell",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/87430faf6cb2bf720c0bec22326dc332143b8713230a289c7dafb5474c5fb692/nushell/nushell\" referrerpolicy=\"no-referrer\"><br>A new type of shell<br><br>Language: Rust<br>Stars: 41012<br>Forks: 2344",
+      "contentSnippet": "A new type of shell\nLanguage: Rust\nStars: 41012\nForks: 2344",
+      "creator": "nushell",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "etcd-io/etcd",
+      "link": "https://github.com/etcd-io/etcd",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/72ca3eb6c375418c7d5a3da50edf94c5c56a50a47709429442003819a5ca5fd8/etcd-io/etcd\" referrerpolicy=\"no-referrer\"><br>Distributed reliable key-value store for the most critical data of a distributed system<br><br>Language: Go<br>Stars: 52633<br>Forks: 10590",
+      "contentSnippet": "Distributed reliable key-value store for the most critical data of a distributed system\nLanguage: Go\nStars: 52633\nForks: 10590",
+      "creator": "etcd-io",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "openssl/openssl",
+      "link": "https://github.com/openssl/openssl",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e2d6de5cf89d46075fb9fabf208b7d66779e32134f294df6241f92044eb0029a/openssl/openssl\" referrerpolicy=\"no-referrer\"><br>General purpose TLS and crypto library<br><br>Language: C<br>Stars: 31323<br>Forks: 11583",
+      "contentSnippet": "General purpose TLS and crypto library\nLanguage: C\nStars: 31323\nForks: 11583",
+      "creator": "openssl",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/059d197184a3d613d23f65b5d05df43120d1a1e4f452f44ff511bce1637b2735/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 316885<br>Forks: 26515",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 316885\nForks: 26515",
+      "creator": "mattpocock",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1ab1503e5b3ad31253912d65060752570b53668279a154bc378164c94d4efb14/cloudflare/security-audit-skill\" referrerpolicy=\"no-referrer\"><br>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings<br><br>Language: JavaScript<br>Stars: 64344<br>Forks: 4169",
+      "contentSnippet": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\nLanguage: JavaScript\nStars: 64344\nForks: 4169",
+      "creator": "cloudflare",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "astral-sh/ruff",
+      "link": "https://github.com/astral-sh/ruff",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0e5264ce67c7e4e675446da58af0c7f15282092bb0c13ee7a9d561fef983aa62/astral-sh/ruff\" referrerpolicy=\"no-referrer\"><br>An extremely fast Python linter and code formatter, written in Rust.<br><br>Language: Rust<br>Stars: 50736<br>Forks: 2614",
+      "contentSnippet": "An extremely fast Python linter and code formatter, written in Rust.\nLanguage: Rust\nStars: 50736\nForks: 2614",
+      "creator": "astral-sh",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-11-07T05:15:26.840Z"
+}

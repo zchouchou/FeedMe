@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Libghostty 1.0",
+      "link": "https://mitchellh.com/writing/libghostty-1-0",
+      "pubDate": "Fri, 06 Nov 2026 23:30:52 +0000",
+      "isoDate": "2026-11-06T23:30:52.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mitchellh.com/writing/libghostty-1-0\">https://mitchellh.com/writing/libghostty-1-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50399933\">https://news.ycombinator.com/item?id=50399933</a></p>\n<p>Points: 384</p>\n<p># Comments: 62</p>\n",
+      "contentSnippet": "Article URL: https://mitchellh.com/writing/libghostty-1-0\nComments URL: https://news.ycombinator.com/item?id=50399933\nPoints: 384\n# Comments: 62",
+      "creator": "mfiguiere",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "pubDate": "Fri, 06 Nov 2026 19:48:51 +0000",
+      "isoDate": "2026-11-06T19:48:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://hightouch.com/blog/llm-judges-identity-resolution\">https://hightouch.com/blog/llm-judges-identity-resolution</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397429\">https://news.ycombinator.com/item?id=50397429</a></p>\n<p>Points: 395</p>\n<p># Comments: 88</p>\n",
+      "contentSnippet": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution\nComments URL: https://news.ycombinator.com/item?id=50397429\nPoints: 395\n# Comments: 88",
+      "creator": "theanomaly",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Deus Ex",
+      "link": "https://www.filfre.net/2026/11/deus-ex/",
+      "pubDate": "Fri, 06 Nov 2026 15:44:36 +0000",
+      "isoDate": "2026-11-06T15:44:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.filfre.net/2026/11/deus-ex/\">https://www.filfre.net/2026/11/deus-ex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393758\">https://news.ycombinator.com/item?id=50393758</a></p>\n<p>Points: 347</p>\n<p># Comments: 181</p>\n",
+      "contentSnippet": "Article URL: https://www.filfre.net/2026/11/deus-ex/\nComments URL: https://news.ycombinator.com/item?id=50393758\nPoints: 347\n# Comments: 181",
+      "creator": "cybersoyuz",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "RIP Cybertruck",
+      "link": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+      "pubDate": "Fri, 06 Nov 2026 15:01:38 +0000",
+      "isoDate": "2026-11-06T15:01:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/\">https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393154\">https://news.ycombinator.com/item?id=50393154</a></p>\n<p>Points: 301</p>\n<p># Comments: 4</p>\n",
+      "contentSnippet": "Article URL: https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/\nComments URL: https://news.ycombinator.com/item?id=50393154\nPoints: 301\n# Comments: 4",
+      "creator": "voxadam",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "pubDate": "Fri, 06 Nov 2026 13:35:27 +0000",
+      "isoDate": "2026-11-06T13:35:27.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/\">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50392118\">https://news.ycombinator.com/item?id=50392118</a></p>\n<p>Points: 307</p>\n<p># Comments: 221</p>\n",
+      "contentSnippet": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/\nComments URL: https://news.ycombinator.com/item?id=50392118\nPoints: 307\n# Comments: 221",
+      "creator": "thisisauserid",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Tesla to wind down Cybertruck production",
+      "link": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "pubDate": "Fri, 06 Nov 2026 12:13:51 +0000",
+      "isoDate": "2026-11-06T12:13:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817\">https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50391456\">https://news.ycombinator.com/item?id=50391456</a></p>\n<p>Points: 917</p>\n<p># Comments: 1769</p>\n",
+      "contentSnippet": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817\nComments URL: https://news.ycombinator.com/item?id=50391456\nPoints: 917\n# Comments: 1769",
+      "creator": "PLenz",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "link": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "pubDate": "Fri, 06 Nov 2026 09:27:12 +0000",
+      "isoDate": "2026-11-06T09:27:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105\">https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50390124\">https://news.ycombinator.com/item?id=50390124</a></p>\n<p>Points: 625</p>\n<p># Comments: 410</p>\n",
+      "contentSnippet": "Article URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105\nComments URL: https://news.ycombinator.com/item?id=50390124\nPoints: 625\n# Comments: 410",
+      "creator": "microtonal",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "link": "https://github.com/ppmpreetham/BUI",
+      "pubDate": "Fri, 06 Nov 2026 07:40:35 +0000",
+      "isoDate": "2026-11-06T07:40:35.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/ppmpreetham/BUI\">https://github.com/ppmpreetham/BUI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389333\">https://news.ycombinator.com/item?id=50389333</a></p>\n<p>Points: 689</p>\n<p># Comments: 280</p>\n",
+      "contentSnippet": "Article URL: https://github.com/ppmpreetham/BUI\nComments URL: https://news.ycombinator.com/item?id=50389333\nPoints: 689\n# Comments: 280",
+      "creator": "ppmpreetham",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Britain to make salary disclosure in job ads mandatory",
+      "link": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+      "pubDate": "Fri, 06 Nov 2026 07:22:04 +0000",
+      "isoDate": "2026-11-06T07:22:04.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/\">https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389222\">https://news.ycombinator.com/item?id=50389222</a></p>\n<p>Points: 570</p>\n<p># Comments: 431</p>\n",
+      "contentSnippet": "Article URL: https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/\nComments URL: https://news.ycombinator.com/item?id=50389222\nPoints: 570\n# Comments: 431",
+      "creator": "1659447091",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "link": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "pubDate": "Fri, 06 Nov 2026 04:17:49 +0000",
+      "isoDate": "2026-11-06T04:17:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/\">https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50388122\">https://news.ycombinator.com/item?id=50388122</a></p>\n<p>Points: 309</p>\n<p># Comments: 111</p>\n",
+      "contentSnippet": "Article URL: https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/\nComments URL: https://news.ycombinator.com/item?id=50388122\nPoints: 309\n# Comments: 111",
+      "creator": "jonbaer",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "link": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "pubDate": "Fri, 06 Nov 2026 04:00:28 +0000",
+      "isoDate": "2026-11-06T04:00:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/\">https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50388001\">https://news.ycombinator.com/item?id=50388001</a></p>\n<p>Points: 301</p>\n<p># Comments: 244</p>\n",
+      "contentSnippet": "Article URL: https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/\nComments URL: https://news.ycombinator.com/item?id=50388001\nPoints: 301\n# Comments: 244",
+      "creator": "ChrisArchitect",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Pwn.college",
+      "link": "https://pwn.college/",
+      "pubDate": "Fri, 06 Nov 2026 03:27:14 +0000",
+      "isoDate": "2026-11-06T03:27:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://pwn.college/\">https://pwn.college/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50387796\">https://news.ycombinator.com/item?id=50387796</a></p>\n<p>Points: 310</p>\n<p># Comments: 53</p>\n",
+      "contentSnippet": "Article URL: https://pwn.college/\nComments URL: https://news.ycombinator.com/item?id=50387796\nPoints: 310\n# Comments: 53",
+      "creator": "tripdout",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Inkling 2 Small",
+      "link": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "pubDate": "Fri, 06 Nov 2026 00:00:24 +0000",
+      "isoDate": "2026-11-06T00:00:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://thinkingmachines.ai/news/inkling-2-small/\">https://thinkingmachines.ai/news/inkling-2-small/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50386338\">https://news.ycombinator.com/item?id=50386338</a></p>\n<p>Points: 283</p>\n<p># Comments: 90</p>\n",
+      "contentSnippet": "Article URL: https://thinkingmachines.ai/news/inkling-2-small/\nComments URL: https://news.ycombinator.com/item?id=50386338\nPoints: 283\n# Comments: 90",
+      "creator": "Philpax",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "pubDate": "Thu, 05 Nov 2026 23:09:57 +0000",
+      "isoDate": "2026-11-05T23:09:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html\">https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50385870\">https://news.ycombinator.com/item?id=50385870</a></p>\n<p>Points: 498</p>\n<p># Comments: 223</p>\n",
+      "contentSnippet": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html\nComments URL: https://news.ycombinator.com/item?id=50385870\nPoints: 498\n# Comments: 223",
+      "creator": "randycupertino",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Claude Code sends your email address to websites",
+      "link": "https://github.com/anthropics/claude-code/issues/107757",
+      "pubDate": "Thu, 05 Nov 2026 22:17:15 +0000",
+      "isoDate": "2026-11-05T22:17:15.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/107757\">https://github.com/anthropics/claude-code/issues/107757</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50385272\">https://news.ycombinator.com/item?id=50385272</a></p>\n<p>Points: 1561</p>\n<p># Comments: 497</p>\n",
+      "contentSnippet": "Article URL: https://github.com/anthropics/claude-code/issues/107757\nComments URL: https://news.ycombinator.com/item?id=50385272\nPoints: 1561\n# Comments: 497",
+      "creator": "motoroco",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "link": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "pubDate": "Thu, 05 Nov 2026 20:43:42 +0000",
+      "isoDate": "2026-11-05T20:43:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.cve.org/CVERecord?id=CVE-2026-83844\">https://www.cve.org/CVERecord?id=CVE-2026-83844</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50384233\">https://news.ycombinator.com/item?id=50384233</a></p>\n<p>Points: 702</p>\n<p># Comments: 276</p>\n",
+      "contentSnippet": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-83844\nComments URL: https://news.ycombinator.com/item?id=50384233\nPoints: 702\n# Comments: 276",
+      "creator": "kuberwastaken",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Search for everyone",
+      "link": "https://kagi.com/changelog#11820",
+      "pubDate": "Thu, 05 Nov 2026 20:03:34 +0000",
+      "isoDate": "2026-11-05T20:03:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://kagi.com/changelog#11820\">https://kagi.com/changelog#11820</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50383740\">https://news.ycombinator.com/item?id=50383740</a></p>\n<p>Points: 746</p>\n<p># Comments: 408</p>\n",
+      "contentSnippet": "Article URL: https://kagi.com/changelog#11820\nComments URL: https://news.ycombinator.com/item?id=50383740\nPoints: 746\n# Comments: 408",
+      "creator": "elashri",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Goodbye from Salon",
+      "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "pubDate": "Thu, 05 Nov 2026 20:03:29 +0000",
+      "isoDate": "2026-11-05T20:03:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.salon.com/2026/11/05/goodbye-from-salon/\">https://www.salon.com/2026/11/05/goodbye-from-salon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50383739\">https://news.ycombinator.com/item?id=50383739</a></p>\n<p>Points: 640</p>\n<p># Comments: 259</p>\n",
+      "contentSnippet": "Article URL: https://www.salon.com/2026/11/05/goodbye-from-salon/\nComments URL: https://news.ycombinator.com/item?id=50383739\nPoints: 640\n# Comments: 259",
+      "creator": "mkeeter",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The Hackintosh Reborn",
+      "link": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "pubDate": "Thu, 05 Nov 2026 19:08:22 +0000",
+      "isoDate": "2026-11-05T19:08:22.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/\">https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50383057\">https://news.ycombinator.com/item?id=50383057</a></p>\n<p>Points: 402</p>\n<p># Comments: 235</p>\n",
+      "contentSnippet": "Article URL: https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/\nComments URL: https://news.ycombinator.com/item?id=50383057\nPoints: 402\n# Comments: 235",
+      "creator": "rubatuga",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Window Sweaters",
+      "link": "https://github.com/saragordic/window-sweaters",
+      "pubDate": "Thu, 05 Nov 2026 16:50:14 +0000",
+      "isoDate": "2026-11-05T16:50:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/saragordic/window-sweaters\">https://github.com/saragordic/window-sweaters</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381383\">https://news.ycombinator.com/item?id=50381383</a></p>\n<p>Points: 450</p>\n<p># Comments: 132</p>\n",
+      "contentSnippet": "Article URL: https://github.com/saragordic/window-sweaters\nComments URL: https://news.ycombinator.com/item?id=50381383\nPoints: 450\n# Comments: 132",
+      "creator": "nickswalker",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "link": "https://motorolanews.com/motorola-signature-27-2/",
+      "pubDate": "Thu, 05 Nov 2026 16:01:34 +0000",
+      "isoDate": "2026-11-05T16:01:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://motorolanews.com/motorola-signature-27-2/\">https://motorolanews.com/motorola-signature-27-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380810\">https://news.ycombinator.com/item?id=50380810</a></p>\n<p>Points: 571</p>\n<p># Comments: 402</p>\n",
+      "contentSnippet": "Article URL: https://motorolanews.com/motorola-signature-27-2/\nComments URL: https://news.ycombinator.com/item?id=50380810\nPoints: 571\n# Comments: 402",
+      "creator": "monneyboi",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "pubDate": "Thu, 05 Nov 2026 14:44:20 +0000",
+      "isoDate": "2026-11-05T14:44:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/\">https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50379704\">https://news.ycombinator.com/item?id=50379704</a></p>\n<p>Points: 626</p>\n<p># Comments: 2</p>\n",
+      "contentSnippet": "Article URL: https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/\nComments URL: https://news.ycombinator.com/item?id=50379704\nPoints: 626\n# Comments: 2",
+      "creator": "pantalaimon",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "MCP Explained",
+      "link": "https://mcp-explained.com/",
+      "pubDate": "Thu, 05 Nov 2026 14:08:35 +0000",
+      "isoDate": "2026-11-05T14:08:35.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mcp-explained.com/\">https://mcp-explained.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50379249\">https://news.ycombinator.com/item?id=50379249</a></p>\n<p>Points: 333</p>\n<p># Comments: 133</p>\n",
+      "contentSnippet": "Article URL: https://mcp-explained.com/\nComments URL: https://news.ycombinator.com/item?id=50379249\nPoints: 333\n# Comments: 133",
+      "creator": "rwilinski",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "I wish tech companies knew more about me",
+      "link": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "pubDate": "Thu, 05 Nov 2026 13:40:52 +0000",
+      "isoDate": "2026-11-05T13:40:52.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me\">https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50378942\">https://news.ycombinator.com/item?id=50378942</a></p>\n<p>Points: 549</p>\n<p># Comments: 409</p>\n",
+      "contentSnippet": "Article URL: https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me\nComments URL: https://news.ycombinator.com/item?id=50378942\nPoints: 549\n# Comments: 409",
+      "creator": "freetonik",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Discord is ditching Electron and its new app uses less RAM",
+      "link": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "pubDate": "Thu, 05 Nov 2026 13:05:28 +0000",
+      "isoDate": "2026-11-05T13:05:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theverge.com/news/1027379/discord-ditching-electron-web-app\">https://www.theverge.com/news/1027379/discord-ditching-electron-web-app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50378625\">https://news.ycombinator.com/item?id=50378625</a></p>\n<p>Points: 482</p>\n<p># Comments: 418</p>\n",
+      "contentSnippet": "Article URL: https://www.theverge.com/news/1027379/discord-ditching-electron-web-app\nComments URL: https://news.ycombinator.com/item?id=50378625\nPoints: 482\n# Comments: 418",
+      "creator": "archb",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Download your favourite YouTube videos",
+      "link": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "pubDate": "Thu, 05 Nov 2026 13:00:11 +0000",
+      "isoDate": "2026-11-05T13:00:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/\">https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50378571\">https://news.ycombinator.com/item?id=50378571</a></p>\n<p>Points: 395</p>\n<p># Comments: 185</p>\n",
+      "contentSnippet": "Article URL: https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/\nComments URL: https://news.ycombinator.com/item?id=50378571\nPoints: 395\n# Comments: 185",
+      "creator": "surprisetalk",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "sshole",
+      "link": "https://sshhole.com",
+      "pubDate": "Thu, 05 Nov 2026 12:19:02 +0000",
+      "isoDate": "2026-11-05T12:19:02.000Z",
+      "content": "\n<p>Related:<p><a href=\"https://hachyderm.io/@damienmiller/117563026759098135\" rel=\"nofollow\">https://hachyderm.io/@damienmiller/117563026759098135</a> / <a href=\"https://news.ycombinator.com/item?id=50377221\">https://news.ycombinator.com/item?id=50377221</a><p><a href=\"https://www.openssh.org/releasenotes.html#10.6p2\" rel=\"nofollow\">https://www.openssh.org/releasenotes.html#10.6p2</a><p><a href=\"https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/\" rel=\"nofollow\">https://alpinelinux.org/posts/2026-11-05-openssh-password-au...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50378228\">https://news.ycombinator.com/item?id=50378228</a></p>\n<p>Points: 2917</p>\n<p># Comments: 734</p>\n",
+      "contentSnippet": "Related:\nhttps://hachyderm.io/@damienmiller/117563026759098135 / https://news.ycombinator.com/item?id=50377221\nhttps://www.openssh.org/releasenotes.html#10.6p2\nhttps://alpinelinux.org/posts/2026-11-05-openssh-password-au...\nComments URL: https://news.ycombinator.com/item?id=50378228\nPoints: 2917\n# Comments: 734",
+      "creator": "josemrb",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Awesome repositories are no longer awesome",
+      "link": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+      "pubDate": "Thu, 05 Nov 2026 11:16:51 +0000",
+      "isoDate": "2026-11-05T11:16:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/\">https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50377821\">https://news.ycombinator.com/item?id=50377821</a></p>\n<p>Points: 299</p>\n<p># Comments: 124</p>\n",
+      "contentSnippet": "Article URL: https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/\nComments URL: https://news.ycombinator.com/item?id=50377821\nPoints: 299\n# Comments: 124",
+      "creator": "erikgahner",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "pubDate": "Thu, 05 Nov 2026 07:44:30 +0000",
+      "isoDate": "2026-11-05T07:44:30.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/\">https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50376313\">https://news.ycombinator.com/item?id=50376313</a></p>\n<p>Points: 341</p>\n<p># Comments: 189</p>\n",
+      "contentSnippet": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/\nComments URL: https://news.ycombinator.com/item?id=50376313\nPoints: 341\n# Comments: 189",
+      "creator": "lucrbvi",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Lemmings CSS Animation",
+      "link": "https://markblah.github.io/lemmings/",
+      "pubDate": "Thu, 05 Nov 2026 04:54:10 +0000",
+      "isoDate": "2026-11-05T04:54:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://markblah.github.io/lemmings/\">https://markblah.github.io/lemmings/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50375354\">https://news.ycombinator.com/item?id=50375354</a></p>\n<p>Points: 412</p>\n<p># Comments: 78</p>\n",
+      "contentSnippet": "Article URL: https://markblah.github.io/lemmings/\nComments URL: https://news.ycombinator.com/item?id=50375354\nPoints: 412\n# Comments: 78",
+      "creator": "MarkBlah",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-11-07T05:15:07.188Z"
+}
