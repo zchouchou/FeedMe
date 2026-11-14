@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "Catch Go bugs that fuzzing misses with Gemini and a constraint solver",
+      "link": "https://developers.googleblog.com/en/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/",
+      "pubDate": "Wed, 11 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-11T16:00:00.000Z",
+      "content": "How pairing Go's surviving compiler bounds-check traps with Gemini 4 Argon and the Z3 constraint solver catches latent out-of-bounds panics in Go code and uncovers a slice-capacity blind spot in go test -fuzz.",
+      "contentSnippet": "How pairing Go's surviving compiler bounds-check traps with Gemini 4 Argon and the Z3 constraint solver catches latent out-of-bounds panics in Go code and uncovers a slice-capacity blind spot in go test -fuzz.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How Agent Anomaly Detection scores on benchmarks we didn't write",
+      "link": "https://developers.googleblog.com/en/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
+      "pubDate": "Wed, 11 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-11T16:00:00.000Z",
+      "content": "Agent Anomaly Detection (AAD) provides asynchronous, low-latency monitoring for AI agents by analyzing OpenTelemetry traces and logs to flag goal hijacks and tool misuse. Tested across five public security benchmarks, AAD successfully caught 87% of harmful instructions carried out by agents without adding runtime latency. Developers can integrate AAD alongside semantic governance and strict tool limits as part of a defense-in-depth strategy to secure agentic applications.",
+      "contentSnippet": "Agent Anomaly Detection (AAD) provides asynchronous, low-latency monitoring for AI agents by analyzing OpenTelemetry traces and logs to flag goal hijacks and tool misuse. Tested across five public security benchmarks, AAD successfully caught 87% of harmful instructions carried out by agents without adding runtime latency. Developers can integrate AAD alongside semantic governance and strict tool limits as part of a defense-in-depth strategy to secure agentic applications.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
+      "link": "https://developers.googleblog.com/en/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+      "pubDate": "Tue, 10 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-10T16:00:00.000Z",
+      "content": "A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Developers can leverage open-source renderer SDKs—including React, Angular, Lit, Flutter, SwiftUI, and Jetpack Compose—alongside agent SDKs for Python, TypeScript, and Dart. The release introduces bidirectional function calls, swappable inference formats, and secure data binding to help teams seamlessly integrate generative UI into their product stacks.",
+      "contentSnippet": "A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Developers can leverage open-source renderer SDKs—including React, Angular, Lit, Flutter, SwiftUI, and Jetpack Compose—alongside agent SDKs for Python, TypeScript, and Dart. The release introduces bidirectional function calls, swappable inference formats, and secure data binding to help teams seamlessly integrate generative UI into their product stacks.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "On-Device Speech Recognition and Text-to-Speech in Google AI Edge Gallery",
+      "link": "https://developers.googleblog.com/en/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
+      "pubDate": "Mon, 09 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-09T16:00:00.000Z",
+      "content": "Google AI Edge Gallery now supports on-device, offline Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) capabilities for building developer-friendly voice applications. Developers can leverage ML Kit for optimized Android performance, or use MediaPipe Tasks and LiteRT for cross-platform open-weight model integration. This local pipeline seamlessly pairs lightweight speech models with on-device small language models like Gemini Nano and Gemma 4 to enable real-time streaming transcription and low-latency synthesis.",
+      "contentSnippet": "Google AI Edge Gallery now supports on-device, offline Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) capabilities for building developer-friendly voice applications. Developers can leverage ML Kit for optimized Android performance, or use MediaPipe Tasks and LiteRT for cross-platform open-weight model integration. This local pipeline seamlessly pairs lightweight speech models with on-device small language models like Gemini Nano and Gemma 4 to enable real-time streaming transcription and low-latency synthesis.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Announcing Long-Context Training on TPUs with MaxText Context Parallelism",
+      "link": "https://developers.googleblog.com/en/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
+      "pubDate": "Sun, 08 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-08T16:00:00.000Z",
+      "content": "Google Cloud's MaxText framework now supports long-context training up to 14 million tokens on Cloud TPUs by implementing four context-parallel strategies: All-gather, A2A, P2P, and USP. Powered by the Tokamax Splash Attention kernel, these strategies effectively manage attention compute and memory bottlenecks without materializing full key-value sequences in high-bandwidth memory. Developers can adopt these capabilities in MaxText v0.2.4 to achieve high Model FLOPs Utilization (MFU) across large-scale model training workflows.",
+      "contentSnippet": "Google Cloud's MaxText framework now supports long-context training up to 14 million tokens on Cloud TPUs by implementing four context-parallel strategies: All-gather, A2A, P2P, and USP. Powered by the Tokamax Splash Attention kernel, these strategies effectively manage attention compute and memory bottlenecks without materializing full key-value sequences in high-bandwidth memory. Developers can adopt these capabilities in MaxText v0.2.4 to achieve high Model FLOPs Utilization (MFU) across large-scale model training workflows.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "From prompt to app: Build with Google Maps in AI Studio",
+      "link": "https://developers.googleblog.com/en/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+      "pubDate": "Sun, 08 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-08T16:00:00.000Z",
+      "content": "Developers can now build applications powered by Google Maps Platform directly within Google AI Studio by prompting Gemini with real-world geospatial concepts. The integration eliminates traditional configuration hurdles by providing one-click demo keys that generate instantly without requiring Cloud Console redirects or credit cards. This setup grants developers immediate access to core APIs—including Maps, Places, and Routes—supported by daily sandbox quotas for seamless prototyping.",
+      "contentSnippet": "Developers can now build applications powered by Google Maps Platform directly within Google AI Studio by prompting Gemini with real-world geospatial concepts. The integration eliminates traditional configuration hurdles by providing one-click demo keys that generate instantly without requiring Cloud Console redirects or credit cards. This setup grants developers immediate access to core APIs—including Maps, Places, and Routes—supported by daily sandbox quotas for seamless prototyping.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "What is Pathways? Single-controller training for large models",
+      "link": "https://developers.googleblog.com/en/what-is-pathways-single-controller-training-for-large-models/",
+      "pubDate": "Sun, 08 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-08T16:00:00.000Z",
+      "content": "Pathways is a single-controller distributed training system designed to coordinate large-scale model training across multiple accelerator groups by representing computations as a global dataflow graph. Unlike traditional SPMD models like DDP and FSDP that rely on synchronous collectives, Pathways uses asynchronous dispatch and a central scheduler to maximize hardware utilization and prevent deadlocks in complex workloads. By decoupling model definition from physical hardware via virtual devices, developers can efficiently scale complex training architectures and seamlessly handle dynamic workloads like reinforcement learning post-training.",
+      "contentSnippet": "Pathways is a single-controller distributed training system designed to coordinate large-scale model training across multiple accelerator groups by representing computations as a global dataflow graph. Unlike traditional SPMD models like DDP and FSDP that rely on synchronous collectives, Pathways uses asynchronous dispatch and a central scheduler to maximize hardware utilization and prevent deadlocks in complex workloads. By decoupling model definition from physical hardware via virtual devices, developers can efficiently scale complex training architectures and seamlessly handle dynamic workloads like reinforcement learning post-training.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Agent Distraction",
+      "link": "https://developers.googleblog.com/en/agent-distraction/",
+      "pubDate": "Thu, 05 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-05T16:00:00.000Z",
+      "content": "Analysis of over 913,000 coding agent sessions reveals that 13% expose agents to inline TODO(b/...) comments. In 6% of encounters, agents act on these comments, with 83% being entirely unprompted by the developer. These detours result in significant overhead—adding 70% more steps, 77% more tokens, and 105% more wait time per session—split between chasing closed tickets (41%) and unauthorized scope creep on open bugs (57%). Higher-capability models show higher distraction rates, highlighting the need for automated cleanup and linters to maintain agent-friendly codebases",
+      "contentSnippet": "Analysis of over 913,000 coding agent sessions reveals that 13% expose agents to inline TODO(b/...) comments. In 6% of encounters, agents act on these comments, with 83% being entirely unprompted by the developer. These detours result in significant overhead—adding 70% more steps, 77% more tokens, and 105% more wait time per session—split between chasing closed tickets (41%) and unauthorized scope creep on open bugs (57%). Higher-capability models show higher distraction rates, highlighting the need for automated cleanup and linters to maintain agent-friendly codebases",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Cost per task: Using cheap classifiers to route across Gemini models and thinking levels",
+      "link": "https://developers.googleblog.com/en/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
+      "pubDate": "Mon, 02 Nov 2026 16:00:00 GMT",
+      "isoDate": "2026-11-02T16:00:00.000Z",
+      "content": "Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing....",
+      "contentSnippet": "Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing....",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "DevFest is back!",
+      "link": "https://developers.googleblog.com/en/devfest-is-back/",
+      "pubDate": "Thu, 29 Oct 2026 16:00:00 GMT",
+      "isoDate": "2026-10-29T16:00:00.000Z",
+      "content": "DevFest 2026 runs from October 1 to December 31, bringing together nearly a million developers across more than 800 global events centered on the agentic AI era. Under the theme \"Build, Secure, Scale,\" participants gain hands-on experience with Google’s developer stack—including Gemini, Google AI Studio, Google Antigravity, and Web MCP—through live workshops and codelabs. The conference focuses on enabling developers to prototype rapidly, ensure secure and private deployments, and leverage production-ready infrastructure.",
+      "contentSnippet": "DevFest 2026 runs from October 1 to December 31, bringing together nearly a million developers across more than 800 global events centered on the agentic AI era. Under the theme \"Build, Secure, Scale,\" participants gain hands-on experience with Google’s developer stack—including Gemini, Google AI Studio, Google Antigravity, and Web MCP—through live workshops and codelabs. The conference focuses on enabling developers to prototype rapidly, ensure secure and private deployments, and leverage production-ready infrastructure.",
+      "creator": "Google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-11-14T05:35:36.408Z"
+}

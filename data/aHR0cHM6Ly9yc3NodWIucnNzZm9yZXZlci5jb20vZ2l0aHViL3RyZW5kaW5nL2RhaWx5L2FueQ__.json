@@ -1,0 +1,129 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d\" referrerpolicy=\"no-referrer\"><br>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.<br><br>Language: Go<br>Stars: 50795<br>Forks: 3779",
+      "contentSnippet": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\nLanguage: Go\nStars: 50795\nForks: 3779",
+      "creator": "alibaba",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ab9c86c1da513c14ae794fae4e110e592eff8f6cd6926008f9e9fcdcd8bfc205/GoogleChrome/modern-web-guidance-src\" referrerpolicy=\"no-referrer\"><br>Keep your coding agent up to date with the latest web best practices<br><br>Language: TypeScript<br>Stars: 5034<br>Forks: 276",
+      "contentSnippet": "Keep your coding agent up to date with the latest web best practices\nLanguage: TypeScript\nStars: 5034\nForks: 276",
+      "creator": "GoogleChrome",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "openai/codex-security",
+      "link": "https://github.com/openai/codex-security",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d664760a6d67ce285bc1c9a84eb2aee90748bab8491d5e5e884ad4493c5ffbbc/openai/codex-security\" referrerpolicy=\"no-referrer\"><br>OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security<br><br>Language: TypeScript<br>Stars: 13235<br>Forks: 1027",
+      "contentSnippet": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security\nLanguage: TypeScript\nStars: 13235\nForks: 1027",
+      "creator": "openai",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1131513930/2a028e99-3b90-4290-8381-d86fffbf3332\" referrerpolicy=\"no-referrer\"><br>LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.<br><br>Language: Python<br>Stars: 71808<br>Forks: 57348",
+      "contentSnippet": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.\nLanguage: Python\nStars: 71808\nForks: 57348",
+      "creator": "ZhuLinsen",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "we-promise/sure",
+      "link": "https://github.com/we-promise/sure",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0abdcfdc41f8ceaebe25ae82c666c228aada3a7a73f7dfdd19b27c1a7ac29fc6/we-promise/sure\" referrerpolicy=\"no-referrer\"><br>The personal finance app for everyone (by everyone)<br><br>Language: Ruby<br>Stars: 14864<br>Forks: 1131",
+      "contentSnippet": "The personal finance app for everyone (by everyone)\nLanguage: Ruby\nStars: 14864\nForks: 1131",
+      "creator": "we-promise",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "backnotprop/plannotator",
+      "link": "https://github.com/backnotprop/plannotator",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b7565659694eb054c719ee04f9b77e3fcd67fa7d21acd83ef480610d1ac53356/backnotprop/plannotator\" referrerpolicy=\"no-referrer\"><br>The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. <br><br>Language: TypeScript<br>Stars: 10538<br>Forks: 790",
+      "contentSnippet": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. \nLanguage: TypeScript\nStars: 10538\nForks: 790",
+      "creator": "backnotprop",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "louislam/uptime-kuma",
+      "link": "https://github.com/louislam/uptime-kuma",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/382496361/f21b61f5-693a-4925-9f1f-fea237ade223\" referrerpolicy=\"no-referrer\"><br>A fancy self-hosted monitoring tool<br><br>Language: JavaScript<br>Stars: 93940<br>Forks: 8726",
+      "contentSnippet": "A fancy self-hosted monitoring tool\nLanguage: JavaScript\nStars: 93940\nForks: 8726",
+      "creator": "louislam",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "block/buzz",
+      "link": "https://github.com/block/buzz",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ee2da4a6610586c544f81aae352ecb12a088c961c1ac120d5ddf82bd382b19bd/block/buzz\" referrerpolicy=\"no-referrer\"><br>A hive mind communication platform<br><br>Language: Rust<br>Stars: 37342<br>Forks: 4943",
+      "contentSnippet": "A hive mind communication platform\nLanguage: Rust\nStars: 37342\nForks: 4943",
+      "creator": "block",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "tradermonty/claude-trading-skills",
+      "link": "https://github.com/tradermonty/claude-trading-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/bfd2e4dc539bfff9a76185dc5cf5c2f5c7a7ab90a370496b34becae0bfce5fca/tradermonty/claude-trading-skills\" referrerpolicy=\"no-referrer\"><br>Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.<br><br>Language: Python<br>Stars: 4275<br>Forks: 880",
+      "contentSnippet": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.\nLanguage: Python\nStars: 4275\nForks: 880",
+      "creator": "tradermonty",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "tailscale/tailcat",
+      "link": "https://github.com/tailscale/tailcat",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/38b637162d36142cf03e76c642f20e9d52b30a2cc16bb60f20658fe1d4b4e647/tailscale/tailcat\" referrerpolicy=\"no-referrer\"><br>like netcat, but over Tailscale's data plane, without Tailscale's control plane<br><br>Language: Go<br>Stars: 9550<br>Forks: 435",
+      "contentSnippet": "like netcat, but over Tailscale's data plane, without Tailscale's control plane\nLanguage: Go\nStars: 9550\nForks: 435",
+      "creator": "tailscale",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Likely7/Veyra-NRVideo",
+      "link": "https://github.com/Likely7/Veyra-NRVideo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/91c071b3126211c78de66d95baeb7919f3ddc4befaff69cd0cea97308979c5dc/Likely7/Veyra-NRVideo\" referrerpolicy=\"no-referrer\"><br>Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.<br><br>Language: C++<br>Stars: 1700<br>Forks: 76",
+      "contentSnippet": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.\nLanguage: C++\nStars: 1700\nForks: 76",
+      "creator": "Likely7",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8eeecab0d2fa2b52d8e533c21b4545a7c0643ad2b614587d6f3544bf26326856/ChromeDevTools/chrome-devtools-mcp\" referrerpolicy=\"no-referrer\"><br>Chrome DevTools for coding agents<br><br>Language: TypeScript<br>Stars: 55629<br>Forks: 4613",
+      "contentSnippet": "Chrome DevTools for coding agents\nLanguage: TypeScript\nStars: 55629\nForks: 4613",
+      "creator": "ChromeDevTools",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-11-14T05:35:25.838Z"
+}

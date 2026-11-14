@@ -1,0 +1,159 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "sherlock-project/sherlock",
+      "link": "https://github.com/sherlock-project/sherlock",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/162998479/643206d7-076a-4b92-bb6c-89d9c4161d95\" referrerpolicy=\"no-referrer\"><br>Hunt down social media accounts by username across social networks<br><br>Language: Python<br>Stars: 111275<br>Forks: 12877",
+      "contentSnippet": "Hunt down social media accounts by username across social networks\nLanguage: Python\nStars: 111275\nForks: 12877",
+      "creator": "sherlock-project",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anthropics/skills",
+      "link": "https://github.com/anthropics/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f2cd14d5155dd5c05dd32e0fc867398aab1b8c230ef9eaf866218ceaf5ab74a6/anthropics/skills\" referrerpolicy=\"no-referrer\"><br>Public repository for Agent Skills<br><br>Language: Python<br>Stars: 194208<br>Forks: 22847",
+      "contentSnippet": "Public repository for Agent Skills\nLanguage: Python\nStars: 194208\nForks: 22847",
+      "creator": "anthropics",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "milind-soni/OpenMausBot",
+      "link": "https://github.com/milind-soni/OpenMausBot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/205e0dbf565d23762576050cd1081df145a20511b52c031e8e8e3bffc918ff84/milind-soni/OpenMausBot\" referrerpolicy=\"no-referrer\"><br>Open-source Grok Bot alternative with a virtual machine that bots can use<br><br>Language: TypeScript<br>Stars: 22286<br>Forks: 3096",
+      "contentSnippet": "Open-source Grok Bot alternative with a virtual machine that bots can use\nLanguage: TypeScript\nStars: 22286\nForks: 3096",
+      "creator": "milind-soni",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "vercel-labs/agent-browser",
+      "link": "https://github.com/vercel-labs/agent-browser",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/be649883c9bb00741e3cf4954e04192b6b60b0f56e086b1d92734c0c0c752b41/vercel-labs/agent-browser\" referrerpolicy=\"no-referrer\"><br>Browser automation CLI for AI agents<br><br>Language: Rust<br>Stars: 50797<br>Forks: 3533",
+      "contentSnippet": "Browser automation CLI for AI agents\nLanguage: Rust\nStars: 50797\nForks: 3533",
+      "creator": "vercel-labs",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "google/elephant-goldfish-model",
+      "link": "https://github.com/google/elephant-goldfish-model",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1368596582/bafb1e15-6b0b-4c41-a95d-6183244a44ab\" referrerpolicy=\"no-referrer\"><br>Open-source plugin for designing and reviewing software with agents<br><br>Language: Python<br>Stars: 18702<br>Forks: 1397",
+      "contentSnippet": "Open-source plugin for designing and reviewing software with agents\nLanguage: Python\nStars: 18702\nForks: 1397",
+      "creator": "google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1131513930/2a028e99-3b90-4290-8381-d86fffbf3332\" referrerpolicy=\"no-referrer\"><br>LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.<br><br>Language: Python<br>Stars: 71808<br>Forks: 57349",
+      "contentSnippet": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.\nLanguage: Python\nStars: 71808\nForks: 57349",
+      "creator": "ZhuLinsen",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "NVIDIA/auto-ontology",
+      "link": "https://github.com/NVIDIA/auto-ontology",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a0e14ad32b6dad17eb233043fe55976a3c9b70c807c723ca3c4ec88df8e4a518/NVIDIA/auto-ontology\" referrerpolicy=\"no-referrer\"><br>Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.<br><br>Language: Python<br>Stars: 12616<br>Forks: 1035",
+      "contentSnippet": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.\nLanguage: Python\nStars: 12616\nForks: 1035",
+      "creator": "NVIDIA",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "google-deepmind/mujoco",
+      "link": "https://github.com/google-deepmind/mujoco",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2cb03cd79d439bdd9825fc4377350296546cf996db9c3810b4787ee2f4c12511/google-deepmind/mujoco\" referrerpolicy=\"no-referrer\"><br>Multi-Joint dynamics with Contact. A general purpose physics simulator.<br><br>Language: C++<br>Stars: 17896<br>Forks: 2187",
+      "contentSnippet": "Multi-Joint dynamics with Contact. A general purpose physics simulator.\nLanguage: C++\nStars: 17896\nForks: 2187",
+      "creator": "google-deepmind",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0914db66bb995d38108f480a7aee08bed7809c9cfd9a33492b4156e36a2e1a6f/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 323918<br>Forks: 27188",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 323918\nForks: 27188",
+      "creator": "mattpocock",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/46bb22bfd64c362f90a815d403557560357c931ff8068ee21d70dae2bd950ec1/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: JavaScript<br>Stars: 117219<br>Forks: 12258",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: JavaScript\nStars: 117219\nForks: 12258",
+      "creator": "addyosmani",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1e8aef659dddd1b66df9b7f59498201b1af99e84bbe31d86f265f71606a63173/cloudflare/security-audit-skill\" referrerpolicy=\"no-referrer\"><br>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings<br><br>Language: JavaScript<br>Stars: 72042<br>Forks: 4803",
+      "contentSnippet": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\nLanguage: JavaScript\nStars: 72042\nForks: 4803",
+      "creator": "cloudflare",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "zed-industries/zed",
+      "link": "https://github.com/zed-industries/zed",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/450a9def9799ab22f84034b5eea4e760a9cac15d72113d4ac6409ae051c766a1/zed-industries/zed\" referrerpolicy=\"no-referrer\"><br>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.<br><br>Language: Rust<br>Stars: 94979<br>Forks: 11697",
+      "contentSnippet": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.\nLanguage: Rust\nStars: 94979\nForks: 11697",
+      "creator": "zed-industries",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anthropics/claude-quickstarts",
+      "link": "https://github.com/anthropics/claude-quickstarts",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1c30a306dc6e2c3f2921a86a5e3930a488904c1f67e90189ad6bc347ad51460e/anthropics/claude-quickstarts\" referrerpolicy=\"no-referrer\"><br>A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API<br><br>Language: Python<br>Stars: 20884<br>Forks: 3490",
+      "contentSnippet": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API\nLanguage: Python\nStars: 20884\nForks: 3490",
+      "creator": "anthropics",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "vercel-labs/agent-desktop",
+      "link": "https://github.com/vercel-labs/agent-desktop",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1161958643/83055b28-992e-4176-b5d6-89b56aa22dde\" referrerpolicy=\"no-referrer\"><br>Computer use CLI for AI agents<br><br>Language: Rust<br>Stars: 23397<br>Forks: 1732",
+      "contentSnippet": "Computer use CLI for AI agents\nLanguage: Rust\nStars: 23397\nForks: 1732",
+      "creator": "vercel-labs",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "lobehub/lobehub",
+      "link": "https://github.com/lobehub/lobehub",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/643445235/c12fed7e-80df-4ced-8b64-692437e53c78\" referrerpolicy=\"no-referrer\"><br>🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.<br><br>Language: TypeScript<br>Stars: 85441<br>Forks: 16303",
+      "contentSnippet": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.\nLanguage: TypeScript\nStars: 85441\nForks: 16303",
+      "creator": "lobehub",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-11-14T05:35:26.231Z"
+}
