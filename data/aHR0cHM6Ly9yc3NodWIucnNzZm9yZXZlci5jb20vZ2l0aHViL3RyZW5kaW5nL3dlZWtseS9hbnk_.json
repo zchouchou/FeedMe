@@ -1,0 +1,139 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "backnotprop/plannotator",
+      "link": "https://github.com/backnotprop/plannotator",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c31008eb0fe93cb167f4c84e7a75db2666c1ee8176fde410a331be8489a81feb/backnotprop/plannotator\" referrerpolicy=\"no-referrer\"><br>The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. <br><br>Language: TypeScript<br>Stars: 13952<br>Forks: 1392",
+      "contentSnippet": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. \nLanguage: TypeScript\nStars: 13952\nForks: 1392",
+      "creator": "backnotprop",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "google-labs-code/stitch-skills",
+      "link": "https://github.com/google-labs-code/stitch-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/42452ca58eeb8f80d0c8e58b0e3caaa9df0e0d5a24b929afef0087d5b6c31f38/google-labs-code/stitch-skills\" referrerpolicy=\"no-referrer\"><br>A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.<br><br>Language: TypeScript<br>Stars: 11117<br>Forks: 1413",
+      "contentSnippet": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.\nLanguage: TypeScript\nStars: 11117\nForks: 1413",
+      "creator": "google-labs-code",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/26af1db7739d5493ec638274c29199b112a55072726ebd08a0736c129b888aad/GoogleChrome/modern-web-guidance-src\" referrerpolicy=\"no-referrer\"><br>Keep your coding agent up to date with the latest web best practices<br><br>Language: TypeScript<br>Stars: 9588<br>Forks: 770",
+      "contentSnippet": "Keep your coding agent up to date with the latest web best practices\nLanguage: TypeScript\nStars: 9588\nForks: 770",
+      "creator": "GoogleChrome",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d\" referrerpolicy=\"no-referrer\"><br>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.<br><br>Language: Go<br>Stars: 54852<br>Forks: 4528",
+      "contentSnippet": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\nLanguage: Go\nStars: 54852\nForks: 4528",
+      "creator": "alibaba",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "mvanhorn/last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/092b17a230bf277a83dab6f7382e686511c7b51fa5c182875a9e814ab7164fc8/mvanhorn/last30days-skill\" referrerpolicy=\"no-referrer\"><br>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary<br><br>Language: Python<br>Stars: 71563<br>Forks: 6342",
+      "contentSnippet": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\nLanguage: Python\nStars: 71563\nForks: 6342",
+      "creator": "mvanhorn",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1d13f2b57f7eb43abf3fabf739becedaef257d4a3018db4ff9c8c91fba725351/ChromeDevTools/chrome-devtools-mcp\" referrerpolicy=\"no-referrer\"><br>Chrome DevTools for coding agents<br><br>Language: TypeScript<br>Stars: 58578<br>Forks: 4888",
+      "contentSnippet": "Chrome DevTools for coding agents\nLanguage: TypeScript\nStars: 58578\nForks: 4888",
+      "creator": "ChromeDevTools",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "tradermonty/claude-trading-skills",
+      "link": "https://github.com/tradermonty/claude-trading-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/455e8996d5dc1258e531a962f907c7e2881f6f2257cfea3e8d52a5e3b5fe8dfc/tradermonty/claude-trading-skills\" referrerpolicy=\"no-referrer\"><br>Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.<br><br>Language: Python<br>Stars: 7474<br>Forks: 1471",
+      "contentSnippet": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.\nLanguage: Python\nStars: 7474\nForks: 1471",
+      "creator": "tradermonty",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ag-ui-protocol/ag-ui",
+      "link": "https://github.com/ag-ui-protocol/ag-ui",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cae612f255e97135952cefd60c5770a343dc3367282272293cb5ca0b59f6ded8/ag-ui-protocol/ag-ui\" referrerpolicy=\"no-referrer\"><br>AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.<br><br>Language: TypeScript<br>Stars: 20852<br>Forks: 2127",
+      "contentSnippet": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.\nLanguage: TypeScript\nStars: 20852\nForks: 2127",
+      "creator": "ag-ui-protocol",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "meta/astryx",
+      "link": "https://github.com/meta/astryx",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fb490e327cc73636fe8a1f44c7b54aeafa56327d74ff1ec5b23249c59c318763/meta/astryx\" referrerpolicy=\"no-referrer\"><br>An open source design system that's fully customizable and agent ready<br><br>Language: TypeScript<br>Stars: 31444<br>Forks: 2470",
+      "contentSnippet": "An open source design system that's fully customizable and agent ready\nLanguage: TypeScript\nStars: 31444\nForks: 2470",
+      "creator": "meta",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "pookjw/HermesEnabler",
+      "link": "https://github.com/pookjw/HermesEnabler",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7a851bbdcb0ad5486f79237d81d1b3787018dee7a157d6dcdbf9ccc5aac7fe40/pookjw/HermesEnabler\" referrerpolicy=\"no-referrer\"><br>Enable Hermès Watch Faces on any Apple Watch devices<br><br>Language: Objective-C<br>Stars: 2315<br>Forks: 194",
+      "contentSnippet": "Enable Hermès Watch Faces on any Apple Watch devices\nLanguage: Objective-C\nStars: 2315\nForks: 194",
+      "creator": "pookjw",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "we-promise/sure",
+      "link": "https://github.com/we-promise/sure",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e2462928f3e7a009376674494ccc867fe6f9cfc1f9db7b97daa774dd17fecbf3/we-promise/sure\" referrerpolicy=\"no-referrer\"><br>The personal finance app for everyone (by everyone)<br><br>Language: Ruby<br>Stars: 16952<br>Forks: 1489",
+      "contentSnippet": "The personal finance app for everyone (by everyone)\nLanguage: Ruby\nStars: 16952\nForks: 1489",
+      "creator": "we-promise",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "dream-num/univer",
+      "link": "https://github.com/dream-num/univer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/543101941/e14b70fa-fc46-4249-8bd8-399630941326\" referrerpolicy=\"no-referrer\"><br>Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.<br><br>Language: TypeScript<br>Stars: 30986<br>Forks: 2827",
+      "contentSnippet": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.\nLanguage: TypeScript\nStars: 30986\nForks: 2827",
+      "creator": "dream-num",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "kajisho5/ffmpeg-skill",
+      "link": "https://github.com/kajisho5/ffmpeg-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1356077516/f66b5343-33ba-4d7f-b3cc-72c5eab733f0\" referrerpolicy=\"no-referrer\"><br>Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.<br><br>Language: Python<br>Stars: 8968<br>Forks: 819",
+      "contentSnippet": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.\nLanguage: Python\nStars: 8968\nForks: 819",
+      "creator": "kajisho5",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-11-21T06:13:53.268Z"
+}

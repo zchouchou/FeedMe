@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://openai.com/news/rss.xml",
+  "title": "OpenAI News",
+  "description": "The OpenAI blog",
+  "link": "https://openai.com/news",
+  "items": [
+    {
+      "title": "Combatting adversarial distillation",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
+      "isoDate": "2026-11-20T10:00:00.000Z",
+      "content": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "contentSnippet": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "link": "https://openai.com/business/customer-stories/hebbia",
+      "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-20T00:00:00.000Z",
+      "content": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "contentSnippet": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "link": "https://openai.com/index/introducing-medchembench",
+      "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-20T00:00:00.000Z",
+      "content": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "contentSnippet": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "isoDate": "2026-11-19T08:00:00.000Z",
+      "content": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "contentSnippet": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Explore the Codex Security Plugin",
+      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-19T00:00:00.000Z",
+      "content": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "contentSnippet": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "See PR scans in action",
+      "link": "https://openai.com/business/learn/pr-scans-demo",
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-19T00:00:00.000Z",
+      "content": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "contentSnippet": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Get started with Daybreak Blue",
+      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-19T00:00:00.000Z",
+      "content": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "contentSnippet": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Deploying Daybreak Red",
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-19T00:00:00.000Z",
+      "content": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "contentSnippet": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The Silent Consensus",
+      "link": "https://openai.com/index/the-silent-consensus",
+      "pubDate": "Wed, 18 Nov 2026 10:00:00 GMT",
+      "isoDate": "2026-11-18T10:00:00.000Z",
+      "content": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "contentSnippet": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "isoDate": "2026-11-18T08:00:00.000Z",
+      "content": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "contentSnippet": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "isoDate": "2026-11-18T08:00:00.000Z",
+      "content": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "contentSnippet": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Inside the Codex sandbox",
+      "link": "https://openai.com/index/inside-the-codex-sandbox",
+      "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "isoDate": "2026-11-18T08:00:00.000Z",
+      "content": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "contentSnippet": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Managing frontier AI risk: From training to deployment",
+      "link": "https://openai.com/index/managing-frontier-ai-risk",
+      "pubDate": "Wed, 18 Nov 2026 06:00:00 GMT",
+      "isoDate": "2026-11-18T06:00:00.000Z",
+      "content": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "contentSnippet": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "pubDate": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-18T00:00:00.000Z",
+      "content": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "contentSnippet": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "pubDate": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-18T00:00:00.000Z",
+      "content": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "contentSnippet": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "pubDate": "Tue, 17 Nov 2026 17:45:00 GMT",
+      "isoDate": "2026-11-17T17:45:00.000Z",
+      "content": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "contentSnippet": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-17T00:00:00.000Z",
+      "content": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "contentSnippet": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Introducing ChatGPT for Sales",
+      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "pubDate": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "isoDate": "2026-11-17T08:00:00.000Z",
+      "content": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "contentSnippet": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "link": "https://openai.com/index/astra-law-6-2",
+      "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-17T00:00:00.000Z",
+      "content": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "contentSnippet": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-17T00:00:00.000Z",
+      "content": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "contentSnippet": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Broadening access to AI for scientists",
+      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "pubDate": "Mon, 16 Nov 2026 17:00:00 GMT",
+      "isoDate": "2026-11-16T17:00:00.000Z",
+      "content": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "contentSnippet": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "link": "https://openai.com/index/strengthening-online-child-safety",
+      "pubDate": "Mon, 16 Nov 2026 17:00:00 GMT",
+      "isoDate": "2026-11-16T17:00:00.000Z",
+      "content": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "contentSnippet": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "link": "https://openai.com/index/science-at-the-frontier",
+      "pubDate": "Mon, 16 Nov 2026 12:00:00 GMT",
+      "isoDate": "2026-11-16T12:00:00.000Z",
+      "content": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "contentSnippet": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How Revolut raises ambition without lowering the bar",
+      "link": "https://openai.com/business/customer-stories/revolut",
+      "pubDate": "Mon, 16 Nov 2026 09:30:00 GMT",
+      "isoDate": "2026-11-16T09:30:00.000Z",
+      "content": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "contentSnippet": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "link": "https://openai.com/index/lvmh-media-division-partnership",
+      "pubDate": "Mon, 16 Nov 2026 09:00:00 GMT",
+      "isoDate": "2026-11-16T09:00:00.000Z",
+      "content": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "contentSnippet": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Our first phase of embedded assessments",
+      "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
+      "isoDate": "2026-11-16T08:00:00.000Z",
+      "content": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "contentSnippet": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "pubDate": "Mon, 16 Nov 2026 06:00:00 GMT",
+      "isoDate": "2026-11-16T06:00:00.000Z",
+      "content": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "contentSnippet": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Advancing computer-use agents for healthcare teams",
+      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "pubDate": "Mon, 16 Nov 2026 06:00:00 GMT",
+      "isoDate": "2026-11-16T06:00:00.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "link": "https://openai.com/index/the-kings-trust-and-openai",
+      "pubDate": "Mon, 16 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-16T00:00:00.000Z",
+      "content": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "contentSnippet": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "pubDate": "Mon, 16 Nov 2026 00:00:00 GMT",
+      "isoDate": "2026-11-16T00:00:00.000Z",
+      "content": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+      "contentSnippet": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-11-21T06:13:42.113Z"
+}

@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Inkling 2 Mini",
+      "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "pubDate": "Fri, 20 Nov 2026 20:12:19 +0000",
+      "isoDate": "2026-11-20T20:12:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://thinkingmachines.ai/news/inkling-2-mini/\">https://thinkingmachines.ai/news/inkling-2-mini/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50581260\">https://news.ycombinator.com/item?id=50581260</a></p>\n<p>Points: 840</p>\n<p># Comments: 147</p>\n",
+      "contentSnippet": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/\nComments URL: https://news.ycombinator.com/item?id=50581260\nPoints: 840\n# Comments: 147",
+      "creator": "jasondavies",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "pubDate": "Fri, 20 Nov 2026 18:33:14 +0000",
+      "isoDate": "2026-11-20T18:33:14.000Z",
+      "content": "\n<p>Related: <i>Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]</i> - <a href=\"https://news.ycombinator.com/item?id=50574968\">https://news.ycombinator.com/item?id=50574968</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50579568\">https://news.ycombinator.com/item?id=50579568</a></p>\n<p>Points: 1789</p>\n<p># Comments: 807</p>\n",
+      "contentSnippet": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968\nComments URL: https://news.ycombinator.com/item?id=50579568\nPoints: 1789\n# Comments: 807",
+      "creator": "jasondavies",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "We promoted developers into architects without informing them",
+      "link": "https://manidoraisamy.com/developer-to-architect.html",
+      "pubDate": "Fri, 20 Nov 2026 18:17:51 +0000",
+      "isoDate": "2026-11-20T18:17:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://manidoraisamy.com/developer-to-architect.html\">https://manidoraisamy.com/developer-to-architect.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50579331\">https://news.ycombinator.com/item?id=50579331</a></p>\n<p>Points: 357</p>\n<p># Comments: 211</p>\n",
+      "contentSnippet": "Article URL: https://manidoraisamy.com/developer-to-architect.html\nComments URL: https://news.ycombinator.com/item?id=50579331\nPoints: 357\n# Comments: 211",
+      "creator": "QueensGambit",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "link": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "pubDate": "Fri, 20 Nov 2026 17:21:36 +0000",
+      "isoDate": "2026-11-20T17:21:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/\">https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50578358\">https://news.ycombinator.com/item?id=50578358</a></p>\n<p>Points: 388</p>\n<p># Comments: 157</p>\n",
+      "contentSnippet": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/\nComments URL: https://news.ycombinator.com/item?id=50578358\nPoints: 388\n# Comments: 157",
+      "creator": "archon1410",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "link": "https://arxiv.org/abs/2611.21885",
+      "pubDate": "Fri, 20 Nov 2026 16:29:06 +0000",
+      "isoDate": "2026-11-20T16:29:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arxiv.org/abs/2611.21885\">https://arxiv.org/abs/2611.21885</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50577265\">https://news.ycombinator.com/item?id=50577265</a></p>\n<p>Points: 368</p>\n<p># Comments: 115</p>\n",
+      "contentSnippet": "Article URL: https://arxiv.org/abs/2611.21885\nComments URL: https://news.ycombinator.com/item?id=50577265\nPoints: 368\n# Comments: 115",
+      "creator": "lwhsiao",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "I'll never buy Framework hardware again",
+      "link": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+      "pubDate": "Fri, 20 Nov 2026 16:06:30 +0000",
+      "isoDate": "2026-11-20T16:06:30.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/\">https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50576855\">https://news.ycombinator.com/item?id=50576855</a></p>\n<p>Points: 779</p>\n<p># Comments: 563</p>\n",
+      "contentSnippet": "Article URL: https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/\nComments URL: https://news.ycombinator.com/item?id=50576855\nPoints: 779\n# Comments: 563",
+      "creator": "unchar1",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "pubDate": "Fri, 20 Nov 2026 15:03:31 +0000",
+      "isoDate": "2026-11-20T15:03:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/\">https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50575644\">https://news.ycombinator.com/item?id=50575644</a></p>\n<p>Points: 338</p>\n<p># Comments: 206</p>\n",
+      "contentSnippet": "Article URL: https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/\nComments URL: https://news.ycombinator.com/item?id=50575644\nPoints: 338\n# Comments: 206",
+      "creator": "lapcat",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "link": "https://alpo.ge/remark.pdf",
+      "pubDate": "Fri, 20 Nov 2026 14:16:21 +0000",
+      "isoDate": "2026-11-20T14:16:21.000Z",
+      "content": "\n<p>Related: <i>Hurried Announcement: Alessandro Masullo GRH</i> - <a href=\"https://news.ycombinator.com/item?id=50579568\">https://news.ycombinator.com/item?id=50579568</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50574968\">https://news.ycombinator.com/item?id=50574968</a></p>\n<p>Points: 2477</p>\n<p># Comments: 1707</p>\n",
+      "contentSnippet": "Related: Hurried Announcement: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568\nComments URL: https://news.ycombinator.com/item?id=50574968\nPoints: 2477\n# Comments: 1707",
+      "creator": "iamronaldo",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "If you stop writing code, you also get worse at reviewing it",
+      "link": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+      "pubDate": "Fri, 20 Nov 2026 12:41:38 +0000",
+      "isoDate": "2026-11-20T12:41:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/\">https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50573886\">https://news.ycombinator.com/item?id=50573886</a></p>\n<p>Points: 332</p>\n<p># Comments: 162</p>\n",
+      "contentSnippet": "Article URL: https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/\nComments URL: https://news.ycombinator.com/item?id=50573886\nPoints: 332\n# Comments: 162",
+      "creator": "theanonymousone",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "link": "https://architectlabs.com/blog/frostbite",
+      "pubDate": "Fri, 20 Nov 2026 10:01:41 +0000",
+      "isoDate": "2026-11-20T10:01:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://architectlabs.com/blog/frostbite\">https://architectlabs.com/blog/frostbite</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50572503\">https://news.ycombinator.com/item?id=50572503</a></p>\n<p>Points: 636</p>\n<p># Comments: 332</p>\n",
+      "contentSnippet": "Article URL: https://architectlabs.com/blog/frostbite\nComments URL: https://news.ycombinator.com/item?id=50572503\nPoints: 636\n# Comments: 332",
+      "creator": "shioyama",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "link": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "pubDate": "Fri, 20 Nov 2026 09:43:19 +0000",
+      "isoDate": "2026-11-20T09:43:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it\">https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50572355\">https://news.ycombinator.com/item?id=50572355</a></p>\n<p>Points: 645</p>\n<p># Comments: 303</p>\n",
+      "contentSnippet": "Article URL: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it\nComments URL: https://news.ycombinator.com/item?id=50572355\nPoints: 645\n# Comments: 303",
+      "creator": "sammatilda",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "link": "https://signal.org/blog/protecting-your-privacy/",
+      "pubDate": "Fri, 20 Nov 2026 09:42:16 +0000",
+      "isoDate": "2026-11-20T09:42:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://signal.org/blog/protecting-your-privacy/\">https://signal.org/blog/protecting-your-privacy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50572348\">https://news.ycombinator.com/item?id=50572348</a></p>\n<p>Points: 536</p>\n<p># Comments: 316</p>\n",
+      "contentSnippet": "Article URL: https://signal.org/blog/protecting-your-privacy/\nComments URL: https://news.ycombinator.com/item?id=50572348\nPoints: 536\n# Comments: 316",
+      "creator": "dotcoma",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+      "link": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+      "pubDate": "Fri, 20 Nov 2026 09:13:09 +0000",
+      "isoDate": "2026-11-20T09:13:09.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ecohustler.com/article/one-corporation-to-pollute-them-all/\">https://ecohustler.com/article/one-corporation-to-pollute-them-all/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50572116\">https://news.ycombinator.com/item?id=50572116</a></p>\n<p>Points: 513</p>\n<p># Comments: 321</p>\n",
+      "contentSnippet": "Article URL: https://ecohustler.com/article/one-corporation-to-pollute-them-all/\nComments URL: https://news.ycombinator.com/item?id=50572116\nPoints: 513\n# Comments: 321",
+      "creator": "sammatilda",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "\"I can tell you wrote this yourself\"",
+      "link": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+      "pubDate": "Fri, 20 Nov 2026 07:13:21 +0000",
+      "isoDate": "2026-11-20T07:13:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/\">https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50571189\">https://news.ycombinator.com/item?id=50571189</a></p>\n<p>Points: 413</p>\n<p># Comments: 406</p>\n",
+      "contentSnippet": "Article URL: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/\nComments URL: https://news.ycombinator.com/item?id=50571189\nPoints: 413\n# Comments: 406",
+      "creator": "BrunoBernardino",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "link": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+      "pubDate": "Fri, 20 Nov 2026 05:21:02 +0000",
+      "isoDate": "2026-11-20T05:21:02.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117645038299496084\">https://grapheneos.social/@GrapheneOS/117645038299496084</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50570479\">https://news.ycombinator.com/item?id=50570479</a></p>\n<p>Points: 485</p>\n<p># Comments: 191</p>\n",
+      "contentSnippet": "Article URL: https://grapheneos.social/@GrapheneOS/117645038299496084\nComments URL: https://news.ycombinator.com/item?id=50570479\nPoints: 485\n# Comments: 191",
+      "creator": "mraniki",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "PostgreSQL 19",
+      "link": "https://www.postgresql.org/docs/release/19.0/",
+      "pubDate": "Fri, 20 Nov 2026 03:45:45 +0000",
+      "isoDate": "2026-11-20T03:45:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.postgresql.org/docs/release/19.0/\">https://www.postgresql.org/docs/release/19.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50569890\">https://news.ycombinator.com/item?id=50569890</a></p>\n<p>Points: 380</p>\n<p># Comments: 28</p>\n",
+      "contentSnippet": "Article URL: https://www.postgresql.org/docs/release/19.0/\nComments URL: https://news.ycombinator.com/item?id=50569890\nPoints: 380\n# Comments: 28",
+      "creator": "linzhangrun",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "link": "https://github.com/openssl/openssl/pull/33652",
+      "pubDate": "Fri, 20 Nov 2026 02:01:09 +0000",
+      "isoDate": "2026-11-20T02:01:09.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/openssl/openssl/pull/33652\">https://github.com/openssl/openssl/pull/33652</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50569226\">https://news.ycombinator.com/item?id=50569226</a></p>\n<p>Points: 365</p>\n<p># Comments: 329</p>\n",
+      "contentSnippet": "Article URL: https://github.com/openssl/openssl/pull/33652\nComments URL: https://news.ycombinator.com/item?id=50569226\nPoints: 365\n# Comments: 329",
+      "creator": "JacobHenner",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "link": "https://git-aarvin.github.io/mei/",
+      "pubDate": "Thu, 19 Nov 2026 23:35:35 +0000",
+      "isoDate": "2026-11-19T23:35:35.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://git-aarvin.github.io/mei/\">https://git-aarvin.github.io/mei/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50568130\">https://news.ycombinator.com/item?id=50568130</a></p>\n<p>Points: 368</p>\n<p># Comments: 243</p>\n",
+      "contentSnippet": "Article URL: https://git-aarvin.github.io/mei/\nComments URL: https://news.ycombinator.com/item?id=50568130\nPoints: 368\n# Comments: 243",
+      "creator": "hn-aarvin",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "pubDate": "Thu, 19 Nov 2026 18:35:17 +0000",
+      "isoDate": "2026-11-19T18:35:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine\">https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50564159\">https://news.ycombinator.com/item?id=50564159</a></p>\n<p>Points: 338</p>\n<p># Comments: 183</p>\n",
+      "contentSnippet": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine\nComments URL: https://news.ycombinator.com/item?id=50564159\nPoints: 338\n# Comments: 183",
+      "creator": "dev1one1",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Claude solves two open problems in the physics of black holes",
+      "link": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "pubDate": "Thu, 19 Nov 2026 17:30:44 +0000",
+      "isoDate": "2026-11-19T17:30:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.anthropic.com/research/claude-black-hole-physics\">https://www.anthropic.com/research/claude-black-hole-physics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50563148\">https://news.ycombinator.com/item?id=50563148</a></p>\n<p>Points: 554</p>\n<p># Comments: 270</p>\n",
+      "contentSnippet": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics\nComments URL: https://news.ycombinator.com/item?id=50563148\nPoints: 554\n# Comments: 270",
+      "creator": "cybermango",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "link": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "pubDate": "Thu, 19 Nov 2026 17:25:33 +0000",
+      "isoDate": "2026-11-19T17:25:33.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/2Et0x\" rel=\"nofollow\">https://archive.ph/2Et0x</a><p><a href=\"https://clinicaltrials.gov/study/NCT06693986\" rel=\"nofollow\">https://clinicaltrials.gov/study/NCT06693986</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50563066\">https://news.ycombinator.com/item?id=50563066</a></p>\n<p>Points: 875</p>\n<p># Comments: 154</p>\n",
+      "contentSnippet": "https://archive.ph/2Et0x\nhttps://clinicaltrials.gov/study/NCT06693986\nComments URL: https://news.ycombinator.com/item?id=50563066\nPoints: 875\n# Comments: 154",
+      "creator": "cybermango",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Anthropic’s Nasdaq debut",
+      "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "pubDate": "Thu, 19 Nov 2026 17:02:40 +0000",
+      "isoDate": "2026-11-19T17:02:40.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/\">https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50562754\">https://news.ycombinator.com/item?id=50562754</a></p>\n<p>Points: 1132</p>\n<p># Comments: 2299</p>\n",
+      "contentSnippet": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/\nComments URL: https://news.ycombinator.com/item?id=50562754\nPoints: 1132\n# Comments: 2299",
+      "creator": "wslh",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Fuck Your AI Safeguards",
+      "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+      "pubDate": "Thu, 19 Nov 2026 16:30:18 +0000",
+      "isoDate": "2026-11-19T16:30:18.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ounapuu.ee/posts/2026/11/19/unsafeguards/\">https://ounapuu.ee/posts/2026/11/19/unsafeguards/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50562262\">https://news.ycombinator.com/item?id=50562262</a></p>\n<p>Points: 602</p>\n<p># Comments: 247</p>\n",
+      "contentSnippet": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/\nComments URL: https://news.ycombinator.com/item?id=50562262\nPoints: 602\n# Comments: 247",
+      "creator": "speckx",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "link": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "pubDate": "Thu, 19 Nov 2026 16:21:03 +0000",
+      "isoDate": "2026-11-19T16:21:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/\">https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50562113\">https://news.ycombinator.com/item?id=50562113</a></p>\n<p>Points: 689</p>\n<p># Comments: 367</p>\n",
+      "contentSnippet": "Article URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/\nComments URL: https://news.ycombinator.com/item?id=50562113\nPoints: 689\n# Comments: 367",
+      "creator": "Terretta",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Everything you need to survive and rebuild society",
+      "link": "https://lastbook.org/",
+      "pubDate": "Thu, 19 Nov 2026 14:47:18 +0000",
+      "isoDate": "2026-11-19T14:47:18.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lastbook.org/\">https://lastbook.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50560822\">https://news.ycombinator.com/item?id=50560822</a></p>\n<p>Points: 418</p>\n<p># Comments: 226</p>\n",
+      "contentSnippet": "Article URL: https://lastbook.org/\nComments URL: https://news.ycombinator.com/item?id=50560822\nPoints: 418\n# Comments: 226",
+      "creator": "tejohnso",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Someone reported java4shell bug in September 2026",
+      "link": "https://github.com/openjdk/jdk/pull/32781",
+      "pubDate": "Thu, 19 Nov 2026 11:47:03 +0000",
+      "isoDate": "2026-11-19T11:47:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/openjdk/jdk/pull/32781\">https://github.com/openjdk/jdk/pull/32781</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50558906\">https://news.ycombinator.com/item?id=50558906</a></p>\n<p>Points: 458</p>\n<p># Comments: 131</p>\n",
+      "contentSnippet": "Article URL: https://github.com/openjdk/jdk/pull/32781\nComments URL: https://news.ycombinator.com/item?id=50558906\nPoints: 458\n# Comments: 131",
+      "creator": "notmine1337",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "link": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+      "pubDate": "Thu, 19 Nov 2026 10:58:29 +0000",
+      "isoDate": "2026-11-19T10:58:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/\">https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50558533\">https://news.ycombinator.com/item?id=50558533</a></p>\n<p>Points: 714</p>\n<p># Comments: 368</p>\n",
+      "contentSnippet": "Article URL: https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/\nComments URL: https://news.ycombinator.com/item?id=50558533\nPoints: 714\n# Comments: 368",
+      "creator": "liotier",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Do not buy RAM, compress",
+      "link": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
+      "pubDate": "Thu, 19 Nov 2026 08:56:47 +0000",
+      "isoDate": "2026-11-19T08:56:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://curiousbits.nl/blog/do-not-buy-ram-compress/\">https://curiousbits.nl/blog/do-not-buy-ram-compress/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50557661\">https://news.ycombinator.com/item?id=50557661</a></p>\n<p>Points: 331</p>\n<p># Comments: 267</p>\n",
+      "contentSnippet": "Article URL: https://curiousbits.nl/blog/do-not-buy-ram-compress/\nComments URL: https://news.ycombinator.com/item?id=50557661\nPoints: 331\n# Comments: 267",
+      "creator": "Ecno92",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "link": "https://kapteko.com/15-million-webservers/",
+      "pubDate": "Thu, 19 Nov 2026 05:56:36 +0000",
+      "isoDate": "2026-11-19T05:56:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://kapteko.com/15-million-webservers/\">https://kapteko.com/15-million-webservers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50556533\">https://news.ycombinator.com/item?id=50556533</a></p>\n<p>Points: 404</p>\n<p># Comments: 44</p>\n",
+      "contentSnippet": "Article URL: https://kapteko.com/15-million-webservers/\nComments URL: https://news.ycombinator.com/item?id=50556533\nPoints: 404\n# Comments: 44",
+      "creator": "fessguid",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "link": "https://verialabs.com/ruby2shell/",
+      "pubDate": "Thu, 19 Nov 2026 05:09:11 +0000",
+      "isoDate": "2026-11-19T05:09:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://verialabs.com/ruby2shell/\">https://verialabs.com/ruby2shell/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50556287\">https://news.ycombinator.com/item?id=50556287</a></p>\n<p>Points: 402</p>\n<p># Comments: 184</p>\n",
+      "contentSnippet": "Article URL: https://verialabs.com/ruby2shell/\nComments URL: https://news.ycombinator.com/item?id=50556287\nPoints: 402\n# Comments: 184",
+      "creator": "jdns",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-11-21T06:13:39.197Z"
+}
