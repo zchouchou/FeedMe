@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "pubDate": "Fri, 27 Nov 2026 23:06:29 +0000",
+      "isoDate": "2026-11-27T23:06:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://research.google/blog/supercharging-transformer-residual-connections/\">https://research.google/blog/supercharging-transformer-residual-connections/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50672565\">https://news.ycombinator.com/item?id=50672565</a></p>\n<p>Points: 286</p>\n<p># Comments: 106</p>\n",
+      "contentSnippet": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/\nComments URL: https://news.ycombinator.com/item?id=50672565\nPoints: 286\n# Comments: 106",
+      "creator": "ComputedCamp995",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "link": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "pubDate": "Fri, 27 Nov 2026 19:42:25 +0000",
+      "isoDate": "2026-11-27T19:42:25.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform\">https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50670855\">https://news.ycombinator.com/item?id=50670855</a></p>\n<p>Points: 346</p>\n<p># Comments: 196</p>\n",
+      "contentSnippet": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform\nComments URL: https://news.ycombinator.com/item?id=50670855\nPoints: 346\n# Comments: 196",
+      "creator": "DeepLogin",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Michael Nielsen took down his book on neural nets",
+      "link": "https://neuralnetworksanddeeplearning.com/",
+      "pubDate": "Fri, 27 Nov 2026 19:31:01 +0000",
+      "isoDate": "2026-11-27T19:31:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://neuralnetworksanddeeplearning.com/\">https://neuralnetworksanddeeplearning.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50670757\">https://news.ycombinator.com/item?id=50670757</a></p>\n<p>Points: 477</p>\n<p># Comments: 299</p>\n",
+      "contentSnippet": "Article URL: https://neuralnetworksanddeeplearning.com/\nComments URL: https://news.ycombinator.com/item?id=50670757\nPoints: 477\n# Comments: 299",
+      "creator": "brandonb",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "link": "https://github.com/convex/convex-backend-skill/issues/64",
+      "pubDate": "Fri, 27 Nov 2026 18:02:45 +0000",
+      "isoDate": "2026-11-27T18:02:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/convex/convex-backend-skill/issues/64\">https://github.com/convex/convex-backend-skill/issues/64</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50669765\">https://news.ycombinator.com/item?id=50669765</a></p>\n<p>Points: 271</p>\n<p># Comments: 88</p>\n",
+      "contentSnippet": "Article URL: https://github.com/convex/convex-backend-skill/issues/64\nComments URL: https://news.ycombinator.com/item?id=50669765\nPoints: 271\n# Comments: 88",
+      "creator": "MickyTheMouse",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "pubDate": "Fri, 27 Nov 2026 15:40:31 +0000",
+      "isoDate": "2026-11-27T15:40:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer\">https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50668145\">https://news.ycombinator.com/item?id=50668145</a></p>\n<p>Points: 486</p>\n<p># Comments: 255</p>\n",
+      "contentSnippet": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer\nComments URL: https://news.ycombinator.com/item?id=50668145\nPoints: 486\n# Comments: 255",
+      "creator": "scanr",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "link": "https://bouncemarket.minhanhday.com/",
+      "pubDate": "Fri, 27 Nov 2026 15:01:50 +0000",
+      "isoDate": "2026-11-27T15:01:50.000Z",
+      "content": "\n<p>a ball will fall. trade on where it lands.<p>I made this game! Some technical details:<p>The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome.<p>There's some AI traders to keep the market moving, but they drop out in any round that has more than five people. They operate using a naive set of rules that I wrote for them, so they're not too hard to beat -- it's when the market is full of real people that it gets tricky.<p>Curious to get feedback on anything you would change, and especially whether the mechanics were clear right away or not.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50667726\">https://news.ycombinator.com/item?id=50667726</a></p>\n<p>Points: 352</p>\n<p># Comments: 117</p>\n",
+      "contentSnippet": "a ball will fall. trade on where it lands.\nI made this game! Some technical details:\nThe entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome.\nThere's some AI traders to keep the market moving, but they drop out in any round that has more than five people. They operate using a naive set of rules that I wrote for them, so they're not too hard to beat -- it's when the market is full of real people that it gets tricky.\nCurious to get feedback on anything you would change, and especially whether the mechanics were clear right away or not.\nComments URL: https://news.ycombinator.com/item?id=50667726\nPoints: 352\n# Comments: 117",
+      "creator": "mday404",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "US Air Force's cloud computing platform hacked",
+      "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "pubDate": "Fri, 27 Nov 2026 12:54:11 +0000",
+      "isoDate": "2026-11-27T12:54:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163\">https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50666375\">https://news.ycombinator.com/item?id=50666375</a></p>\n<p>Points: 340</p>\n<p># Comments: 209</p>\n",
+      "contentSnippet": "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163\nComments URL: https://news.ycombinator.com/item?id=50666375\nPoints: 340\n# Comments: 209",
+      "creator": "freakynit",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Claude sabotaging ML research tasks?",
+      "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "pubDate": "Fri, 27 Nov 2026 08:28:08 +0000",
+      "isoDate": "2026-11-27T08:28:08.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/RealAstropulse/status/2126119408997466389\">https://twitter.com/RealAstropulse/status/2126119408997466389</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50664325\">https://news.ycombinator.com/item?id=50664325</a></p>\n<p>Points: 656</p>\n<p># Comments: 303</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389\nComments URL: https://news.ycombinator.com/item?id=50664325\nPoints: 656\n# Comments: 303",
+      "creator": "baobabKoodaa",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Group chat where your AI talks behind your back",
+      "link": "https://construct22.com/",
+      "pubDate": "Fri, 27 Nov 2026 06:44:34 +0000",
+      "isoDate": "2026-11-27T06:44:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://construct22.com/\">https://construct22.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50663595\">https://news.ycombinator.com/item?id=50663595</a></p>\n<p>Points: 698</p>\n<p># Comments: 288</p>\n",
+      "contentSnippet": "Article URL: https://construct22.com/\nComments URL: https://news.ycombinator.com/item?id=50663595\nPoints: 698\n# Comments: 288",
+      "creator": "utiiiD",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Buy Nothing Day – Friday November 27th 2026",
+      "link": "https://www.buynothingday.co.uk/",
+      "pubDate": "Fri, 27 Nov 2026 05:52:42 +0000",
+      "isoDate": "2026-11-27T05:52:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.buynothingday.co.uk/\">https://www.buynothingday.co.uk/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50663261\">https://news.ycombinator.com/item?id=50663261</a></p>\n<p>Points: 347</p>\n<p># Comments: 111</p>\n",
+      "contentSnippet": "Article URL: https://www.buynothingday.co.uk/\nComments URL: https://news.ycombinator.com/item?id=50663261\nPoints: 347\n# Comments: 111",
+      "creator": "f_allwein",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The need for a formally verifiable mainstream programming language",
+      "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "pubDate": "Fri, 27 Nov 2026 05:22:06 +0000",
+      "isoDate": "2026-11-27T05:22:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blainehansen.me/post/mainstream-verifiable-language/\">https://blainehansen.me/post/mainstream-verifiable-language/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50663089\">https://news.ycombinator.com/item?id=50663089</a></p>\n<p>Points: 322</p>\n<p># Comments: 303</p>\n",
+      "contentSnippet": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/\nComments URL: https://news.ycombinator.com/item?id=50663089\nPoints: 322\n# Comments: 303",
+      "creator": "todsacerdoti",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Hard Drive pricing has gotten bad",
+      "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "pubDate": "Fri, 27 Nov 2026 01:13:49 +0000",
+      "isoDate": "2026-11-27T01:13:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/\">https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50661646\">https://news.ycombinator.com/item?id=50661646</a></p>\n<p>Points: 561</p>\n<p># Comments: 480</p>\n",
+      "contentSnippet": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/\nComments URL: https://news.ycombinator.com/item?id=50661646\nPoints: 561\n# Comments: 480",
+      "creator": "zdw",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "AI made self-hosting fun again",
+      "link": "https://janlukas.blog/posts/ai-self-hosting",
+      "pubDate": "Thu, 26 Nov 2026 21:47:45 +0000",
+      "isoDate": "2026-11-26T21:47:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://janlukas.blog/posts/ai-self-hosting\">https://janlukas.blog/posts/ai-self-hosting</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50660180\">https://news.ycombinator.com/item?id=50660180</a></p>\n<p>Points: 1110</p>\n<p># Comments: 512</p>\n",
+      "contentSnippet": "Article URL: https://janlukas.blog/posts/ai-self-hosting\nComments URL: https://news.ycombinator.com/item?id=50660180\nPoints: 1110\n# Comments: 512",
+      "creator": "jlelse",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "pubDate": "Thu, 26 Nov 2026 21:08:05 +0000",
+      "isoDate": "2026-11-26T21:08:05.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/\">https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50659841\">https://news.ycombinator.com/item?id=50659841</a></p>\n<p>Points: 507</p>\n<p># Comments: 129</p>\n",
+      "contentSnippet": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/\nComments URL: https://news.ycombinator.com/item?id=50659841\nPoints: 507\n# Comments: 129",
+      "creator": "dverlaeckt80",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "pubDate": "Thu, 26 Nov 2026 20:49:49 +0000",
+      "isoDate": "2026-11-26T20:49:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lia.mg/posts/measuring-company-culture-with-slack-emoji/\">https://lia.mg/posts/measuring-company-culture-with-slack-emoji/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50659640\">https://news.ycombinator.com/item?id=50659640</a></p>\n<p>Points: 563</p>\n<p># Comments: 289</p>\n",
+      "contentSnippet": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/\nComments URL: https://news.ycombinator.com/item?id=50659640\nPoints: 563\n# Comments: 289",
+      "creator": "liamg",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Show HN: Fuck_data_brokers.py",
+      "link": "https://github.com/gary23w/f-ck_data_brokers",
+      "pubDate": "Thu, 26 Nov 2026 18:37:21 +0000",
+      "isoDate": "2026-11-26T18:37:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/gary23w/f-ck_data_brokers\">https://github.com/gary23w/f-ck_data_brokers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50658191\">https://news.ycombinator.com/item?id=50658191</a></p>\n<p>Points: 245</p>\n<p># Comments: 54</p>\n",
+      "contentSnippet": "Article URL: https://github.com/gary23w/f-ck_data_brokers\nComments URL: https://news.ycombinator.com/item?id=50658191\nPoints: 245\n# Comments: 54",
+      "creator": "gary23w",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "pubDate": "Thu, 26 Nov 2026 17:47:45 +0000",
+      "isoDate": "2026-11-26T17:47:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/\">https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657645\">https://news.ycombinator.com/item?id=50657645</a></p>\n<p>Points: 335</p>\n<p># Comments: 165</p>\n",
+      "contentSnippet": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/\nComments URL: https://news.ycombinator.com/item?id=50657645\nPoints: 335\n# Comments: 165",
+      "creator": "Bender",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "link": "https://github.com/antonpictures/youtube-punisher",
+      "pubDate": "Thu, 26 Nov 2026 17:36:47 +0000",
+      "isoDate": "2026-11-26T17:36:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/antonpictures/youtube-punisher\">https://github.com/antonpictures/youtube-punisher</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657530\">https://news.ycombinator.com/item?id=50657530</a></p>\n<p>Points: 541</p>\n<p># Comments: 674</p>\n",
+      "contentSnippet": "Article URL: https://github.com/antonpictures/youtube-punisher\nComments URL: https://news.ycombinator.com/item?id=50657530\nPoints: 541\n# Comments: 674",
+      "creator": "iantongeorge",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The Balatro Timeline",
+      "link": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "pubDate": "Thu, 26 Nov 2026 17:20:27 +0000",
+      "isoDate": "2026-11-26T17:20:27.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://localthunk.com/blog/balatro-timeline-3aarh\">https://localthunk.com/blog/balatro-timeline-3aarh</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657346\">https://news.ycombinator.com/item?id=50657346</a></p>\n<p>Points: 232</p>\n<p># Comments: 50</p>\n",
+      "contentSnippet": "Article URL: https://localthunk.com/blog/balatro-timeline-3aarh\nComments URL: https://news.ycombinator.com/item?id=50657346\nPoints: 232\n# Comments: 50",
+      "creator": "sheepscreek",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Tracking Diseases Cured by AI",
+      "link": "https://diseasescuredbyai.com/",
+      "pubDate": "Thu, 26 Nov 2026 17:16:41 +0000",
+      "isoDate": "2026-11-26T17:16:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://diseasescuredbyai.com/\">https://diseasescuredbyai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657307\">https://news.ycombinator.com/item?id=50657307</a></p>\n<p>Points: 321</p>\n<p># Comments: 195</p>\n",
+      "contentSnippet": "Article URL: https://diseasescuredbyai.com/\nComments URL: https://news.ycombinator.com/item?id=50657307\nPoints: 321\n# Comments: 195",
+      "creator": "spoofyroot",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "AMD-specific fork of llama.cpp",
+      "link": "https://devnull.land/amd-specific-llama-cpp",
+      "pubDate": "Thu, 26 Nov 2026 17:11:29 +0000",
+      "isoDate": "2026-11-26T17:11:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://devnull.land/amd-specific-llama-cpp\">https://devnull.land/amd-specific-llama-cpp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657265\">https://news.ycombinator.com/item?id=50657265</a></p>\n<p>Points: 441</p>\n<p># Comments: 107</p>\n",
+      "contentSnippet": "Article URL: https://devnull.land/amd-specific-llama-cpp\nComments URL: https://news.ycombinator.com/item?id=50657265\nPoints: 441\n# Comments: 107",
+      "creator": "julianlam",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Show HN: I wrote an entire Vim manual over 4 years",
+      "link": "http://themouseless.dev/vim/",
+      "pubDate": "Thu, 26 Nov 2026 14:44:22 +0000",
+      "isoDate": "2026-11-26T14:44:22.000Z",
+      "content": "\n<p>I'm glad to announce that I'm releasing my new book, Learning to Play Vim.<p>When I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this fantastic editor step by step, beginning with the foundations up to more advanced features. Of course at the time I did the vimtutor, but it was too dense for me to remember much from it. I also read the entire Vim manual (`:help manual`), but I didn't like it: it was too detailed in places (for example `02.8 Finding help` completely lost me for a while), and other features didn't get the treatment they deserved.<p>So I decided to write my own Vim manual. It took me more than 4 years and 2987 focused pomodoros (1244 hours) of work to finally get it done!<p>The result:<p>- 21 chapters showing the most important Vim features step by step.<p>- 170 exercises with solutions.<p>- Many real-life examples to show how Vim can be used and configured for your own needs.<p>- The related Vim's help pages to dig further into each feature.<p>Most configs are both written in Vimscript and Lua for Neovim users. This book explores the common features between Vim and Neovim, so don't expect anything about Neovim-specific features (like treesitter or LSP for example).<p>- The landing page: <a href=\"https://themouseless.dev/vim/\" rel=\"nofollow\">https://themouseless.dev/vim/</a><p>- A sample of the book with the entire table of contents and the first three chapters covering most of the basics: <a href=\"https://themouseless.dev/content/learning_to_play_vim_sample.pdf\" rel=\"nofollow\">https://themouseless.dev/content/learning_to_play_vim_sample...</a>.<p>I wrote this with my bare hands, no LLM involved to spoil the fun.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50655868\">https://news.ycombinator.com/item?id=50655868</a></p>\n<p>Points: 304</p>\n<p># Comments: 104</p>\n",
+      "contentSnippet": "I'm glad to announce that I'm releasing my new book, Learning to Play Vim.\nWhen I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this fantastic editor step by step, beginning with the foundations up to more advanced features. Of course at the time I did the vimtutor, but it was too dense for me to remember much from it. I also read the entire Vim manual (`:help manual`), but I didn't like it: it was too detailed in places (for example `02.8 Finding help` completely lost me for a while), and other features didn't get the treatment they deserved.\nSo I decided to write my own Vim manual. It took me more than 4 years and 2987 focused pomodoros (1244 hours) of work to finally get it done!\nThe result:\n- 21 chapters showing the most important Vim features step by step.\n- 170 exercises with solutions.\n- Many real-life examples to show how Vim can be used and configured for your own needs.\n- The related Vim's help pages to dig further into each feature.\nMost configs are both written in Vimscript and Lua for Neovim users. This book explores the common features between Vim and Neovim, so don't expect anything about Neovim-specific features (like treesitter or LSP for example).\n- The landing page: https://themouseless.dev/vim/\n- A sample of the book with the entire table of contents and the first three chapters covering most of the basics: https://themouseless.dev/content/learning_to_play_vim_sample....\nI wrote this with my bare hands, no LLM involved to spoil the fun.\nComments URL: https://news.ycombinator.com/item?id=50655868\nPoints: 304\n# Comments: 104",
+      "creator": "thanato0s",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Tell HN: Happy Thanksgiving",
+      "link": "https://news.ycombinator.com/item?id=50655664",
+      "pubDate": "Thu, 26 Nov 2026 14:26:54 +0000",
+      "isoDate": "2026-11-26T14:26:54.000Z",
+      "content": "\n<p>Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50655664\">https://news.ycombinator.com/item?id=50655664</a></p>\n<p>Points: 720</p>\n<p># Comments: 157</p>\n",
+      "contentSnippet": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway!\nComments URL: https://news.ycombinator.com/item?id=50655664\nPoints: 720\n# Comments: 157",
+      "creator": "ericmay",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
+      "link": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
+      "pubDate": "Thu, 26 Nov 2026 13:48:11 +0000",
+      "isoDate": "2026-11-26T13:48:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831\">https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50655278\">https://news.ycombinator.com/item?id=50655278</a></p>\n<p>Points: 288</p>\n<p># Comments: 154</p>\n",
+      "contentSnippet": "Article URL: https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831\nComments URL: https://news.ycombinator.com/item?id=50655278\nPoints: 288\n# Comments: 154",
+      "creator": "magoghm",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Nextcloud Office Desktop app",
+      "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "pubDate": "Thu, 26 Nov 2026 11:50:49 +0000",
+      "isoDate": "2026-11-26T11:50:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/\">https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50654289\">https://news.ycombinator.com/item?id=50654289</a></p>\n<p>Points: 453</p>\n<p># Comments: 237</p>\n",
+      "contentSnippet": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/\nComments URL: https://news.ycombinator.com/item?id=50654289\nPoints: 453\n# Comments: 237",
+      "creator": "e12e",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Intel One Mono font (2023)",
+      "link": "https://github.com/intel/intel-one-mono",
+      "pubDate": "Thu, 26 Nov 2026 10:11:01 +0000",
+      "isoDate": "2026-11-26T10:11:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/intel/intel-one-mono\">https://github.com/intel/intel-one-mono</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50653667\">https://news.ycombinator.com/item?id=50653667</a></p>\n<p>Points: 587</p>\n<p># Comments: 271</p>\n",
+      "contentSnippet": "Article URL: https://github.com/intel/intel-one-mono\nComments URL: https://news.ycombinator.com/item?id=50653667\nPoints: 587\n# Comments: 271",
+      "creator": "saikatsg",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "pubDate": "Thu, 26 Nov 2026 09:44:23 +0000",
+      "isoDate": "2026-11-26T09:44:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://techstackups.com/articles/google-workspace-ai-agents-mcp/\">https://techstackups.com/articles/google-workspace-ai-agents-mcp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50653477\">https://news.ycombinator.com/item?id=50653477</a></p>\n<p>Points: 420</p>\n<p># Comments: 333</p>\n",
+      "contentSnippet": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/\nComments URL: https://news.ycombinator.com/item?id=50653477\nPoints: 420\n# Comments: 333",
+      "creator": "ritzaco",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenAI may be in cost control mode",
+      "link": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "pubDate": "Thu, 26 Nov 2026 07:33:12 +0000",
+      "isoDate": "2026-11-26T07:33:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://micjm.com/blog/openai-is-in-cost-control-mode/\">https://micjm.com/blog/openai-is-in-cost-control-mode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50652527\">https://news.ycombinator.com/item?id=50652527</a></p>\n<p>Points: 356</p>\n<p># Comments: 357</p>\n",
+      "contentSnippet": "Article URL: https://micjm.com/blog/openai-is-in-cost-control-mode/\nComments URL: https://news.ycombinator.com/item?id=50652527\nPoints: 356\n# Comments: 357",
+      "creator": "seizethecheese",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Moat: OpenRouter replacement",
+      "link": "https://commandcode.ai/moat",
+      "pubDate": "Thu, 26 Nov 2026 06:32:48 +0000",
+      "isoDate": "2026-11-26T06:32:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://commandcode.ai/moat\">https://commandcode.ai/moat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50652184\">https://news.ycombinator.com/item?id=50652184</a></p>\n<p>Points: 323</p>\n<p># Comments: 161</p>\n",
+      "contentSnippet": "Article URL: https://commandcode.ai/moat\nComments URL: https://news.ycombinator.com/item?id=50652184\nPoints: 323\n# Comments: 161",
+      "creator": "amanverasia",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "An algebraic quantization of gravity from the null cone",
+      "link": "https://arxiv.org/abs/2611.34924",
+      "pubDate": "Thu, 26 Nov 2026 05:37:51 +0000",
+      "isoDate": "2026-11-26T05:37:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arxiv.org/abs/2611.34924\">https://arxiv.org/abs/2611.34924</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50651863\">https://news.ycombinator.com/item?id=50651863</a></p>\n<p>Points: 265</p>\n<p># Comments: 120</p>\n",
+      "contentSnippet": "Article URL: https://arxiv.org/abs/2611.34924\nComments URL: https://news.ycombinator.com/item?id=50651863\nPoints: 265\n# Comments: 120",
+      "creator": "hecmmm",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-11-28T06:57:08.228Z"
+}
